@@ -1,0 +1,6 @@
+@article{li2023pac,
+  title={PAC-NeRF: Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification},
+  author={Li, Xuan and Qiao, Yi-Ling and Chen, Peter Yichen and Jatavallabhula, Krishna Murthy and Lin, Ming and Jiang, Chenfanfu and Gan, Chuang},
+  journal={arXiv preprint arXiv:2303.05512},
+  year={2023}
+}
