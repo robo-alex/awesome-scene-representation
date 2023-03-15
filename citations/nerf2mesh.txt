@@ -1,0 +1,6 @@
+@article{tang2022nerf2mesh,
+  title={Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement},
+  author={Tang, Jiaxiang and Zhou, Hang and Chen, Xiaokang and Hu, Tianshu and Ding, Errui and Wang, Jingdong and Zeng, Gang},
+  journal={arXiv preprint arXiv:2303.02091},
+  year={2022}
+}

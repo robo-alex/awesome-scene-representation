@@ -1,0 +1,6 @@
+@article{zhang2022nerfusion,
+  author    = {Zhang, Xiaoshuai and Kundu, Abhijit and Funkhouser, Thomas and Guibas, Leonidas and Su, Hao and Genova, Kyle},
+  title     = {Nerflets: Local Radiance Fields for Efficient Structure-Aware 3D Scene Representation from 2D Supervision},
+  journal   = {CVPR},
+  year      = {2023},
+}
