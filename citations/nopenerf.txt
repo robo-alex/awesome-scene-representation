@@ -1,0 +1,6 @@
+@inproceedings{bian2022nopenerf,
+	author    = {Wenjing Bian and Zirui Wang and Kejie Li and Jiawang Bian and Victor Adrian Prisacariu},
+	title     = {NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior},
+	journal   = {CVPR},
+	year      = {2023}
+	}

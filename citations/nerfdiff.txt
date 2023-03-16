@@ -1,0 +1,8 @@
+@misc{gu2023nerfdiff,
+  title={NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion}, 
+  author={Jiatao Gu and Alex Trevithick and Kai-En Lin and Josh Susskind and Christian Theobalt and Lingjie Liu and Ravi Ramamoorthi},
+  year={2023},
+  eprint={2302.10109},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV}
+}
