@@ -12,3 +12,4 @@
 - [Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement](https://me.kiui.moe/nerf2mesh/), Tang et al., Arxiv 2023 | [github](https://github.com/ashawkey/nerf2mesh) | [bibtex](./citations/nerf2mesh.txt)
 - [NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior](https://nope-nerf.active.vision/), Bian et al., CVPR 2023 | [bibtex](./citations/nopenerf.txt)
 - [NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion](https://jiataogu.me/nerfdiff/), Gu et al., | [bibtex](./citations/nerfdiff.txt)
+- [Re-ReND: Real-time Rendering of NeRFs across Devices](https://arxiv.org/pdf/2303.08717.pdf), Rojas et al., Arxiv 2023
