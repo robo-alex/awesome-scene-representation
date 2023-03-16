@@ -1,0 +1,6 @@
+@article{yang2022freenerf,
+  author = {Jiawei Yang and Marco Pavone and Yue Wang},
+  title = {FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization},
+  joural = {Proceedings of the IEEE/CVF International Conference on Computer Vision (CVPR)},
+  year = {2023},
+}
