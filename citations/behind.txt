@@ -1,0 +1,6 @@
+@article{wimbauer2023behind,
+  title={Behind the Scenes: Density Fields for Single View Reconstruction},
+  author={Wimbauer, Felix and Yang, Nan and Rupprecht, Christian and Cremers, Daniel},
+  journal={Proceedings of the IEEE/CVF International Conference on Computer Vision (CVPR)},
+  year={2023}
+}

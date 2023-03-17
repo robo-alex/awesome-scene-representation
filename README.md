@@ -12,4 +12,8 @@
 - [Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement](https://me.kiui.moe/nerf2mesh/), Tang et al., Arxiv 2023 | [github](https://github.com/ashawkey/nerf2mesh) | [bibtex](./citations/nerf2mesh.txt)
 - [NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior](https://nope-nerf.active.vision/), Bian et al., CVPR 2023 | [bibtex](./citations/nopenerf.txt)
 - [NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion](https://jiataogu.me/nerfdiff/), Gu et al., | [bibtex](./citations/nerfdiff.txt)
+- [L2G-NeRF: Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields](https://rover-xingyu.github.io/L2G-NeRF/), Chen et al., | [github](https://github.com/rover-xingyu/L2G-NeRF) | [bibtex](./citations/l2gnerf.txt)
+- [Behind the Scenes: Density Fields for Single View Reconstruction](https://fwmb.github.io/bts/), Wimbauer et al., CVPR 2023 | [github](https://github.com/Brummi/BehindTheScenes) | [bibtex](./citations/behind.txt)
+- [NeRFshop: Interactive Editing of Neural Radiance Fields](https://repo-sam.inria.fr/fungraph/nerfshop/), Jambon et al., I3D 2023 | [github](https://github.com/graphdeco-inria/nerfshop) | [bibtex](./citations/nerfshop.txt)
+- [UV Volumes for Real-time Rendering of Editable Free-view Human Performance](https://fanegg.github.io/UV-Volumes/), Chen et al., | [github](https://github.com/fanegg/UV-Volumes) | [bibtex](./citations/uvvolumes.txt)
 - [Re-ReND: Real-time Rendering of NeRFs across Devices](https://arxiv.org/pdf/2303.08717.pdf), Rojas et al., Arxiv 2023

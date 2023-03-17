@@ -1,0 +1,10 @@
+@Article{NeRFshop23,
+  author      = {Jambon, Cl\'ement and Kerbl, Bernhard and Kopanas, Georgios and Diolatzis, Stavros and Leimk{\"u}hler, Thomas and Drettakis, George"},
+  title        = {NeRFshop: Interactive Editing of Neural Radiance Fields"},
+  journal      = {Proceedings of the ACM on Computer Graphics and Interactive Techniques},
+  number       = {1},
+  volume       = {6},
+  month        = {May},
+  year         = {2023},
+  url          = {https://repo-sam.inria.fr/fungraph/nerfshop/}
+}
