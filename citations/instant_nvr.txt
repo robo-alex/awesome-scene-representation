@@ -1,0 +1,6 @@
+@inproceedings{instant_nvr,
+    title={Learning Neural Volumetric Representations of Dynamic Humans in Minutes},
+    author={Chen Geng and Sida Peng and Zhen Xu and Hujun Bao and Xiaowei Zhou},
+    booktitle={CVPR},
+    year={2023}
+}

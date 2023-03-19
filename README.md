@@ -19,3 +19,4 @@
 - [NeRFshop: Interactive Editing of Neural Radiance Fields](https://repo-sam.inria.fr/fungraph/nerfshop/), Jambon et al., I3D 2023 | [github](https://github.com/graphdeco-inria/nerfshop) | [bibtex](./citations/nerfshop.txt)
 - [UV Volumes for Real-time Rendering of Editable Free-view Human Performance](https://fanegg.github.io/UV-Volumes/), Chen et al., | [github](https://github.com/fanegg/UV-Volumes) | [bibtex](./citations/uvvolumes.txt)
 - [Re-ReND: Real-time Rendering of NeRFs across Devices](https://arxiv.org/pdf/2303.08717.pdf), Rojas et al., Arxiv 2023
+- [Learning Neural Volumetric Representations of Dynamic Humans in Minutes](https://zju3dv.github.io/instant_nvr/), Geng et al., CVPR 2023 | [bibtex](./citations/instant_nvr.txt)
