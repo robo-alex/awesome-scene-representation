@@ -1,0 +1,8 @@
+@article{ge2023refneus,
+    title={{Ref-NeuS}: Ambiguity-Reduced Neural Implicit Surface Learning 
+		for Multi-View Reconstruction with Reflection},
+    author={Wenhang Ge and Tao Hu and Haoyu Zhao and
+            Shu Liu and Ying-Cong Chen},
+    journal={arXiv preprint arXiv:2303.10840},
+    year={2023}
+}
