@@ -8,6 +8,7 @@
 - [K-Planes: Explicit Radiance Fields in Space, Time, and Appearance](https://sarafridov.github.io/K-Planes/), Fridovich-Keil et al, Arxiv 2023 | [github](https://github.com/sarafridov/K-Planes) | [bibtex](./citations/kplanes.txt)
 - [HexPlane: A Fast Representation for Dynamic Scenes](https://caoang327.github.io/HexPlane/), Cao et al., Arxiv 2023 | [bibtex](./citations/hexplane.txt)
 - [NeRFMeshing: Distilling Neural Radiance Fields into Geometrically-Accurate 3D Meshes](https://arxiv.org/abs/2303.09431), Rakotosaona et al., Arxiv 2023 | [bibtex](./citations/nerfmeshing.txt)
+- [Zero-1-to-3: Zero-shot One Image to 3D Object](https://zero123.cs.columbia.edu/), Liu et al., Arxiv 2023 | [github](https://github.com/cvlab-columbia/zero123) | [bibtex](./citations/zero123.txt)
 - [FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization](https://jiawei-yang.github.io/FreeNeRF/), Yang et al., CVPR 2023 | [github](https://github.com/Jiawei-Yang/FreeNeRF) | [bibtex](./citations/freenerf.txt)
 - [NeuralLift-360: Lifting An In-the-wild 2D Photo to A 3D Object with 360° Views](https://vita-group.github.io/NeuralLift-360/), Xu et al., Arxiv 2023 | [github](https://github.com/VITA-Group/NeuralLift-360) | [bibtex](./citations/neuralLift.txt)
 - [Ref-NeuS: Ambiguity-Reduced Neural Implicit Surface Learning for Multi-View Reconstruction with Reflection](https://g3956.github.io/), Ge et al., Arxiv 2023 | [github](https://github.com/g3956/Ref-NeuS) | [bibtex](./citations/refneus.txt)
