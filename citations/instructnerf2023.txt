@@ -1,0 +1,6 @@
+@article{instructnerf2023,
+         author = {Haque, Ayaan and Tancik, Matthew and Efros, Alexei and Holynski, Aleksander and Kanazawa, Angjoo},
+         title = {Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions},
+         journal = {arXiv preprint arXiv:XXXXXX},
+         year = {2023},
+        } 
