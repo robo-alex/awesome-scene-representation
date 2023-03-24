@@ -1,0 +1,6 @@
+@article{ye2023featurenerf,
+  title={FeatureNeRF: Learning Generalizable NeRFs by Distilling Pre-trained Vision Foundation Models},
+  author={Ye, Jianglong and Wang, Naiyan and Wang, Xiaolong},
+  journal={arXiv preprint arXiv:2303.12786},
+  year={2023}
+}
