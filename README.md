@@ -16,7 +16,7 @@
 - [NeuralLift-360: Lifting An In-the-wild 2D Photo to A 3D Object with 360° Views](https://vita-group.github.io/NeuralLift-360/), Xu et al., Arxiv 2023 | [github](https://github.com/VITA-Group/NeuralLift-360) | [bibtex](./citations/neuralLift.txt)
 - [Ref-NeuS: Ambiguity-Reduced Neural Implicit Surface Learning for Multi-View Reconstruction with Reflection](https://g3956.github.io/), Ge et al., Arxiv 2023 | [github](https://github.com/g3956/Ref-NeuS) | [bibtex](./citations/refneus.txt)
 - [PAC-NeRF: Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification](https://sites.google.com/view/PAC-NeRF), Li et al., ICLR 2023 | [github](https://github.com/xuan-li/PAC-NeRF) | [bibtex](./citations/pacnerf.txt)
-- [FeatureNeRF: Learning Generalizable NeRFs by Distilling Foundation Models], Ye et al., Arxiv 2023 | [bibtex](./citations/featurenerf.txt)
+- [FeatureNeRF: Learning Generalizable NeRFs by Distilling Foundation Models](https://jianglongye.com/featurenerf/), Ye et al., Arxiv 2023 | [bibtex](./citations/featurenerf.txt)
 - [Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement](https://me.kiui.moe/nerf2mesh/), Tang et al., Arxiv 2023 | [github](https://github.com/ashawkey/nerf2mesh) | [bibtex](./citations/nerf2mesh.txt)
 - [NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior](https://nope-nerf.active.vision/), Bian et al., CVPR 2023 | [bibtex](./citations/nopenerf.txt)
 - [NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion](https://jiataogu.me/nerfdiff/), Gu et al., | [bibtex](./citations/nerfdiff.txt)
