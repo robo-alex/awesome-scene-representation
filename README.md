@@ -10,6 +10,7 @@
 - [SCADE: NeRFs from Space Carving with Ambiguity-Aware Depth Estimates](https://scade-spacecarving-nerfs.github.io/), Uy et al., CVPR 2023 | [bibtex](./citations/scade.txt)
 - [Set-the-Scene: Global-Local Training for Generating Controllable NeRF Scenes](https://danacohen95.github.io/Set-the-Scene/), Cohen-Bar et al., Arxiv 2023 | [github](https://github.com/DanaCohen95/Set-the-Scene) | [bibtex](./citations/setthescene.txt)
 - [Progressively Optimized Local Radiance Fields for Robust View Synthesis](https://localrf.github.io/), Meuleman et al., CVPR 2023 | [github](https://github.com/facebookresearch/localrf) | [bibtex](./citations/localrf.txt)
+- [Grid-guided Neural Radiance Fields for Large Urban Scenes](https://city-super.github.io/gridnerf/), Xu et al., CVPR 2023 | [bibtex](./citations/gridnerf.txt)
 - [K-Planes: Explicit Radiance Fields in Space, Time, and Appearance](https://sarafridov.github.io/K-Planes/), Fridovich-Keil et al, Arxiv 2023 | [github](https://github.com/sarafridov/K-Planes) | [bibtex](./citations/kplanes.txt)
 - [HexPlane: A Fast Representation for Dynamic Scenes](https://caoang327.github.io/HexPlane/), Cao et al., Arxiv 2023 | [bibtex](./citations/hexplane.txt)
 - [NeRFMeshing: Distilling Neural Radiance Fields into Geometrically-Accurate 3D Meshes](https://arxiv.org/abs/2303.09431), Rakotosaona et al., Arxiv 2023 | [bibtex](./citations/nerfmeshing.txt)
