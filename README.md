@@ -22,8 +22,11 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Ref-NeuS: Ambiguity-Reduced Neural Implicit Surface Learning for Multi-View Reconstruction with Reflection](https://g3956.github.io/), Ge et al., Arxiv 2023 | [github](https://github.com/g3956/Ref-NeuS) | [bibtex](./citations/refneus.txt)
 - [Seeing Through the Glass: Neural 3D Reconstruction of Object Inside a Transparent Container](https://arxiv.org/abs/2303.13805), Tong et al., CVPR 2023 | [github](https://github.com/hirotong/ReNeuS)
 - [PAC-NeRF: Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification](https://sites.google.com/view/PAC-NeRF), Li et al., ICLR 2023 | [github](https://github.com/xuan-li/PAC-NeRF) | [bibtex](./citations/pacnerf.txt)
+- [BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects](https://bundlesdf.github.io/), Wen et al., CVPR 2023
+- [ABLE-NeRF: Attention-Based Rendering with Learnable Embeddings for Neural Radiance Field](https://arxiv.org/abs/2303.13817), Tang et al., CVPR 2023
 - [FeatureNeRF: Learning Generalizable NeRFs by Distilling Foundation Models](https://jianglongye.com/featurenerf/), Ye et al., Arxiv 2023 | [bibtex](./citations/featurenerf.txt)
 - [WildLight: In-the-wild Inverse Rendering with a Flashlight](https://junxuan-li.github.io/wildlight-website/), Chen, et al., CVPR 2023 | [github](https://github.com/za-cheng/WildLight) | [bibtex](./citations/wildlight.txt)
+- [CompoNeRF: Text-guided Multi-object Compositional NeRF with Editable 3D Scene Layout](https://arxiv.org/abs/2303.13843), Lin et al., Arxiv 2023
 - [TEGLO: High Fidelity Canonical Texture Mapping from Single-View Images](https://teglo-nerf.github.io/), Vinod et al., Arxiv 2023 | [bibtex](./citations/teglo.txt)
 - [Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement](https://me.kiui.moe/nerf2mesh/), Tang et al., Arxiv 2023 | [github](https://github.com/ashawkey/nerf2mesh) | [bibtex](./citations/nerf2mesh.txt)
 - [NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior](https://nope-nerf.active.vision/), Bian et al., CVPR 2023 | [bibtex](./citations/nopenerf.txt)
