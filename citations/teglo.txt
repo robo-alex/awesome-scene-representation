@@ -1,0 +1,6 @@
+@article{vinod2023teglo,
+  title   = {TEGLO: High Fidelity Canonical Texture Mapping from Single-View Images},
+  author  = {Vishal Vinod and Tanmay Shah and Dmitry Lagun},
+  year    = {2023},
+  journal = {arXiv preprint arXiv: Arxiv-2303.13743}
+}
