@@ -1,0 +1,5 @@
+@article{cheng2023wildlight,
+  author    = {Cheng, Ziang and Li, Junxuan and and Li, Hongdong},
+  title     = {WildLight: In-the-wild Inverse Rendering with a Flashlight},
+  year      = {2023}
+}
