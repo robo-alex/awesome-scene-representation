@@ -1,0 +1,6 @@
+@inproceedings{uy-scade-cvpr23,
+      title = {SCADE: NeRFs from Space Carving with Ambiguity-Aware Depth Estimates},
+      author = {Mikaela Angelina Uy and Ricardo Martin-Brualla and Leonidas Guibas and Ke Li},
+      booktitle = {Conference on Computer Vision and Pattern Recognition (CVPR)},
+      year = {2023}
+  }

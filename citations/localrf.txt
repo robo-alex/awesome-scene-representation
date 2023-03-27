@@ -1,0 +1,6 @@
+@inproceedings{meuleman2023localrf,
+  author    = {Meuleman, Andreas and Liu, Yu-Lun and Gao, Chen and Huang, Jia-Bin and Kim, Changil and Kim, Min H. and Kopf, Johannes},
+  title     = {Progressively Optimized Local Radiance Fields for Robust View Synthesis},
+  booktitle = {CVPR},
+  year      = {2023},
+}
