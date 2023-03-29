@@ -25,6 +25,8 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects](https://bundlesdf.github.io/), Wen et al., CVPR 2023
 - [ABLE-NeRF: Attention-Based Rendering with Learnable Embeddings for Neural Radiance Field](https://arxiv.org/abs/2303.13817), Tang et al., CVPR 2023
 - [FeatureNeRF: Learning Generalizable NeRFs by Distilling Foundation Models](https://jianglongye.com/featurenerf/), Ye et al., Arxiv 2023 | [bibtex](./citations/featurenerf.txt)
+- [DBARF: Deep Bundle-Adjusting Generalizable Neural Radiance Fields](https://aibluefisher.github.io/dbarf/), Yu et al., CVPR 2023
+- [NeRF-DS: Neural Radiance Fields for Dynamic Specular Objects](https://arxiv.org/abs/2303.14435), Yang et al., CVPR 2023 | [bibtex](./citations/nerfds.txt)
 - [WildLight: In-the-wild Inverse Rendering with a Flashlight](https://junxuan-li.github.io/wildlight-website/), Chen, et al., CVPR 2023 | [github](https://github.com/za-cheng/WildLight) | [bibtex](./citations/wildlight.txt)
 - [CompoNeRF: Text-guided Multi-object Compositional NeRF with Editable 3D Scene Layout](https://arxiv.org/abs/2303.13843), Lin et al., Arxiv 2023
 - [TEGLO: High Fidelity Canonical Texture Mapping from Single-View Images](https://teglo-nerf.github.io/), Vinod et al., Arxiv 2023 | [bibtex](./citations/teglo.txt)
@@ -38,3 +40,4 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [UV Volumes for Real-time Rendering of Editable Free-view Human Performance](https://fanegg.github.io/UV-Volumes/), Chen et al., | [github](https://github.com/fanegg/UV-Volumes) | [bibtex](./citations/uvvolumes.txt)
 - [Re-ReND: Real-time Rendering of NeRFs across Devices](https://arxiv.org/pdf/2303.08717.pdf), Rojas et al., Arxiv 2023
 - [Learning Neural Volumetric Representations of Dynamic Humans in Minutes](https://zju3dv.github.io/instant_nvr/), Geng et al., CVPR 2023 | [bibtex](./citations/instant_nvr.txt)
+- [FlexNeRF: Photorealistic Free-viewpoint Rendering of Moving Humans from Sparse Views](https://flex-nerf.github.io/), Jayasundara et al., CVPR 2023 | [bibtex](./citations/flexnerf.txt)

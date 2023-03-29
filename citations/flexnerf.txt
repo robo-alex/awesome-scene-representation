@@ -1,0 +1,8 @@
+@misc{jayasundara2023flexnerf,
+      title={FlexNeRF: Photorealistic Free-viewpoint Rendering of Moving Humans from Sparse Views}, 
+      author={Vinoj Jayasundara and Amit Agrawal and Nicolas Heron and Abhinav Shrivastava and Larry S. Davis},
+      year={2023},
+      eprint={2303.14368},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
