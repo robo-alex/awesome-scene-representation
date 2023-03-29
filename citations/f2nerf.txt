@@ -1,0 +1,6 @@
+@article{wang2023f2nerf,
+  title={F2-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories},
+  author={Wang, Peng and Liu, Yuan and Chen, Zhaoxi and Liu, Lingjie and Liu, Ziwei and Komura, Taku and Theobalt, Christian and Wang, Wenping},
+  journal={CVPR},
+  year={2023}
+}

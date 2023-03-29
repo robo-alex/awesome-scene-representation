@@ -1,0 +1,6 @@
+@article{wang2023sparsenerf,
+    title={SparseNeRF: Distilling Depth Ranking for Few-shot Novel View Synthesis},
+    author={Guangcong and Zhaoxi Chen and Chen Change Loy and Ziwei Liu},
+    journal={Technical Report},
+    year={2023}}
+            
