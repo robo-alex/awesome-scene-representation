@@ -1,0 +1,6 @@
+@article{kamata2023instruct,
+title={Instruct 3D-to-3D: Text Instruction Guided 3D-to-3D conversion},
+author={Kamata, Hiromichi and Sakuma, Yuiko and Hayakawa, Akio and Ishii, Masato and Narihira, Takuya},
+journal={arXiv preprint arXiv:2303.15780},
+year={2023}
+}

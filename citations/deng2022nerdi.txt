@@ -1,0 +1,6 @@
+@article{deng2022nerdi,
+  title={NeRDi: Single-View NeRF Synthesis with Language-Guided Diffusion as General Image Priors},
+  author={Deng, Congyue and Jiang, Chiyu and Qi, Charles R and Yan, Xinchen and Zhou, Yin and Guibas, Leonidas and Anguelov, Dragomir and others},
+  journal={arXiv preprint arXiv:2212.03267},
+  year={2022}
+}
