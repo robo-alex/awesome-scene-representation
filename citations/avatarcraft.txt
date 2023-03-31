@@ -1,0 +1,8 @@
+@misc{jiang2023avatarcraft,
+      title={AvatarCraft: Transforming Text into Neural Human Avatars with Parameterized Shape and Pose Control},
+      author={Ruixiang Jiang and Can Wang and Jingbo Zhang and Menglei Chai and Mingming He and Dongdong Chen and Jing Liao},
+      year={2023},
+      eprint={2303.17606},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+      }

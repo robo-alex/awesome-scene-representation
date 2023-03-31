@@ -45,7 +45,9 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [L2G-NeRF: Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields](https://rover-xingyu.github.io/L2G-NeRF/), Chen et al., | [github](https://github.com/rover-xingyu/L2G-NeRF) | [bibtex](./citations/l2gnerf.txt)
 - [Behind the Scenes: Density Fields for Single View Reconstruction](https://fwmb.github.io/bts/), Wimbauer et al., CVPR 2023 | [github](https://github.com/Brummi/BehindTheScenes) | [bibtex](./citations/behind.txt)
 - [NeRFshop: Interactive Editing of Neural Radiance Fields](https://repo-sam.inria.fr/fungraph/nerfshop/), Jambon et al., I3D 2023 | [github](https://github.com/graphdeco-inria/nerfshop) | [bibtex](./citations/nerfshop.txt)
+- [AvatarCraft: Transforming Text into Neural Human Avatars with Parameterized Shape and Pose Control](https://avatar-craft.github.io/), Jiang et al., Arxiv 2023 | [github](https://github.com/songrise/avatarcraft) [bibtex](./citations/avatarcraft.txt)
 - [UV Volumes for Real-time Rendering of Editable Free-view Human Performance](https://fanegg.github.io/UV-Volumes/), Chen et al., | [github](https://github.com/fanegg/UV-Volumes) | [bibtex](./citations/uvvolumes.txt)
 - [Re-ReND: Real-time Rendering of NeRFs across Devices](https://arxiv.org/pdf/2303.08717.pdf), Rojas et al., Arxiv 2023
 - [Learning Neural Volumetric Representations of Dynamic Humans in Minutes](https://zju3dv.github.io/instant_nvr/), Geng et al., CVPR 2023 | [bibtex](./citations/instant_nvr.txt)
 - [FlexNeRF: Photorealistic Free-viewpoint Rendering of Moving Humans from Sparse Views](https://flex-nerf.github.io/), Jayasundara et al., CVPR 2023 | [bibtex](./citations/flexnerf.txt)
+- [Enhanced Stable View Synthesis](https://arxiv.org/abs/2303.17094), Jain et al., Arxiv 2023
