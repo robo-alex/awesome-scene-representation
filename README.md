@@ -20,6 +20,8 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Instruct 3D-to-3D: Text Instruction Guided 3D-to-3D conversion](https://sony.github.io/Instruct3Dto3D-doc/), Kamata et al., Arxiv 2023 | [bibtex](./citations/instruct3dto3d.txt)
 - [Point2Pix: Photo-Realistic Point Cloud Rendering via Neural Radiance Fields](https://arxiv.org/abs/2303.16482), Hu et al., Arxiv 2023
 - [Instant Neural Radiance Fields Stylization](https://arxiv.org/abs/2303.16884), Li et al., Arxiv 2023
+- [NeRF-Supervised Deep Stereo](https://nerfstereo.github.io/), Tosi et al., CVPR 2023 | [github](https://github.com/fabiotosi92/NeRF-Supervised-Deep-Stereo) | [bibtex](./citations/nerfstereo.txt)
+- [NeILF++: Inter-reflectable Light Fields for Geometry and Material Estimation](https://yoyo000.github.io/NeILF_pp/), Zhang et al., Arxiv 2023 | [bibtex](./citations/neilfpp.txt)
 - [SparseNeRF: Distilling Depth Ranking for Few-shot Novel View Synthesis](https://sparsenerf.github.io/), Wang et al., Arxiv 2023 | [github](https://github.com/Wanggcong/SparseNeRF) | [bibtex](./citations/sparsenerf.txt)
 - [NeRFMeshing: Distilling Neural Radiance Fields into Geometrically-Accurate 3D Meshes](https://arxiv.org/abs/2303.09431), Rakotosaona et al., Arxiv 2023 | [bibtex](./citations/nerfmeshing.txt)
 - [Zero-1-to-3: Zero-shot One Image to 3D Object](https://zero123.cs.columbia.edu/), Liu et al., Arxiv 2023 | [github](https://github.com/cvlab-columbia/zero123) | [bibtex](./citations/zero123.txt)
