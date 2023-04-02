@@ -1,0 +1,7 @@
+@inproceedings{rosu2023permutosdf,
+    title={PermutoSDF: Fast Multi-View Reconstruction with 
+            Implicit Surfaces using Permutohedral Lattices  },
+    author={Radu Alexandru Rosu and Sven Behnke},
+    booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    year={2023}
+}
