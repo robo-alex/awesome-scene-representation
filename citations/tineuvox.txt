@@ -1,0 +1,6 @@
+@inproceedings{TiNeuVox,
+  author = {Fang, Jiemin and Yi, Taoran and Wang, Xinggang and Xie, Lingxi and Zhang, Xiaopeng and Liu, Wenyu and Nie\ss{}ner, Matthias and Tian, Qi},
+  title = {Fast Dynamic Radiance Fields with Time-Aware Neural Voxels},
+  year = {2022},
+  booktitle = {SIGGRAPH Asia 2022 Conference Papers}
+}
