@@ -1,0 +1,8 @@
+ @misc{mai2023neural,
+title={Neural Microfacet Fields for Inverse Rendering},
+author={Alexander Mai and Dor Verbin and Falko Kuester and Sara Fridovich-Keil},
+year={2023},
+eprint={2303.17806},
+archivePrefix={arXiv},
+primaryClass={cs.CV}
+} 
