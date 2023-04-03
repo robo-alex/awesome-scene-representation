@@ -1,0 +1,6 @@
+@article{hq3davatar2023,
+title = {HQ3DAvatar: High Quality Controllable 3D Head Avatar},
+author = {Teotia, Kartik and B R, Mallikarjun and Pan, Xingang and Kim, Hyeongwoo and Garrido, Pablo and Elgharib, Mohamed and Theobalt, Christian},
+booktitle = {arXiv},
+year={2023}
+}

@@ -51,5 +51,6 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Re-ReND: Real-time Rendering of NeRFs across Devices](https://arxiv.org/pdf/2303.08717.pdf), Rojas et al., Arxiv 2023
 - [Learning Neural Volumetric Representations of Dynamic Humans in Minutes](https://zju3dv.github.io/instant_nvr/), Geng et al., CVPR 2023 | [bibtex](./citations/instant_nvr.txt)
 - [PermutoSDF: Fast Multi-View Reconstruction withImplicit Surfaces using Permutohedral Lattices](https://radualexandru.github.io/permuto_sdf/), Rosu et al., CVPR 2023 | [github](https://github.com/RaduAlexandru/permuto_sdf) | [bibtex](./citations/permutosdf.txt)
+- [HQ3DAvatar: High Quality Controllable 3D Head Avatar](https://vcai.mpi-inf.mpg.de/projects/HQ3DAvatar/), Teotia et al., Arxiv 2023 | [bibtex](./citations/hq3davatar.txt)
 - [FlexNeRF: Photorealistic Free-viewpoint Rendering of Moving Humans from Sparse Views](https://flex-nerf.github.io/), Jayasundara et al., CVPR 2023 | [bibtex](./citations/flexnerf.txt)
 - [Enhanced Stable View Synthesis](https://arxiv.org/abs/2303.17094), Jain et al., Arxiv 2023
