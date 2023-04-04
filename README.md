@@ -58,3 +58,4 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [HQ3DAvatar: High Quality Controllable 3D Head Avatar](https://vcai.mpi-inf.mpg.de/projects/HQ3DAvatar/), Teotia et al., Arxiv 2023 | [bibtex](./citations/hq3davatar.txt)
 - [FlexNeRF: Photorealistic Free-viewpoint Rendering of Moving Humans from Sparse Views](https://flex-nerf.github.io/), Jayasundara et al., CVPR 2023 | [bibtex](./citations/flexnerf.txt)
 - [Enhanced Stable View Synthesis](https://arxiv.org/abs/2303.17094), Jain et al., Arxiv 2023
+- [S-VolSDF: Sparse Multi-View Stereo Regularization of Neural Implicit Surfaces](https://hao-yu-wu.github.io/s-volsdf/), Wu et al., Arxiv 2023
