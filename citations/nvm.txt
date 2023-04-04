@@ -1,0 +1,8 @@
+@inproceedings{
+  yang2023neural,
+  title={Neural Volumetric Memory for Visual Locomotion Control},
+  author={Ruihan Yang and Ge Yang and Xiaolong Wang},
+  booktitle={Conference on Computer Vision and Pattern Recognition 2023},
+  year={2023},
+  url={https://openreview.net/forum?id=JYyWCcmwDS}
+}

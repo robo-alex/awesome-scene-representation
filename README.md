@@ -34,6 +34,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects](https://bundlesdf.github.io/), Wen et al., CVPR 2023
 - [ABLE-NeRF: Attention-Based Rendering with Learnable Embeddings for Neural Radiance Field](https://arxiv.org/abs/2303.13817), Tang et al., CVPR 2023
 - [FeatureNeRF: Learning Generalizable NeRFs by Distilling Foundation Models](https://jianglongye.com/featurenerf/), Ye et al., Arxiv 2023 | [bibtex](./citations/featurenerf.txt)
+- [Neural Volumetric Memory for Visual Locomotion Control](https://rchalyang.github.io/NVM/), Yang et al., CVPR 2023 | [bibtex](./citations/nvm.txt)
 - [DBARF: Deep Bundle-Adjusting Generalizable Neural Radiance Fields](https://aibluefisher.github.io/dbarf/), Yu et al., CVPR 2023
 - [NeRF-DS: Neural Radiance Fields for Dynamic Specular Objects](https://arxiv.org/abs/2303.14435), Yang et al., CVPR 2023 | [bibtex](./citations/nerfds.txt)
 - [WildLight: In-the-wild Inverse Rendering with a Flashlight](https://junxuan-li.github.io/wildlight-website/), Chen, et al., CVPR 2023 | [github](https://github.com/za-cheng/WildLight) | [bibtex](./citations/wildlight.txt)
