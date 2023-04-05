@@ -1,9 +1,0 @@
-    @misc{zhang2023neilf++,
-        title={NeILF++: Inter-reflectable Light Fields for Geometry and Material Estimation},
-        author={Zhang, Jingyang and Yao, Yao and Li, Shiwei and Liu, Jingbo and Fang, Tian and McKinnon,
-        David and Tsin, Yanghai and Quan, Long},
-        year={2023},
-        eprint={2303.17147},
-        archivePrefix={arXiv},
-        primaryClass={cs.CV}
-    }
