@@ -1,0 +1,6 @@
+@article{yu2023dylin,
+  title={DyLiN: Making Light Field Networks Dynamic},
+  author={Yu, Heng and Julin, Joel and Milacski, Zoltan A and Niinuma, Koichiro and Jeni, Laszlo A},
+  journal={arXiv preprint arXiv:2303.14243},
+  year={2023}
+}

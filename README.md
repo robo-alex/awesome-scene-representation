@@ -27,6 +27,8 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [NeRFMeshing: Distilling Neural Radiance Fields into Geometrically-Accurate 3D Meshes](https://arxiv.org/abs/2303.09431), Rakotosaona et al., Arxiv 2023 | [bibtex](./citations/nerfmeshing.txt)
 - [Zero-1-to-3: Zero-shot One Image to 3D Object](https://zero123.cs.columbia.edu/), Liu et al., Arxiv 2023 | [github](https://github.com/cvlab-columbia/zero123) | [bibtex](./citations/zero123.txt)
 - [FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization](https://jiawei-yang.github.io/FreeNeRF/), Yang et al., CVPR 2023 | [github](https://github.com/Jiawei-Yang/FreeNeRF) | [bibtex](./citations/freenerf.txt)
+- [Flow Supervision for Deformable NeRF](https://mightychaos.github.io/projects/fsdnerf/), Wang et al., Arxiv 2023
+- [DyLiN: Making Light Field Networks Dynamic](https://dylin2023.github.io/), Yu et al., CVPR 2023 | [github](https://github.com/Heng14/DyLiN) | [bibtex](./citations/dylin.txt)
 - [NeuralLift-360: Lifting An In-the-wild 2D Photo to A 3D Object with 360° Views](https://vita-group.github.io/NeuralLift-360/), Xu et al., Arxiv 2023 | [github](https://github.com/VITA-Group/NeuralLift-360) | [bibtex](./citations/neuralLift.txt)
 - [Ref-NeuS: Ambiguity-Reduced Neural Implicit Surface Learning for Multi-View Reconstruction with Reflection](https://g3956.github.io/), Ge et al., Arxiv 2023 | [github](https://github.com/g3956/Ref-NeuS) | [bibtex](./citations/refneus.txt)
 - [Seeing Through the Glass: Neural 3D Reconstruction of Object Inside a Transparent Container](https://arxiv.org/abs/2303.13805), Tong et al., CVPR 2023 | [github](https://github.com/hirotong/ReNeuS)
