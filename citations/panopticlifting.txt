@@ -1,0 +1,6 @@
+@misc{2212.09802,
+Author = {Yawar Siddiqui and Lorenzo Porzi and Samuel Rota Buló and Norman Müller and Matthias Nießner and Angela Dai and Peter Kontschieder},
+Title = {Panoptic Lifting for 3D Scene Understanding with Neural Fields},
+Year = {2022},
+Eprint = {arXiv:2212.09802},
+}
