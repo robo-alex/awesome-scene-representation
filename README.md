@@ -6,6 +6,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [LERF: Language Embedded Radiance Fields](https://www.lerf.io/), Kerr et al., Arxiv 2023 | [bibtex](./citations/lerf.txt)
 - [MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes](https://merf42.github.io/), Reiser et al., Arxiv 2023 | [bibtex](./citations/merf.txt)
 - [BakedSDF: Meshing Neural SDFs for Real-Time View Synthesis](https://bakedsdf.github.io/), Yariv et al., Arxiv 2023 | [bibtex](./citations/bakedsdf.txt)
+- [GeNVS: Generative Novel View Synthesis with 3D-Aware Diffusion Models](https://nvlabs.github.io/genvs/), Chan et al., Arxiv 2023 | [github](https://github.com/NVlabs/genvs)
 - [NeRDi: Single-View NeRF Synthesis with Language-Guided Diffusion as General Image Priors](https://arxiv.org/abs/2212.03267), Deng et al., CVPR 2023 | [bibtex](./citations/deng2022nerdi.txt)
 - [Nerflets: Local Radiance Fields for Efficient Structure-Aware 3D Scene Representation from 2D Supervision](https://jetd1.github.io/nerflets-web/), Zhang et al., CVPR 2023 | [bibtex](./citations/nerflets.txt)
 - [Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions](https://instruct-nerf2nerf.github.io/), Haque et al., Arxiv 2023 | [bibtex](./citations/instructnerf2023.txt)
