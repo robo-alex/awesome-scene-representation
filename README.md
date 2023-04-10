@@ -23,6 +23,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [SUDS: Scalable Urban Dynamic Scenes](https://haithemturki.com/suds/), Turki et al., CVPR 2023 | [github](https://github.com/hturki/suds) | [bibtex](./citations/suds.txt)
 - [LANe : Lighting-Aware Neural Fields for Compositional Scene Synthesis](https://lane-composition.github.io/), Krishnan et al., Arxiv 2023
 - [Neural Fields meet Explicit Geometric Representations for Inverse Rendering of Urban Scenes](https://nv-tlabs.github.io/fegr/), Wang et al., CVPR 2023 | [bibtext](./citations/fegr.txt)
+- [Lift3D: Synthesize 3D Training Data by Lifting 2D GAN to 3D Generative Radiance Field](https://len-li.github.io/lift3d-web/), Li et al., CVPR 2023 | [github](https://github.com/Len-Li/Lift3D) | [bibtex](./citations/lift3d.txt)
 - [Dynamic Point Fields](https://sergeyprokudin.github.io/dpf/), Prokudin et al., Arxiv 2023 | [bibtext](./citations/dpf.txt)
 - [Point2Pix: Photo-Realistic Point Cloud Rendering via Neural Radiance Fields](https://arxiv.org/abs/2303.16482), Hu et al., Arxiv 2023
 - [Instant Neural Radiance Fields Stylization](https://arxiv.org/abs/2303.16884), Li et al., Arxiv 2023

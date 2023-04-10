@@ -1,7 +1,6 @@
-
-                @article{prokudin2023dynamic,
-                  title={Dynamic Point Fields},
-                  author={Prokudin, Sergey and Ma, Qianli and Raafat, Maxime and Valentin, Julien and Tang, Siyu},
-                  journal={arXiv preprint arXiv:2304.02626},
-                  year={2023}
-                }
+@article{prokudin2023dynamic,
+  title={Dynamic Point Fields},
+  author={Prokudin, Sergey and Ma, Qianli and Raafat, Maxime and Valentin, Julien and Tang, Siyu},
+  journal={arXiv preprint arXiv:2304.02626},
+  year={2023}
+}
