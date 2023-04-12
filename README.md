@@ -36,6 +36,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization](https://jiawei-yang.github.io/FreeNeRF/), Yang et al., CVPR 2023 | [github](https://github.com/Jiawei-Yang/FreeNeRF) | [bibtex](./citations/freenerf.txt)
 - [HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling](https://hyperreel.github.io/), Attal et al., CVPR 2023 | [github](https://github.com/facebookresearch/hyperreel) | [bibtex](./citations/hyperreel.txt)
 - [Panoptic Lifting for 3D Scene Understanding with Neural Fields](https://nihalsid.github.io/panoptic-lifting/), Siddiqui et al., CVPR 2023 | [github](https://github.com/nihalsid/panoptic-lifting) | [bibtex](./citations/panopticlifting.txt)
+- [Instance Neural Radiance Field](https://arxiv.org/abs/2304.04395), Hu et al., Arxiv 2023
 - [Flow Supervision for Deformable NeRF](https://mightychaos.github.io/projects/fsdnerf/), Wang et al., Arxiv 2023
 - [DyLiN: Making Light Field Networks Dynamic](https://dylin2023.github.io/), Yu et al., CVPR 2023 | [github](https://github.com/Heng14/DyLiN) | [bibtex](./citations/dylin.txt)
 - [NeuralLift-360: Lifting An In-the-wild 2D Photo to A 3D Object with 360° Views](https://vita-group.github.io/NeuralLift-360/), Xu et al., Arxiv 2023 | [github](https://github.com/VITA-Group/NeuralLift-360) | [bibtex](./citations/neuralLift.txt)
@@ -56,6 +57,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion](https://jiataogu.me/nerfdiff/), Gu et al., | [bibtex](./citations/nerfdiff.txt)
 - [α Surf: Implicit Surface Reconstruction for Semi-Transparent and Thin Objects with Decoupled Geometry and Opacity](https://alphasurf.netlify.app/), Wu et al., Arxiv 2023
 - [L2G-NeRF: Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields](https://rover-xingyu.github.io/L2G-NeRF/), Chen et al., | [github](https://github.com/rover-xingyu/L2G-NeRF) | [bibtex](./citations/l2gnerf.txt)
+- [Evaluate Geometry of Radiance Field with Low-frequency Color Prior](https://arxiv.org/abs/2304.04351), Fang et al., Arxiv 2023 | [github](https://github.com/qihangGH/IMRC) | [bibtex](./citations/imrc.txt)
 - [VDN-NeRF: Resolving Shape-Radiance Ambiguity via View-Dependence Normalization](https://arxiv.org/abs/2303.17968), Zhu et al., Arxiv 2023
 - [Behind the Scenes: Density Fields for Single View Reconstruction](https://fwmb.github.io/bts/), Wimbauer et al., CVPR 2023 | [github](https://github.com/Brummi/BehindTheScenes) | [bibtex](./citations/behind.txt)
 - [NeRFshop: Interactive Editing of Neural Radiance Fields](https://repo-sam.inria.fr/fungraph/nerfshop/), Jambon et al., I3D 2023 | [github](https://github.com/graphdeco-inria/nerfshop) | [bibtex](./citations/nerfshop.txt)
@@ -67,6 +69,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Re-ReND: Real-time Rendering of NeRFs across Devices](https://arxiv.org/pdf/2303.08717.pdf), Rojas et al., Arxiv 2023
 - [Learning Neural Volumetric Representations of Dynamic Humans in Minutes](https://zju3dv.github.io/instant_nvr/), Geng et al., CVPR 2023 | [bibtex](./citations/instant_nvr.txt)
 - [PermutoSDF: Fast Multi-View Reconstruction withImplicit Surfaces using Permutohedral Lattices](https://radualexandru.github.io/permuto_sdf/), Rosu et al., CVPR 2023 | [github](https://github.com/RaduAlexandru/permuto_sdf) | [bibtex](./citations/permutosdf.txt)
+- [Point-SLAM: Dense Neural Point Cloud-based SLAM](https://arxiv.org/abs/2304.04278), Sandström et al., Arxiv 2023 | [github](https://github.com/tfy14esa/Point-SLAM)
 - [Decoupling Dynamic Monocular Videos for Dynamic View Synthesis](https://arxiv.org/pdf/2304.01716.pdf), You et al., Arxiv 2023
 - [Neural Field Convolutions by Repeated Differentiation](https://arxiv.org/abs/2304.01834), Nsampi et al., Arxiv 2023
 - [HQ3DAvatar: High Quality Controllable 3D Head Avatar](https://vcai.mpi-inf.mpg.de/projects/HQ3DAvatar/), Teotia et al., Arxiv 2023 | [bibtex](./citations/hq3davatar.txt)

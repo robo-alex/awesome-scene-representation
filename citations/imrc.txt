@@ -1,0 +1,8 @@
+@misc{fang2023evaluate,
+      title={Evaluate Geometry of Radiance Field with Low-frequency Color Prior}, 
+      author={{Qihang Fang and Yafei Song} and Keqiang Li and Li Shen and Huaiyu Wu and Gang Xiong and Liefeng Bo},
+      year={2023},
+      eprint={2304.04351},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
