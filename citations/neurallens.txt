@@ -1,0 +1,10 @@
+  @InProceedings{Xian_2023_CVPR,
+                                    author    = {Xian, Wenqi
+                                                and Bo{\v{z}}i{\v{c}}, Alja{\v{z}}
+                                                and Snavely, Noah
+                                                and Lassner, Christoph},
+                                    title     = {Neural Lens Modeling},
+                                    booktitle = {Proceedings of the IEEE/CVF Conference
+                                                on Computer Vision and Pattern Recognition (CVPR)},
+                                    year      = {2023},
+                                }
