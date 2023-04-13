@@ -1,0 +1,6 @@
+@inproceedings{zhou2023sparsefusion,
+  title={SparseFusion: Distilling View-conditioned Diffusion for 3D Reconstruction}, 
+  author={Zhizhuo Zhou and Shubham Tulsiani},
+  booktitle={CVPR},
+  year={2023}
+}
