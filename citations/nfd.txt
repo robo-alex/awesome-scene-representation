@@ -1,0 +1,6 @@
+@article{shue20223d,
+  title={3D Neural Field Generation using Triplane Diffusion},
+  author={Shue, J Ryan and Chan, Eric Ryan and Po, Ryan and Ankner, Zachary and Wu, Jiajun and Wetzstein, Gordon},
+  journal={arXiv preprint arXiv:2211.16677},
+  year={2022}
+}
