@@ -1,6 +1,6 @@
 @article{Cao2022FWD,
     author    = {Cao, Ang and Johnson, Justin},
     title     = {HexPlane: A Fast Representation for Dynamic Scenes},
-    journal   = {arXiv:2301.09632},
+    journal   = {CVPR},
     year      = {2023},
     }

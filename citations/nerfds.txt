@@ -1,0 +1,6 @@
+@article{yan2023nerf,
+  title={NeRF-DS: Neural Radiance Fields for Dynamic Specular Objects},
+  author={Yan, Zhiwen and Li, Chen and Lee, Gim Hee},
+  journal={arXiv preprint arXiv:2303.14435},
+  year={2023}
+}
