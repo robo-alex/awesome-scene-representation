@@ -1,0 +1,6 @@
+@article{guizilini2023delira,
+  title={DeLiRa: Self-Supervised Depth, Light, and Radiance Fields},
+  author={Guizilini, Vitor and Vasiljevic, Igor and Fang, Jiading and Ambrus, Rares and Zakharov, Sergey and Sitzmann, Vincent and Gaidon, Adrien},
+  journal={arXiv preprint arXiv:2304.02797},
+  year={2023}
+}

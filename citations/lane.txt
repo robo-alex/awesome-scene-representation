@@ -1,0 +1,6 @@
+@article{krishnan2023lane,
+  title={LANe: Lighting-Aware Neural Fields for Compositional Scene Synthesis},
+  author={Krishnan, Akshay and Raj, Amit and Zhang, Xianling and Carlson, Alexandra and Tseng, Nathan and Sridhar, Sandhya and Jaipuria, Nikita and Hays, James},
+  journal={arXiv preprint arXiv:2304.03280},
+  year={2023}
+}

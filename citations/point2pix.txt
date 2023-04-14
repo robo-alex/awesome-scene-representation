@@ -1,0 +1,6 @@
+@article{hu2023point2pix,
+  title={Point2Pix: Photo-Realistic Point Cloud Rendering via Neural Radiance Fields},
+  author={Hu, Tao and Xu, Xiaogang and Liu, Shu and Jia, Jiaya},
+  journal={arXiv preprint arXiv:2303.16482},
+  year={2023}
+}
