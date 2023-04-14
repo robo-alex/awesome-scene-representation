@@ -1,0 +1,6 @@
+@inproceedings{chan2023genvs,
+            author = {Eric R. Chan and Koki Nagano and Matthew A. Chan and Alexander W. Bergman and Jeong Joon Park and Axel Levy and Miika Aittala and Shalini De Mello and Tero Karras and Gordon Wetzstein},
+            title = {{GeNVS}: Generative Novel View Synthesis with {3D}-Aware Diffusion Models},
+            booktitle = {arXiv},
+            year = {2023}
+          }

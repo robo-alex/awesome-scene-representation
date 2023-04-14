@@ -1,0 +1,6 @@
+@article{lin2023componerf,
+  title={CompoNeRF: Text-guided Multi-object Compositional NeRF with Editable 3D Scene Layout},
+  author={Lin, Yiqi and Bai, Haotian and Li, Sijia and Lu, Haonan and Lin, Xiaodong and Xiong, Hui and Wang, Lin},
+  journal={arXiv preprint arXiv:2303.13843},
+  year={2023}
+}

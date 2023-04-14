@@ -1,0 +1,6 @@
+@article{sandstrom2023point,
+  title={Point-SLAM: Dense Neural Point Cloud-based SLAM},
+  author={Sandstr{\"o}m, Erik and Li, Yue and Van Gool, Luc and Oswald, Martin R},
+  journal={arXiv preprint arXiv:2304.04278},
+  year={2023}
+}

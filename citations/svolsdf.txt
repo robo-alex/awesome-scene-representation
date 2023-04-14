@@ -1,0 +1,6 @@
+@article{wu2023s,
+  title={S-VolSDF: Sparse Multi-View Stereo Regularization of Neural Implicit Surfaces},
+  author={Wu, Haoyu and Graikos, Alexandros and Samaras, Dimitris},
+  journal={arXiv preprint arXiv:2303.17712},
+  year={2023}
+}

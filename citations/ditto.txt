@@ -1,0 +1,6 @@
+@article{seo2023ditto,
+  title={DITTO-NeRF: Diffusion-based Iterative Text To Omni-directional 3D Model},
+  author={Seo, Hoigi and Kim, Hayeon and Kim, Gwanghyun and Chun, Se Young},
+  journal={arXiv preprint arXiv:2304.02827},
+  year={2023}
+}
