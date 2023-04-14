@@ -1,0 +1,7 @@
+@article{barron2023zipnerf,
+    title={Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields},
+    author={Jonathan T. Barron and Ben Mildenhall and 
+            Dor Verbin and Pratul P. Srinivasan and Peter Hedman},
+    journal={arXiv},
+    year={2023}
+}
