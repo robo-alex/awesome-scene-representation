@@ -1,0 +1,6 @@
+@article{zhou2023nerf,
+  title={NeRF in the Palm of Your Hand: Corrective Augmentation for Robotics via Novel-View Synthesis},
+  author={Zhou, Allan and Kim, Moo Jin and Wang, Lirui and Florence, Pete and Finn, Chelsea},
+  journal={arXiv preprint arXiv:2301.08556},
+  year={2023}
+}

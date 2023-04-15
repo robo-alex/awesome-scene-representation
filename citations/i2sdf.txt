@@ -1,0 +1,6 @@
+@inproceedings{zhu2023i2sdf,
+    title = {I$^2$-SDF: Intrinsic Indoor Scene Reconstruction and Editing via Raytracing in Neural SDFs},
+    author = {Jingsen Zhu and Yuchi Huo and Qi Ye and Fujun Luan and Jifan Li and Dianbing Xi and Lisha Wang and Rui Tang and Wei Hua and Hujun Bao and Rui Wang},
+    booktitle = {CVPR},
+    year = {2023}
+}

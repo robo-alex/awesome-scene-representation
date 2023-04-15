@@ -7,6 +7,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes](https://merf42.github.io/), Reiser et al., Arxiv 2023 | [github-unofficial](https://github.com/ashawkey/torch-merf) | [bibtex](./citations/merf.txt)
 - [BakedSDF: Meshing Neural SDFs for Real-Time View Synthesis](https://bakedsdf.github.io/), Yariv et al., Arxiv 2023 | [bibtex](./citations/bakedsdf.txt)
 - [Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields](https://jonbarron.info/zipnerf/), Barron et al., Arxiv 2023 | [bibtex](./citations/zipnerf.txt)
+- [NeRF in the Palm of Your Hand: Corrective Augmentation for Robotics via Novel-View Synthesis](https://bland.website/spartn/), Zhou et al., CVPR 2023 | [bibtex](./citations/spartn.txt)
 - [GeNVS: Generative Novel View Synthesis with 3D-Aware Diffusion Models](https://nvlabs.github.io/genvs/), Chan et al., Arxiv 2023 | [github](https://github.com/NVlabs/genvs) | [bibtex](./citations/genvs.txt)
 - [NeRDi: Single-View NeRF Synthesis with Language-Guided Diffusion as General Image Priors](https://arxiv.org/abs/2212.03267), Deng et al., CVPR 2023 | [bibtex](./citations/deng2022nerdi.txt)
 - [Nerflets: Local Radiance Fields for Efficient Structure-Aware 3D Scene Representation from 2D Supervision](https://jetd1.github.io/nerflets-web/), Zhang et al., CVPR 2023 | [bibtex](./citations/nerflets.txt)
@@ -67,6 +68,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [NeRFshop: Interactive Editing of Neural Radiance Fields](https://repo-sam.inria.fr/fungraph/nerfshop/), Jambon et al., I3D 2023 | [github](https://github.com/graphdeco-inria/nerfshop) | [bibtex](./citations/nerfshop.txt)
 - [DITTO-NeRF: Diffusion-based Iterative Text To Omni-directional 3D Model](https://janeyeon.github.io/ditto-nerf/), Seo et al., Arxiv 2023 | [github](https://github.com/janeyeon/ditto-nerf-code) | [bibtex](./citations/ditto.txt)
 - [Neural Microfacet Fields for Inverse Rendering](https://half-potato.gitlab.io/posts/nmf/), Mai et al., Arxiv 2023 | [github](https://github.com/half-potato/nmf) | [bibtex](./citations/nmf.txt)
+- [I2-SDF: Intrinsic Indoor Scene Reconstruction and Editing via Raytracing in Neural SDFs](https://jingsenzhu.github.io/i2-sdf/), Zhu et al., CVPR 2023 | [github](https://github.com/jingsenzhu/i2-sdf) | [bibtex](./citations/i2sdf.txt)
 - [TiNeuVox: Fast Dynamic Radiance Fields with Time-Aware Neural Voxels](https://jaminfong.cn/tineuvox/), Fang et al., SIGGRAPH Asia 2022 | [github](https://github.com/hustvl/TiNeuVox) | [bibtex](./citations/tineuvox.txt)
 - [AvatarCraft: Transforming Text into Neural Human Avatars with Parameterized Shape and Pose Control](https://avatar-craft.github.io/), Jiang et al., Arxiv 2023 | [github](https://github.com/songrise/avatarcraft) | [bibtex](./citations/avatarcraft.txt)
 - [MRVM-NeRF: Mask-Based Pretraining for Neural Radiance Field](https://arxiv.org/pdf/2304.04962.pdf), Yang et al., Arxiv 2023
