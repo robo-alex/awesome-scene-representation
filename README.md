@@ -52,6 +52,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [ABLE-NeRF: Attention-Based Rendering with Learnable Embeddings for Neural Radiance Field](https://arxiv.org/abs/2303.13817), Tang et al., CVPR 2023
 - [FeatureNeRF: Learning Generalizable NeRFs by Distilling Foundation Models](https://jianglongye.com/featurenerf/), Ye et al., Arxiv 2023 | [bibtex](./citations/featurenerf.txt)
 - [Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction](https://lakonik.github.io/ssdnerf/), Chen et al., Arxiv 2023 | [github](https://github.com/Lakonik/SSDNeRF) | [bibtex](./citations/ssdnerf.txt)
+- [Learning to Render Novel Views from Wide-Baseline Stereo Pairs](https://yilundu.github.io/wide_baseline/), Du et al., CVPR 2023 | [github](https://yilundu.github.io/wide_baseline/) | [bibtex](./citations/widerender.txt)
 - [Neural Volumetric Memory for Visual Locomotion Control](https://rchalyang.github.io/NVM/), Yang et al., CVPR 2023 | [bibtex](./citations/nvm.txt)
 - [DBARF: Deep Bundle-Adjusting Generalizable Neural Radiance Fields](https://aibluefisher.github.io/dbarf/), Yu et al., CVPR 2023
 - [NeRF-DS: Neural Radiance Fields for Dynamic Specular Objects](https://arxiv.org/abs/2303.14435), Yang et al., CVPR 2023 | [github](https://github.com/JokerYan/NeRF-DS) | [bibtex](./citations/nerfds.txt)
