@@ -85,3 +85,4 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [FlexNeRF: Photorealistic Free-viewpoint Rendering of Moving Humans from Sparse Views](https://flex-nerf.github.io/), Jayasundara et al., CVPR 2023 | [bibtex](./citations/flexnerf.txt)
 - [Enhanced Stable View Synthesis](https://arxiv.org/abs/2303.17094), Jain et al., CVPR 2023
 - [S-VolSDF: Sparse Multi-View Stereo Regularization of Neural Implicit Surfaces](https://hao-yu-wu.github.io/s-volsdf/), Wu et al., Arxiv 2023 | [bibtex](./citations/svolsdf.txt)
+- [SurfelNeRF: Neural Surfel Radiance Fields for Online Photorealistic Reconstruction of Indoor Scenes](https://gymat.github.io/SurfelNeRF-web/), Gao et al., CVPR 2023 | [bibtex](./citations/surfelnerf.txt)
