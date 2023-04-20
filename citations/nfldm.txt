@@ -1,0 +1,8 @@
+@inproceedings{kim2023nfldm,
+  title={NeuralField-LDM: Scene Generation with Hierarchical Latent Diffusion Models},
+  author={Kim, Seung Wook and Brown, Bradley and Yin, Kangxue and Kreis, Karsten and
+      Schwarz, Katja and Li, Daiqing and Rombach, Robin and Torralba, Antonio and Fidler, Sanja},
+  booktitle={IEEE Conference on Computer Vision and Pattern Recognition ({CVPR})},
+  year={2023}
+}
+    
