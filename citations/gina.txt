@@ -1,0 +1,6 @@
+@article{shen2023gina,
+  title={GINA-3D: Learning to Generate Implicit Neural Assets in the Wild},
+  author={Shen, Bokui and Yan, Xinchen and Qi, Charles R and Najibi, Mahyar and Deng, Boyang and Guibas, Leonidas and Zhou, Yin and Anguelov, Dragomir},
+  journal={arXiv preprint arXiv:2304.02163},
+  year={2023}
+}
