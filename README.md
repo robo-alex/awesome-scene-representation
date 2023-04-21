@@ -27,13 +27,16 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Instruct 3D-to-3D: Text Instruction Guided 3D-to-3D conversion](https://sony.github.io/Instruct3Dto3D-doc/), Kamata et al., Arxiv 2023 | [bibtex](./citations/instruct3dto3d.txt)
 - [SUDS: Scalable Urban Dynamic Scenes](https://haithemturki.com/suds/), Turki et al., CVPR 2023 | [github](https://github.com/hturki/suds) | [bibtex](./citations/suds.txt)
 - [NeuralField-LDM: Scene Generation with Hierarchical Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/NFLDM/), Kim et al., CVPR 2023 | [bibtex](./citations/nfldm.txt)
+- [AligNeRF: High-Fidelity Neural Radiance Fields via Alignment-Aware Training](https://yifanjiang19.github.io/alignerf), Jiang et al., CVPR 2023 | [bibtex](./citations/alignerf.txt)
 - [LANe : Lighting-Aware Neural Fields for Compositional Scene Synthesis](https://lane-composition.github.io/), Krishnan et al., Arxiv 2023 | [bibtex](./citations/lane.txt)
 - [Neural Fields meet Explicit Geometric Representations for Inverse Rendering of Urban Scenes](https://nv-tlabs.github.io/fegr/), Wang et al., CVPR 2023 | [bibtex](./citations/fegr.txt)
 - [Lift3D: Synthesize 3D Training Data by Lifting 2D GAN to 3D Generative Radiance Field](https://len-li.github.io/lift3d-web/), Li et al., CVPR 2023 | [github](https://github.com/Len-Li/Lift3D) | [bibtex](./citations/lift3d.txt)
+- [ReLight My NeRF: A Dataset for Novel View Synthesis and Relighting of Real World Objects](https://eyecan-ai.github.io/rene/), Toschi et al., CVPR 2023
  -[3D Neural Field Generation using Triplane Diffusion](https://jryanshue.com/nfd/), Shue et al., CVPR 2023 | [github](https://github.com/JRyanShue/NFD) | [bibtex](./citations/nfd.txt)
 - [Dynamic Point Fields](https://sergeyprokudin.github.io/dpf/), Prokudin et al., Arxiv 2023 | [bibtex](./citations/dpf.txt)
 - [SparseFusion: Distilling View-conditioned Diffusion for 3D Reconstruction](https://sparsefusion.github.io/), Zhou et al., CVPR 2023 | [github](https://github.com/zhizdev/sparsefusion) | [bibtex](./citations/sparsefusion.txt)
 - [Point2Pix: Photo-Realistic Point Cloud Rendering via Neural Radiance Fields](https://arxiv.org/abs/2303.16482), Hu et al., Arxiv 2023 | [bibtex](./citations/point2pix.txt)
+- [Multiview Compressive Coding for 3D Reconstruction](https://mcc3d.github.io/), Wu et al., CVPR 2023 | [github](https://github.com/facebookresearch/MCC) | [bibtex](./citations/mcc.txt)
 - [Instant Neural Radiance Fields Stylization](https://arxiv.org/abs/2303.16884), Li et al., Arxiv 2023
 - [NeRF-Supervised Deep Stereo](https://nerfstereo.github.io/), Tosi et al., CVPR 2023 | [github](https://github.com/fabiotosi92/NeRF-Supervised-Deep-Stereo) | [bibtex](./citations/nerfstereo.txt)
 - [NeILF++: Inter-reflectable Light Fields for Geometry and Material Estimation](https://yoyo000.github.io/NeILF_pp/), Zhang et al., Arxiv 2023 | [bibtex](./citations/neilfpp.txt)
@@ -42,6 +45,8 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion](https://3d-avatar-diffusion.microsoft.com/), Wang et al., CVPR 2023 | [bibtex](./citations/rodin.txt)
 - [Zero-1-to-3: Zero-shot One Image to 3D Object](https://zero123.cs.columbia.edu/), Liu et al., Arxiv 2023 | [github](https://github.com/cvlab-columbia/zero123) | [bibtex](./citations/zero123.txt)
 - [FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization](https://jiawei-yang.github.io/FreeNeRF/), Yang et al., CVPR 2023 | [github](https://github.com/Jiawei-Yang/FreeNeRF) | [bibtex](./citations/freenerf.txt)
+- [SPIn-NeRF: Multiview Segmentation and Perceptual Inpainting with Neural Radiance Fields](https://spinnerf3d.github.io/), Mirzaei et al., CVPR 2023 | [github](https://github.com/SamsungLabs/SPIn-NeRF) | [bibtex](./citations/spinnerf.txt)
+- [Neural Radiance Fields: Past, Present, and Future](https://arxiv.org/abs/2304.10050), Mittal, Arxiv 2023
 - [HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling](https://hyperreel.github.io/), Attal et al., CVPR 2023 | [github](https://github.com/facebookresearch/hyperreel) | [bibtex](./citations/hyperreel.txt)
 - [Panoptic Lifting for 3D Scene Understanding with Neural Fields](https://nihalsid.github.io/panoptic-lifting/), Siddiqui et al., CVPR 2023 | [github](https://github.com/nihalsid/panoptic-lifting) | [bibtex](./citations/panopticlifting.txt)
 - [Instance Neural Radiance Field](https://arxiv.org/abs/2304.04395), Hu et al., Arxiv 2023
@@ -91,4 +96,5 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [S-VolSDF: Sparse Multi-View Stereo Regularization of Neural Implicit Surfaces](https://hao-yu-wu.github.io/s-volsdf/), Wu et al., Arxiv 2023 | [bibtex](./citations/svolsdf.txt)
 - [SurfelNeRF: Neural Surfel Radiance Fields for Online Photorealistic Reconstruction of Indoor Scenes](https://gymat.github.io/SurfelNeRF-web/), Gao et al., CVPR 2023 | [bibtex](./citations/surfelnerf.txt)
 - [Learning Neural Duplex Radiance Fields for Real-Time View Synthesis](http://raywzy.com/NDRF/), Wan et al., CVPR 2023 | [bibtex](./citations/ndrf.txt)
-- [Tetra-NeRF: Representing Neural Radiance Fields Using Tetrahedra](https://jkulhanek.com/tetra-nerf/), Kulhánek et al., Arxiv 2023 | [bibtex](./citations/tetra.txt)
+- [Tetra-NeRF: Representing Neural Radiance Fields Using Tetrahedra](https://jkulhanek.com/tetra-nerf/), Kulhánek et al., Arxiv 2023 | [github](https://github.com/jkulhanek/tetra-nerf/) | [bibtex](./citations/tetra.txt)
+- [Multiscale Representation for Real-Time Anti-Aliasing Neural Rendering](https://arxiv.org/pdf/2304.10075.pdf), Hu et al., Arxiv 2023

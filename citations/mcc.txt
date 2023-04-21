@@ -1,0 +1,6 @@
+@article{wu2023multiview,
+  author    = {Wu, Chao-Yuan and Johnson, Justin and Malik, Jitendra and Feichtenhofer, Christoph and Gkioxari, Georgia},
+  title     = {Multiview Compressive Coding for 3{D} Reconstruction},
+  journal   = {arXiv:2301.08247},
+  year      = {2023},
+}
