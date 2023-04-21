@@ -4,6 +4,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 
 - [Nerfstudio: A Modular Framework for Neural Radiance Field Development](https://docs.nerf.studio/en/latest/), Tancik et al., Arxiv 2023 | [github](https://github.com/nerfstudio-project/nerfstudio/) | [bibtex](./citations/nerfstudio.txt)
 - [LERF: Language Embedded Radiance Fields](https://www.lerf.io/), Kerr et al., Arxiv 2023 | [github](https://github.com/kerrj/lerf) | [bibtex](./citations/lerf.txt)
+- [Nerfbusters: Removing Ghostly Artifacts from Casually Captured NeRFs](https://ethanweber.me/nerfbusters/), Warburg et al., Arxiv 2023 | [github](https://github.com/ethanweber/nerfbusters) | [bibtex](./citations/nerfbusters.txt)
 - [MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes](https://merf42.github.io/), Reiser et al., Arxiv 2023 | [github-unofficial](https://github.com/ashawkey/torch-merf) | [bibtex](./citations/merf.txt)
 - [BakedSDF: Meshing Neural SDFs for Real-Time View Synthesis](https://bakedsdf.github.io/), Yariv et al., Arxiv 2023 | [bibtex](./citations/bakedsdf.txt)
 - [Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields](https://jonbarron.info/zipnerf/), Barron et al., Arxiv 2023 | [bibtex](./citations/zipnerf.txt)
@@ -65,7 +66,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior](https://nope-nerf.active.vision/), Bian et al., CVPR 2023 | [github](https://github.com/ActiveVisionLab/nope-nerf) | [bibtex](./citations/nopenerf.txt)
 - [NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion](https://jiataogu.me/nerfdiff/), Gu et al., | [bibtex](./citations/nerfdiff.txt)
 - [α Surf: Implicit Surface Reconstruction for Semi-Transparent and Thin Objects with Decoupled Geometry and Opacity](https://alphasurf.netlify.app/), Wu et al., Arxiv 2023
-- [L2G-NeRF: Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields](https://rover-xingyu.github.io/L2G-NeRF/), Chen et al., | [github](https://github.com/rover-xingyu/L2G-NeRF) | [bibtex](./citations/l2gnerf.txt)
+- [L2G-NeRF: Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields](https://rover-xingyu.github.io/L2G-NeRF/), Chen et al., CVPR 2023 | [github](https://github.com/rover-xingyu/L2G-NeRF) | [bibtex](./citations/l2gnerf.txt)
 - [Evaluate Geometry of Radiance Field with Low-frequency Color Prior](https://arxiv.org/abs/2304.04351), Fang et al., Arxiv 2023 | [github](https://github.com/qihangGH/IMRC) | [bibtex](./citations/imrc.txt)
 - [VDN-NeRF: Resolving Shape-Radiance Ambiguity via View-Dependence Normalization](https://arxiv.org/abs/2303.17968), Zhu et al., Arxiv 2023 | [github](https://github.com/BoifZ/VDN-NeRF) | [bibtex](./citations/vdn.txt)
 - [Behind the Scenes: Density Fields for Single View Reconstruction](https://fwmb.github.io/bts/), Wimbauer et al., CVPR 2023 | [github](https://github.com/Brummi/BehindTheScenes) | [bibtex](./citations/behind.txt)
@@ -89,3 +90,5 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Enhanced Stable View Synthesis](https://arxiv.org/abs/2303.17094), Jain et al., CVPR 2023
 - [S-VolSDF: Sparse Multi-View Stereo Regularization of Neural Implicit Surfaces](https://hao-yu-wu.github.io/s-volsdf/), Wu et al., Arxiv 2023 | [bibtex](./citations/svolsdf.txt)
 - [SurfelNeRF: Neural Surfel Radiance Fields for Online Photorealistic Reconstruction of Indoor Scenes](https://gymat.github.io/SurfelNeRF-web/), Gao et al., CVPR 2023 | [bibtex](./citations/surfelnerf.txt)
+- [Learning Neural Duplex Radiance Fields for Real-Time View Synthesis](http://raywzy.com/NDRF/), Wan et al., CVPR 2023 | [bibtex](./citations/ndrf.txt)
+- [Tetra-NeRF: Representing Neural Radiance Fields Using Tetrahedra](https://jkulhanek.com/tetra-nerf/), Kulhánek et al., Arxiv 2023 | [bibtex](./citations/tetra.txt)

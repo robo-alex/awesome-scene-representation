@@ -1,0 +1,6 @@
+@inproceedings{wan2023ndrf,
+    title={Learning Neural Duplex Radiance Fields for Real-Time View Synthesis},
+    author={Ziyu Wan and Christian Richardt and Aljaž Božič and Chao Li and Vijay Rengarajan and Seonghyeon Nam and Xiaoyu Xiang and Tuotuo Li and Bo Zhu and Rakesh Ranjan and Jing Liao},
+    booktitle={CVPR},
+    year={2023}
+}
