@@ -71,6 +71,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior](https://nope-nerf.active.vision/), Bian et al., CVPR 2023 | [github](https://github.com/ActiveVisionLab/nope-nerf) | [bibtex](./citations/nopenerf.txt)
 - [NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion](https://jiataogu.me/nerfdiff/), Gu et al., | [bibtex](./citations/nerfdiff.txt)
 - [α Surf: Implicit Surface Reconstruction for Semi-Transparent and Thin Objects with Decoupled Geometry and Opacity](https://alphasurf.netlify.app/), Wu et al., Arxiv 2023
+- [Factored Neural Representation for Scene Understanding](https://yushiangw.github.io/factorednerf/), Wong et al., Arxiv 2023 | [github](https://github.com/yushiangw/factorednerf) | [bibtex](./citations/factorednerf.txt)
 - [L2G-NeRF: Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields](https://rover-xingyu.github.io/L2G-NeRF/), Chen et al., CVPR 2023 | [github](https://github.com/rover-xingyu/L2G-NeRF) | [bibtex](./citations/l2gnerf.txt)
 - [Evaluate Geometry of Radiance Field with Low-frequency Color Prior](https://arxiv.org/abs/2304.04351), Fang et al., Arxiv 2023 | [github](https://github.com/qihangGH/IMRC) | [bibtex](./citations/imrc.txt)
 - [VDN-NeRF: Resolving Shape-Radiance Ambiguity via View-Dependence Normalization](https://arxiv.org/abs/2303.17968), Zhu et al., Arxiv 2023 | [github](https://github.com/BoifZ/VDN-NeRF) | [bibtex](./citations/vdn.txt)
@@ -98,3 +99,4 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Learning Neural Duplex Radiance Fields for Real-Time View Synthesis](http://raywzy.com/NDRF/), Wan et al., CVPR 2023 | [bibtex](./citations/ndrf.txt)
 - [Tetra-NeRF: Representing Neural Radiance Fields Using Tetrahedra](https://jkulhanek.com/tetra-nerf/), Kulhánek et al., Arxiv 2023 | [github](https://github.com/jkulhanek/tetra-nerf/) | [bibtex](./citations/tetra.txt)
 - [Multiscale Representation for Real-Time Anti-Aliasing Neural Rendering](https://arxiv.org/pdf/2304.10075.pdf), Hu et al., Arxiv 2023
+- [Real-Time Neural Light Field on Mobile Devices](https://snap-research.github.io/MobileR2L/), Cao et al., CVPR 2023 | [github](https://github.com/snap-research/MobileR2L) | [bibtex](./citations/mobiler2l.txt)

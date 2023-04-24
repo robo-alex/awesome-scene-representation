@@ -1,0 +1,6 @@
+@article{,
+    title={Factored Neural Representation for Scene Understanding},
+    author={Wong, Yu-Shiang and Mitra, Niloy},
+    journal={arXiv preprint arXiv:},
+    year={2023}
+} 

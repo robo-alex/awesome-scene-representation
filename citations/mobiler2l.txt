@@ -1,0 +1,6 @@
+@article{cao2022real,
+  title={Real-Time Neural Light Field on Mobile Devices},
+  author={Cao, Junli and Wang, Huan and Chemerys, Pavlo and Shakhrai, Vladislav and Hu, Ju and Fu, Yun and Makoviichuk, Denys and Tulyakov, Sergey and Ren, Jian},
+  journal={arXiv preprint arXiv:2212.08057},
+  year={2022}
+}
