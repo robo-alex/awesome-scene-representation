@@ -1,0 +1,6 @@
+@InProceedings{rudnev2023eventnerf,
+      title={EventNeRF: Neural Radiance Fields from a Single Colour Event Camera},
+      author={Viktor Rudnev and Mohamed Elgharib and Christian Theobalt and Vladislav Golyanik},
+      booktitle={Computer Vision and Pattern Recognition (CVPR)},
+      year={2023}
+}

@@ -71,6 +71,8 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior](https://nope-nerf.active.vision/), Bian et al., CVPR 2023 | [github](https://github.com/ActiveVisionLab/nope-nerf) | [bibtex](./citations/nopenerf.txt)
 - [NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion](https://jiataogu.me/nerfdiff/), Gu et al., | [bibtex](./citations/nerfdiff.txt)
 - [α Surf: Implicit Surface Reconstruction for Semi-Transparent and Thin Objects with Decoupled Geometry and Opacity](https://alphasurf.netlify.app/), Wu et al., Arxiv 2023
+- [Implicit Neural Head Synthesis via Controllable Local Deformation Fields](https://imaging.cs.cmu.edu/local_deformation_fields/), Chen et al., CVPR 2023
+- [EventNeRF: Neural Radiance Fields from a Single Colour](https://4dqv.mpi-inf.mpg.de/EventNeRF/), Rudnev et al., CVPR 2023 | [bibtex](./citations/eventnerf.txt)
 - [Factored Neural Representation for Scene Understanding](https://yushiangw.github.io/factorednerf/), Wong et al., Arxiv 2023 | [github](https://github.com/yushiangw/factorednerf) | [bibtex](./citations/factorednerf.txt)
 - [L2G-NeRF: Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields](https://rover-xingyu.github.io/L2G-NeRF/), Chen et al., CVPR 2023 | [github](https://github.com/rover-xingyu/L2G-NeRF) | [bibtex](./citations/l2gnerf.txt)
 - [Evaluate Geometry of Radiance Field with Low-frequency Color Prior](https://arxiv.org/abs/2304.04351), Fang et al., Arxiv 2023 | [github](https://github.com/qihangGH/IMRC) | [bibtex](./citations/imrc.txt)
