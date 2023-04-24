@@ -32,7 +32,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Neural Fields meet Explicit Geometric Representations for Inverse Rendering of Urban Scenes](https://nv-tlabs.github.io/fegr/), Wang et al., CVPR 2023 | [bibtex](./citations/fegr.txt)
 - [Lift3D: Synthesize 3D Training Data by Lifting 2D GAN to 3D Generative Radiance Field](https://len-li.github.io/lift3d-web/), Li et al., CVPR 2023 | [github](https://github.com/Len-Li/Lift3D) | [bibtex](./citations/lift3d.txt)
 - [ReLight My NeRF: A Dataset for Novel View Synthesis and Relighting of Real World Objects](https://eyecan-ai.github.io/rene/), Toschi et al., CVPR 2023
- -[3D Neural Field Generation using Triplane Diffusion](https://jryanshue.com/nfd/), Shue et al., CVPR 2023 | [github](https://github.com/JRyanShue/NFD) | [bibtex](./citations/nfd.txt)
+-[3D Neural Field Generation using Triplane Diffusion](https://jryanshue.com/nfd/), Shue et al., CVPR 2023 | [github](https://github.com/JRyanShue/NFD) | [bibtex](./citations/nfd.txt)
 - [Dynamic Point Fields](https://sergeyprokudin.github.io/dpf/), Prokudin et al., Arxiv 2023 | [bibtex](./citations/dpf.txt)
 - [SparseFusion: Distilling View-conditioned Diffusion for 3D Reconstruction](https://sparsefusion.github.io/), Zhou et al., CVPR 2023 | [github](https://github.com/zhizdev/sparsefusion) | [bibtex](./citations/sparsefusion.txt)
 - [Point2Pix: Photo-Realistic Point Cloud Rendering via Neural Radiance Fields](https://arxiv.org/abs/2303.16482), Hu et al., Arxiv 2023 | [bibtex](./citations/point2pix.txt)
