@@ -1,0 +1,6 @@
+@article{tong2023seeing,
+  title={Seeing Through the Glass: Neural 3D Reconstruction of Object Inside a Transparent Container},
+  author={Tong, Jinguang and Muthu, Sundaram and Maken, Fahira Afzal and Nguyen, Chuong and Li, Hongdong},
+  journal={arXiv preprint arXiv:2303.13805},
+  year={2023}
+}

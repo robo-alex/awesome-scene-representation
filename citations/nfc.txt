@@ -1,0 +1,6 @@
+@article{nsampi2023neural,
+  title={Neural Field Convolutions by Repeated Differentiation},
+  author={Nsampi, Ntumba Elie and Djeacoumar, Adarsh and Seidel, Hans-Peter and Ritschel, Tobias and Leimk{\"u}hler, Thomas},
+  journal={arXiv preprint arXiv:2304.01834},
+  year={2023}
+}

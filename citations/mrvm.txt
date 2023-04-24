@@ -1,0 +1,6 @@
+@article{yang2023mrvm,
+  title={MRVM-NeRF: Mask-Based Pretraining for Neural Radiance Fields},
+  author={Yang, Ganlin and Wei, Guoqiang and Zhang, Zhizheng and Lu, Yan and Liu, Dong},
+  journal={arXiv preprint arXiv:2304.04962},
+  year={2023}
+}

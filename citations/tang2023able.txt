@@ -1,0 +1,6 @@
+@article{tang2023able,
+  title={ABLE-NeRF: Attention-Based Rendering with Learnable Embeddings for Neural Radiance Field},
+  author={Tang, Zhe Jun and Cham, Tat-Jen and Zhao, Haiyu},
+  journal={arXiv preprint arXiv:2303.13817},
+  year={2023}
+}

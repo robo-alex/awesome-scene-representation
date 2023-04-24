@@ -1,0 +1,6 @@
+@article{rojas2023re,
+  title={Re-ReND: Real-time Rendering of NeRFs across Devices},
+  author={Rojas, Sara and Zarzar, Jesus and Perez, Juan Camilo and Sanakoyeu, Artsiom and Thabet, Ali and Pumarola, Albert and Ghanem, Bernard},
+  journal={arXiv preprint arXiv:2303.08717},
+  year={2023}
+}

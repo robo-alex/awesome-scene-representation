@@ -1,0 +1,6 @@
+@article{wu2023alpha,
+  title={$$\backslash$alpha $ Surf: Implicit Surface Reconstruction for Semi-Transparent and Thin Objects with Decoupled Geometry and Opacity},
+  author={Wu, Tianhao and Liang, Hanxue and Zhong, Fangcheng and Riegler, Gernot and Vainer, Shimon and Oztireli, Cengiz},
+  journal={arXiv preprint arXiv:2303.10083},
+  year={2023}
+}

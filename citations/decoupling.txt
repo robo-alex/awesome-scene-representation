@@ -1,0 +1,6 @@
+@article{you2023decoupling,
+  title={Decoupling Dynamic Monocular Videos for Dynamic View Synthesis},
+  author={You, Meng and Hou, Junhui},
+  journal={arXiv preprint arXiv:2304.01716},
+  year={2023}
+}

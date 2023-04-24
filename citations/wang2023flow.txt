@@ -1,0 +1,6 @@
+@article{wang2023flow,
+  title={Flow supervision for Deformable NeRF},
+  author={Wang, Chaoyang and MacDonald, Lachlan Ewen and Jeni, Laszlo A and Lucey, Simon},
+  journal={arXiv preprint arXiv:2303.16333},
+  year={2023}
+}

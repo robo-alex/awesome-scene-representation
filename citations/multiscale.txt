@@ -1,0 +1,6 @@
+@article{hu2023multiscale,
+  title={Multiscale Representation for Real-Time Anti-Aliasing Neural Rendering},
+  author={Hu, Dongting and Zhang, Zhenkai and Hou, Tingbo and Liu, Tongliang and Fu, Huan and Gong, Mingming},
+  journal={arXiv preprint arXiv:2304.10075},
+  year={2023}
+}

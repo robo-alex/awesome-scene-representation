@@ -1,0 +1,6 @@
+@article{chen2023dbarf,
+  title={DBARF: Deep Bundle-Adjusting Generalizable Neural Radiance Fields},
+  author={Chen, Yu and Lee, Gim Hee},
+  journal={arXiv preprint arXiv:2303.14478},
+  year={2023}
+}

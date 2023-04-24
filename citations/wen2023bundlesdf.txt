@@ -1,0 +1,6 @@
+@article{wen2023bundlesdf,
+  title={BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects},
+  author={Wen, Bowen and Tremblay, Jonathan and Blukis, Valts and Tyree, Stephen and Muller, Thomas and Evans, Alex and Fox, Dieter and Kautz, Jan and Birchfield, Stan},
+  journal={CVPR},
+  year={2023}
+}

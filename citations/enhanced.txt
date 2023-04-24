@@ -1,0 +1,6 @@
+@article{jain2023enhanced,
+  title={Enhanced Stable View Synthesis},
+  author={Jain, Nishant and Kumar, Suryansh and Van Gool, Luc},
+  journal={arXiv preprint arXiv:2303.17094},
+  year={2023}
+}

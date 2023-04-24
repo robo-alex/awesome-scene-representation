@@ -1,0 +1,6 @@
+@article{hu2023instance,
+  title={Instance Neural Radiance Field},
+  author={Hu, Benran and Huang, Junkai and Liu, Yichen and Tai, Yu-Wing and Tang, Chi-Keung},
+  journal={arXiv preprint arXiv:2304.04395},
+  year={2023}
+}
