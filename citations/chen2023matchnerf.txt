@@ -1,0 +1,6 @@
+@article{chen2023matchnerf,
+    title={Explicit Correspondence Matching for Generalizable Neural Radiance Fields},
+    author={Chen, Yuedong and Xu, Haofei and Wu, Qianyi and Zheng, Chuanxia and Cham, Tat-Jen and Cai, Jianfei},
+    journal={arXiv preprint arXiv:},
+    year={2023}
+}
