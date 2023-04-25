@@ -1,0 +1,6 @@
+@article{liu2023hosnerf,
+  title     = {HOSNeRF: Dynamic Human-Object-Scene Neural Radiance Fields from a Single Video},
+  author    = {Liu, Jia-Wei and Cao, Yan-Pei and Yang, Tianyuan and Xu, Eric Zhongcong and Keppo, Jussi and Shan, Ying and Qie, Xiaohu and Shou, Mike Zheng},  
+  journal   = {arXiv preprint arXiv:2304.12281},
+  year      = {2023},
+}

@@ -1,0 +1,8 @@
+@misc{cen2023segment,
+      title={Segment Anything in 3D with NeRFs}, 
+      author={Jiazhong Cen and Zanwei Zhou and Jiemin Fang and Wei Shen and Lingxi Xie and Xiaopeng Zhang and Qi Tian},
+      year={2023},
+      eprint={2304.12308},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

@@ -45,6 +45,9 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion](https://3d-avatar-diffusion.microsoft.com/), Wang et al., CVPR 2023 | [bibtex](./citations/rodin.txt)
 - [Zero-1-to-3: Zero-shot One Image to 3D Object](https://zero123.cs.columbia.edu/), Liu et al., Arxiv 2023 | [github](https://github.com/cvlab-columbia/zero123) | [bibtex](./citations/zero123.txt)
 - [FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization](https://jiawei-yang.github.io/FreeNeRF/), Yang et al., CVPR 2023 | [github](https://github.com/Jiawei-Yang/FreeNeRF) | [bibtex](./citations/freenerf.txt)
+- [AutoNeRF: Training Implicit Scene Representations with Autonomous Agents](https://pierremarza.github.io/projects/autonerf/), Marza et al., Arxiv 2023
+- [Segment Anything in 3D with NeRFs](https://jumpat.github.io/SA3D/), Cen et al., Arxiv 2023 | [github](https://github.com/Jumpat/SegmentAnythingin3D) | [bibtex](./citations/cen2023segment.txt)
+- [HOSNeRF: Dynamic Human-Object-Scene Neural Radiance Fields from a Single Video](https://showlab.github.io/HOSNeRF/), Liu et al., Arxiv 2023 | [bibtex](./citations/liu2023hosnerf.txt)
 - [SPIn-NeRF: Multiview Segmentation and Perceptual Inpainting with Neural Radiance Fields](https://spinnerf3d.github.io/), Mirzaei et al., CVPR 2023 | [github](https://github.com/SamsungLabs/SPIn-NeRF) | [bibtex](./citations/spinnerf.txt)
 - [Neural Radiance Fields: Past, Present, and Future](https://arxiv.org/abs/2304.10050), Mittal, Arxiv 2023
 - [HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling](https://hyperreel.github.io/), Attal et al., CVPR 2023 | [github](https://github.com/facebookresearch/hyperreel) | [bibtex](./citations/hyperreel.txt)
