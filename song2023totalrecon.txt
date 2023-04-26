@@ -1,0 +1,7 @@
+@article{song2023totalrecon,
+  title={Total-Recon: Deformable Scene Reconstruction for Embodied View Synthesis},
+  author={Song, Chonghyuk and Yang, Gengshan and 
+          Deng, Kangle and Zhu, Jun-Yan and Ramanan, Deva},
+  journal={arXiv},
+  year={2023}
+}

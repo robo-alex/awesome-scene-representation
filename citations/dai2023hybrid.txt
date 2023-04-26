@@ -1,0 +1,6 @@
+@article{dai2023hybrid,
+  author    = {Dai, Peng and Zhang, Yinda and Yu, Xin and Lyu, Xiaoyang and Qi, Xiaojuan},
+  title     = {Hybrid neural rendering for large-scale scenes with images contaminated by motion blur},
+  journal   = {CVPR},
+  year      = {2023},
+}

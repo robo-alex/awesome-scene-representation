@@ -1,0 +1,6 @@
+@inproceedings{huang2023lirf,
+    title={Local Implicit Ray Function for Generalizable Radiance Field Representation},
+    author={Xin, Huang and Qi, Zhang and Ying, Feng and Xiaoyu, Li and Xuan, Wang and Qing, Wang},
+    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+    year={2023}
+}
