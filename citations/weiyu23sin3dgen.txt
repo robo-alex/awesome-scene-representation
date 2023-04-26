@@ -1,0 +1,6 @@
+@article{weiyu23Sin3DGen,
+    author    = {Weiyu Li and Xuelin Chen and Jue Wang and Baoquan Chen},
+    title     = {Patch-based 3D Natural Scene Generation from a Single Example},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    year      = {2023},
+}
