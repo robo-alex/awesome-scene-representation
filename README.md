@@ -33,12 +33,14 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Lift3D: Synthesize 3D Training Data by Lifting 2D GAN to 3D Generative Radiance Field](https://len-li.github.io/lift3d-web/), Li et al., CVPR 2023 | [github](https://github.com/Len-Li/Lift3D) | [bibtex](./citations/lift3d.txt)
 - [ReLight My NeRF: A Dataset for Novel View Synthesis and Relighting of Real World Objects](https://eyecan-ai.github.io/rene/), Toschi et al., CVPR 2023
 - [Total-Recon: Deformable Scene Reconstruction for Embodied View Synthesis](https://andrewsonga.github.io/totalrecon/), Song et al., Arxiv 2023 | [github](https://github.com/andrewsonga/Total-Recon) | [bibtex](./citations/song2023totalrecon.txt)
+- [Towards Realistic Generative 3D Face Models](https://aashishrai3799.github.io/Towards-Realistic-Generative-3D-Face-Models/), Raj et al., Arxiv 2023 | [github](https://github.com/aashishrai3799/Towards-Realistic-Generative-3D-Face-Models/)
+- [Pointersect: Neural Rendering with Cloud-Ray Intersection](https://machinelearning.apple.com/research/pointersect), Chang et al., CVPR 2023 | [bibtex](./citations/pointersect.txt)
 - [TextMesh: Generation of Realistic 3D Meshes From Text Prompts](https://fabi92.github.io/textmesh/), Tsalicoglou et al., Arxiv 2023
 - [Local Implicit Ray Function for Generalizable Radiance Field Representation](https://xhuangcv.github.io/lirf/), Huang et al., CVPR 2023 | [github](https://github.com/xhuangcv/lirf/) | [bibtex](./citations/huang2023lirf.txt)
 - [AutoNeRF: Training Implicit Scene Representations with Autonomous Agents](https://pierremarza.github.io/projects/autonerf/), Marza et al., Arxiv 2023
 - [Hybrid Neural Rendering for Large-Scale Scenes with Motion Blur](https://daipengwa.github.io/Hybrid-Rendering-ProjectPage/), Dai et al., CVPR 2023 | [github](https://github.com/CVMI-Lab/HybridNeuralRendering) | [bibtex](./citations/dai2023hybrid.txt)
 - [TensoIR: Tensorial Inverse Rendering](https://haian-jin.github.io/TensoIR/), Jin et al., CVPR 2023 | [bibtex](./citations/tensoir.txt)
-- [Patch-based 3D Natural Scene Generation from a Single Example](http://weiyuli.xyz/Sin3DGen/), Li et al., CVPR 2023 | [bibtex](./citations/weiyu23sin3dgen.txt)
+- [Patch-based 3D Natural Scene Generation from a Single Example](http://weiyuli.xyz/Sin3DGen/), Li et al., CVPR 2023 | [github](https://github.com/wyysf-98/Sin3DGen) | [bibtex](./citations/weiyu23sin3dgen.txt)
 - [3D Neural Field Generation using Triplane Diffusion](https://jryanshue.com/nfd/), Shue et al., CVPR 2023 | [github](https://github.com/JRyanShue/NFD) | [bibtex](./citations/nfd.txt)
 - [Dynamic Point Fields](https://sergeyprokudin.github.io/dpf/), Prokudin et al., Arxiv 2023 | [bibtex](./citations/dpf.txt)
 - [SparseFusion: Distilling View-conditioned Diffusion for 3D Reconstruction](https://sparsefusion.github.io/), Zhou et al., CVPR 2023 | [github](https://github.com/zhizdev/sparsefusion) | [bibtex](./citations/sparsefusion.txt)
@@ -52,6 +54,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion](https://3d-avatar-diffusion.microsoft.com/), Wang et al., CVPR 2023 | [bibtex](./citations/rodin.txt)
 - [Zero-1-to-3: Zero-shot One Image to 3D Object](https://zero123.cs.columbia.edu/), Liu et al., Arxiv 2023 | [github](https://github.com/cvlab-columbia/zero123) | [bibtex](./citations/zero123.txt)
 - [FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization](https://jiawei-yang.github.io/FreeNeRF/), Yang et al., CVPR 2023 | [github](https://github.com/Jiawei-Yang/FreeNeRF) | [bibtex](./citations/freenerf.txt)
+- [Super-NeRF: View-consistent Detail Generation for NeRF super-resolution](https://arxiv.org/abs/2304.13518), Han et al., TPAMI 2023
 - [Segment Anything in 3D with NeRFs](https://jumpat.github.io/SA3D/), Cen et al., Arxiv 2023 | [github](https://github.com/Jumpat/SegmentAnythingin3D) | [bibtex](./citations/cen2023segment.txt)
 - [HOSNeRF: Dynamic Human-Object-Scene Neural Radiance Fields from a Single Video](https://showlab.github.io/HOSNeRF/), Liu et al., Arxiv 2023 | [bibtex](./citations/liu2023hosnerf.txt)
 - [Explicit Correspondence Matching for Generalizable Neural Radiance Fields](https://donydchen.github.io/matchnerf/), Chen et al., CVPR 2023 | [github](https://github.com/donydchen/matchnerf) | [bibtex](./citations/chen2023matchnerf.txt)

@@ -1,0 +1,7 @@
+@inproceedings{pointersect,
+title = {Pointersect: Neural Rendering with Cloud-Ray Intersection},
+booktitle = {CVPR},
+author = {Jen-Hao Rick Chang and Wei-Yu Chen and Anurag Ranjan and Kwang Moo Yi and Oncel Tuzel},
+year = {2023},
+URL = {http://arxiv.org/abs/2304.12390}
+}
