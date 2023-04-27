@@ -61,6 +61,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Self-supervised Learning by View Synthesis](https://arxiv.org/abs/2304.11330), Liu et al., Arxiv 2023
 - [SPIn-NeRF: Multiview Segmentation and Perceptual Inpainting with Neural Radiance Fields](https://spinnerf3d.github.io/), Mirzaei et al., CVPR 2023 | [github](https://github.com/SamsungLabs/SPIn-NeRF) | [bibtex](./citations/spinnerf.txt)
 - [Neural Radiance Fields: Past, Present, and Future](https://arxiv.org/abs/2304.10050), Mittal, Arxiv 2023
+- [VGOS: Voxel Grid Optimization for View Synthesis from Sparse Inputs](https://arxiv.org/pdf/2304.13386.pdf), Sun et al., ICJAI 2023
 - [HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling](https://hyperreel.github.io/), Attal et al., CVPR 2023 | [github](https://github.com/facebookresearch/hyperreel) | [bibtex](./citations/hyperreel.txt)
 - [Panoptic Lifting for 3D Scene Understanding with Neural Fields](https://nihalsid.github.io/panoptic-lifting/), Siddiqui et al., CVPR 2023 | [github](https://github.com/nihalsid/panoptic-lifting) | [bibtex](./citations/panopticlifting.txt)
 - [Instance Neural Radiance Field](https://arxiv.org/abs/2304.04395), Hu et al., Arxiv 2023 | [bibtex](./citations/hu2023instance.txt)
