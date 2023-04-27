@@ -1,0 +1,6 @@
+@InProceedings{sparf2023,
+  title={SPARF: Neural Radiance Fields from Sparse and Noisy Poses},
+  author = {Truong, Prune and Rakotosaona, Marie-Julie and Manhardt, Fabian and Tombari, Federico},
+  publisher = {{IEEE/CVF} Conference on Computer Vision and Pattern Recognition, {CVPR}},
+  year = {2023}
+}
