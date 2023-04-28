@@ -1,0 +1,6 @@
+@article{li2022compressing,
+  title={Compressing Volumetric Radiance Fields to 1 MB},
+  author={Li, Lingzhi and Shen, Zhen and Wang, Zhongshu and Shen, Li and Bo, Liefeng},
+  journal={arXiv preprint arXiv:2211.16386},
+  year={2022}
+}

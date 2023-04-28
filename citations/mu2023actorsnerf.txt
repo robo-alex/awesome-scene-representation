@@ -1,0 +1,6 @@
+@article{mu2023actorsnerf,
+                author = {Mu, Jiteng and Sang, Shen
+                          and Vasconcelos, Nuno and Wang, Xiaolong},
+                title = {ActorsNeRF: Animatable Few-shot Human Rendering with Generalizable NeRFs},
+                journal = {arXiv preprint arXiv: 2304.14401},
+                year={2023}}
