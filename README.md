@@ -47,6 +47,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [3D Neural Field Generation using Triplane Diffusion](https://jryanshue.com/nfd/), Shue et al., CVPR 2023 | [github](https://github.com/JRyanShue/NFD) | [bibtex](./citations/nfd.txt)
 - [Dynamic Point Fields](https://sergeyprokudin.github.io/dpf/), Prokudin et al., Arxiv 2023 | [bibtex](./citations/dpf.txt)
 - [SparseFusion: Distilling View-conditioned Diffusion for 3D Reconstruction](https://sparsefusion.github.io/), Zhou et al., CVPR 2023 | [github](https://github.com/zhizdev/sparsefusion) | [bibtex](./citations/sparsefusion.txt)
+- [Co-SLAM: Joint Coordinate and Sparse Parametric Encodings for Neural Real-Time SLAM](https://arxiv.org/abs/2304.14377), Wang et al., CVPR 2023
 - [Point2Pix: Photo-Realistic Point Cloud Rendering via Neural Radiance Fields](https://arxiv.org/abs/2303.16482), Hu et al., Arxiv 2023 | [bibtex](./citations/point2pix.txt)
 - [Multiview Compressive Coding for 3D Reconstruction](https://mcc3d.github.io/), Wu et al., CVPR 2023 | [github](https://github.com/facebookresearch/MCC) | [bibtex](./citations/mcc.txt)
 - [Instant Neural Radiance Fields Stylization](https://arxiv.org/abs/2303.16884), Li et al., Arxiv 2023
