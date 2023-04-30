@@ -42,6 +42,8 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Local Implicit Ray Function for Generalizable Radiance Field Representation](https://xhuangcv.github.io/lirf/), Huang et al., CVPR 2023 | [github](https://github.com/xhuangcv/lirf/) | [bibtex](./citations/huang2023lirf.txt)
 - [AutoNeRF: Training Implicit Scene Representations with Autonomous Agents](https://pierremarza.github.io/projects/autonerf/), Marza et al., Arxiv 2023
 - [Hybrid Neural Rendering for Large-Scale Scenes with Motion Blur](https://daipengwa.github.io/Hybrid-Rendering-ProjectPage/), Dai et al., CVPR 2023 | [github](https://github.com/CVMI-Lab/HybridNeuralRendering) | [bibtex](./citations/dai2023hybrid.txt)
+- [ENVIDR: Implicit Differentiable Renderer with Neural Environment Lighting](https://nexuslrf.github.io/ENVIDR/), Liang et al., Arxiv 2023 | [github](https://github.com/nexuslrf/ENVIDR)
+- [SPIDR: SDF-based Neural Point Fields for Illumination and Deformation](https://nexuslrf.github.io/SPIDR_webpage/), Liang et al., Arxiv 2023 | [github](https://github.com/nexuslrf/SPIDR) | [bibtex](./citations/liang2022spidr.txt)
 - [TensoIR: Tensorial Inverse Rendering](https://haian-jin.github.io/TensoIR/), Jin et al., CVPR 2023 | [bibtex](./citations/tensoir.txt)
 - [Patch-based 3D Natural Scene Generation from a Single Example](http://weiyuli.xyz/Sin3DGen/), Li et al., CVPR 2023 | [github](https://github.com/wyysf-98/Sin3DGen) | [bibtex](./citations/weiyu23sin3dgen.txt)
 - [3D Neural Field Generation using Triplane Diffusion](https://jryanshue.com/nfd/), Shue et al., CVPR 2023 | [github](https://github.com/JRyanShue/NFD) | [bibtex](./citations/nfd.txt)

@@ -1,0 +1,6 @@
+@article{liang2022spidr,
+  title={SPIDR: SDF-based Neural Point Fields for Illumination and Deformation},
+  author={Liang, Ruofan and Zhang, Jiahao and Li, Haoda and Yang, Chen and Guan, Yushi and Vijaykumar, Nandita},
+  journal={arXiv preprint arXiv:2210.08398},
+  year={2022}
+}
