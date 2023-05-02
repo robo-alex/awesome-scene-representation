@@ -117,6 +117,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Re-ReND: Real-time Rendering of NeRFs across Devices](https://arxiv.org/abs/2303.08717), Rojas et al., Arxiv 2023 | [bibtex](./citations/rerend.txt)
 - [Learning Neural Volumetric Representations of Dynamic Humans in Minutes](https://zju3dv.github.io/instant_nvr/), Geng et al., CVPR 2023 | [bibtex](./citations/instant_nvr.txt)
 - [PermutoSDF: Fast Multi-View Reconstruction withImplicit Surfaces using Permutohedral Lattices](https://radualexandru.github.io/permuto_sdf/), Rosu et al., CVPR 2023 | [github](https://github.com/RaduAlexandru/permuto_sdf) | [bibtex](./citations/permutosdf.txt)
+- [Neural Implicit Dense Semantic SLAM](https://arxiv.org/abs/2304.14560), Haghighi et al., Arxiv 2023
 - [Point-SLAM: Dense Neural Point Cloud-based SLAM](https://arxiv.org/abs/2304.04278), Sandström et al., Arxiv 2023 | [github](https://github.com/tfy14esa/Point-SLAM) | [bibtex](./citations/pointslam.txt)
 - [Decoupling Dynamic Monocular Videos for Dynamic View Synthesis](https://arxiv.org/abs/2304.01716), You et al., Arxiv 2023 | [bibtex](./citations/decoupling.txt)
 - [Neural Field Convolutions by Repeated Differentiation](https://arxiv.org/abs/2304.01834), Nsampi et al., Arxiv 2023 | [bibtex](./citations/nfc.txt)
