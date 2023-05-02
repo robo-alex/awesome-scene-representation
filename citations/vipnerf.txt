@@ -1,0 +1,8 @@
+@inproceedings{somraj2022decompnet,
+    title = {ViP-NeRF: Visibility Prior for Sparse Input Neural Radiance Fields},
+    author = {Somraj, Nagabhushan and Soundararajan, Rajiv},
+    booktitle = {ACM Special Interest Group on Computer Graphics and Interactive Techniques (SIGGRAPH)},
+    month = {August},
+    year = {2023},
+    doi = {10.1145/3588432.3591539}
+}

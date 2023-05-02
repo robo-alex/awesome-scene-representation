@@ -1,0 +1,7 @@
+@article{yuan2023online,
+  title={Online Learning of Neural Surface Light Fields alongside Real-time Incremental 3D Reconstruction},
+  author={Yuan, Yijun and N{\"u}chter, Andreas},
+  journal={IEEE Robotics and Automation Letters},
+  year={2023},
+  publisher={IEEE}
+}
