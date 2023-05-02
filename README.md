@@ -108,6 +108,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Reference-guided Controllable Inpainting of Neural Radiance Fields](https://ashmrz.github.io/reference-guided-3d/), Mirzaei et al., Arxiv 2023 | [bibtex](./citations/reference.txt)
 - [TiNeuVox: Fast Dynamic Radiance Fields with Time-Aware Neural Voxels](https://jaminfong.cn/tineuvox/), Fang et al., SIGGRAPH Asia 2022 | [github](https://github.com/hustvl/TiNeuVox) | [bibtex](./citations/tineuvox.txt)
 - [AvatarCraft: Transforming Text into Neural Human Avatars with Parameterized Shape and Pose Control](https://avatar-craft.github.io/), Jiang et al., Arxiv 2023 | [github](https://github.com/songrise/avatarcraft) | [bibtex](./citations/avatarcraft.txt)
+- [Object-Centric Voxelization of Dynamic Scenes via Inverse Neural Rendering](https://sites.google.com/view/dynavol-visual), Gao et al., Arxiv 2023
 - [ViP-NeRF: Visibility Prior for Sparse Input Neural Radiance Fields](https://nagabhushansn95.github.io/publications/2023/ViP-NeRF.html), Somraj et al., SIGGRAPH 2023 | [github](https://github.com/NagabhushanSN95/ViP-NeRF) | [bibtex](./citations/vipnerf.txt)
 - [Online Learning of Neural Surface Light Fields alongside Real-time Incremental 3D Reconstruction](https://jarrome.github.io/NSLF-OL/), Yuan et al., Arxiv 2023 | [github](https://github.com/Jarrome/NSLF-OL) | [bibtex](./citations/yuan2023online.txt)
 - [MRVM-NeRF: Mask-Based Pretraining for Neural Radiance Field](https://arxiv.org/abs/2304.04962), Yang et al., Arxiv 2023 | [bibtex](./citations/mrvm.txt)
