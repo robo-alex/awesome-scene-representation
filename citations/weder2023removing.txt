@@ -1,0 +1,7 @@
+@inproceedings{Weder2023Removing,
+    title={Removing Objects From Neural Radiance Fields},
+    author={Weder, Silvan and Garcia-Hernando, Guillermo and Monszpart, {\'{A}}ron and Pollefeys, Marc and Brostow, Gabriel and Firman,
+    Michael and Vicente, Sara},
+    booktitle={CVPR},
+    year={2023},
+}

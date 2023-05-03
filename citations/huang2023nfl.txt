@@ -1,0 +1,6 @@
+@article{Huang2023nfl,
+        title={Neural LiDAR Fields for Novel View Synthesis},
+        author={Huang, Shengyu and Gojcic, Zan and Wang, Zian and Williams, Francis and Kasten, Yoni and Fidler, Sanja and Schindler, Konrad and Litany, Or},
+        journal={arXiv preprint},
+        year={2023}
+    }
