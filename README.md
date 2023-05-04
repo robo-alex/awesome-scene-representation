@@ -38,12 +38,14 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [ActorsNeRF: Animatable Few-shot Human Rendering with Generalizable NeRFs](https://jitengmu.github.io/ActorsNeRF/), Mu et al., Arxiv 2023 | [bibtex](./citations/mu2023actorsnerf.txt)
 - [Compressing Volumetric Radiance Fields to 1 MB](https://arxiv.org/abs/2211.16386), Li et al., CVPR 2023 | [github](https://github.com/AlgoHunt/VQRF) | [bibtex](./citations/li2022compressing.txt)
 - [Total-Recon: Deformable Scene Reconstruction for Embodied View Synthesis](https://andrewsonga.github.io/totalrecon/), Song et al., Arxiv 2023 | [github](https://github.com/andrewsonga/Total-Recon) | [bibtex](./citations/song2023totalrecon.txt)
+- [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/), Kerbl et al., SIGGRAPH 2023 | [github](https://gitlab.inria.fr/fungraph/)
 - [Towards Realistic Generative 3D Face Models](https://aashishrai3799.github.io/Towards-Realistic-Generative-3D-Face-Models/), Raj et al., Arxiv 2023 | [github](https://github.com/aashishrai3799/Towards-Realistic-Generative-3D-Face-Models/)
 - [Pointersect: Neural Rendering with Cloud-Ray Intersection](https://machinelearning.apple.com/research/pointersect), Chang et al., CVPR 2023 | [bibtex](./citations/pointersect.txt)
 - [TextMesh: Generation of Realistic 3D Meshes From Text Prompts](https://fabi92.github.io/textmesh/), Tsalicoglou et al., Arxiv 2023
 - [Local Implicit Ray Function for Generalizable Radiance Field Representation](https://xhuangcv.github.io/lirf/), Huang et al., CVPR 2023 | [github](https://github.com/xhuangcv/lirf/) | [bibtex](./citations/huang2023lirf.txt)
 - [AutoNeRF: Training Implicit Scene Representations with Autonomous Agents](https://pierremarza.github.io/projects/autonerf/), Marza et al., Arxiv 2023
 - [Hybrid Neural Rendering for Large-Scale Scenes with Motion Blur](https://daipengwa.github.io/Hybrid-Rendering-ProjectPage/), Dai et al., CVPR 2023 | [github](https://github.com/CVMI-Lab/HybridNeuralRendering) | [bibtex](./citations/dai2023hybrid.txt)
+- [ScatterNeRF: Seeing Through Fog with Physically-Based Inverse Neural Rendering](https://arxiv.org/abs/2305.02103), Ramazzina et al., Arxiv 2023
 - [ENVIDR: Implicit Differentiable Renderer with Neural Environment Lighting](https://nexuslrf.github.io/ENVIDR/), Liang et al., Arxiv 2023 | [github](https://github.com/nexuslrf/ENVIDR)
 - [SPIDR: SDF-based Neural Point Fields for Illumination and Deformation](https://nexuslrf.github.io/SPIDR_webpage/), Liang et al., Arxiv 2023 | [github](https://github.com/nexuslrf/SPIDR) | [bibtex](./citations/liang2022spidr.txt)
 - [TensoIR: Tensorial Inverse Rendering](https://haian-jin.github.io/TensoIR/), Jin et al., CVPR 2023 | [bibtex](./citations/tensoir.txt)
