@@ -1,0 +1,6 @@
+@inproceedings{trevithick2023,
+            author = {Alex Trevithick and Matthew Chan and Michael Stengel and Eric R. Chan and Chao Liu and Zhiding Yu and Sameh Khamis and Manmohan Chandraker and Ravi Ramamoorthi and Koki Nagano},
+            title = {Real-Time Radiance Fields for Single-Image Portrait View Synthesis},
+            booktitle = {ACM Transactions on Graphics (SIGGRAPH)},
+            year = {2023}
+          }
