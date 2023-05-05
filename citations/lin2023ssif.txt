@@ -1,0 +1,6 @@
+@inproceedings{lin2023ssif,
+            author = {Connor Z. Lin and Koki Nagano and Jan Kautz and Eric R. Chan and Umar Iqbal and Leonidas Guibas and Gordon Wetzstein and Sameh Khamis},
+            title = {Single-shot Implicit Morphable Faces with Consistent Texture Parameterization},
+            booktitle = {ACM SIGGRAPH 2023 Conference Proceedings},
+            year = {2023}
+          }

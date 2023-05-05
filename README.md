@@ -12,11 +12,13 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Live 3D Portrait: Real-Time Radiance Fields for Single-Image Portrait View Synthesis](https://research.nvidia.com/labs/nxp/lp3d/), Trevithick et al., SIGGRAPH 2023 | [bibtex](./citations/trevithick2023.txt)
 - [GeNVS: Generative Novel View Synthesis with 3D-Aware Diffusion Models](https://nvlabs.github.io/genvs/), Chan et al., Arxiv 2023 | [github](https://github.com/NVlabs/genvs) | [bibtex](./citations/genvs.txt)
 - [NeRDi: Single-View NeRF Synthesis with Language-Guided Diffusion as General Image Priors](https://arxiv.org/abs/2212.03267), Deng et al., CVPR 2023 | [bibtex](./citations/deng2022nerdi.txt)
+- [SSIF: Single-shot Implicit Morphable Faces with Consistent Texture Parameterization](https://research.nvidia.com/labs/toronto-ai/ssif/), Lin et al., SIGGRAPH 2023 | [bibtex](./citations/lin2023ssif.txt)
 - [Learning a Diffusion Prior for NeRFs](https://arxiv.org/abs/2304.14473), Yang et al., Arxiv 2023
 - [Nerflets: Local Radiance Fields for Efficient Structure-Aware 3D Scene Representation from 2D Supervision](https://jetd1.github.io/nerflets-web/), Zhang et al., CVPR 2023 | [bibtex](./citations/nerflets.txt)
 - [Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions](https://instruct-nerf2nerf.github.io/), Haque et al., Arxiv 2023 | [github](https://github.com/ayaanzhaque/instruct-nerf2nerf) | [bibtex](./citations/instructnerf2023.txt)
 - [GINA-3D: Learning to Generate Implicit Neural Assets in the Wild](https://arxiv.org/abs/2304.02163), Shen et al., CVPR 2023 | [bibtex](./citations/gina.txt)
 - [DreamBooth3D: Subject-Driven Text-to-3D Generation](https://dreambooth3d.github.io/), Raj et al., Arxiv 2023 | [bibtex](./citations/dreambooth3d.txt)
+- [Shap-E: Generating Conditional 3D Implicit Functions](https://arxiv.org/abs/2305.02463), Jun et al., Arxiv 2023 | [github](https://github.com/openai/shap-e)
 - [Neural Lens Modeling](https://neural-lens.github.io/), Xian et al., CVPR 2023 | [bibtex](./citations/neurallens.txt)
 - [DeLiRa: Self-Supervised Depth, Light, and Radiance Fields](https://sites.google.com/view/tri-delira), Guizilini et al., Arxiv 2023 | [bibtex](./citations/delira.txt)
 - [F2-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories](https://totoro97.github.io/projects/f2-nerf/), Wang et al., CVPR 2023 | [github](https://github.com/totoro97/f2-nerf) | [bibtex](./citations/f2nerf.txt)
@@ -40,6 +42,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Compressing Volumetric Radiance Fields to 1 MB](https://arxiv.org/abs/2211.16386), Li et al., CVPR 2023 | [github](https://github.com/AlgoHunt/VQRF) | [bibtex](./citations/li2022compressing.txt)
 - [Total-Recon: Deformable Scene Reconstruction for Embodied View Synthesis](https://andrewsonga.github.io/totalrecon/), Song et al., Arxiv 2023 | [github](https://github.com/andrewsonga/Total-Recon) | [bibtex](./citations/song2023totalrecon.txt)
 - [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/), Kerbl et al., SIGGRAPH 2023 | [github](https://gitlab.inria.fr/fungraph/)
+- [Real-Time Neural Appearance Models](https://research.nvidia.com/labs/rtr/neural_appearance_models/), Zeltner et al., Arxiv 2023
 - [Towards Realistic Generative 3D Face Models](https://aashishrai3799.github.io/Towards-Realistic-Generative-3D-Face-Models/), Raj et al., Arxiv 2023 | [github](https://github.com/aashishrai3799/Towards-Realistic-Generative-3D-Face-Models/)
 - [Pointersect: Neural Rendering with Cloud-Ray Intersection](https://machinelearning.apple.com/research/pointersect), Chang et al., CVPR 2023 | [bibtex](./citations/pointersect.txt)
 - [TextMesh: Generation of Realistic 3D Meshes From Text Prompts](https://fabi92.github.io/textmesh/), Tsalicoglou et al., Arxiv 2023
