@@ -1,0 +1,6 @@
+@article{cheng2023tuvf,
+  author = {Cheng, An-Chieh and Li, Xueting and Liu, Sifei and Wang, Xiaolong},
+  title = {TUVF: Learning Generalizable Texture UV Radiance Fields},
+  journal = {arXiv},
+  year = {2023},
+}
