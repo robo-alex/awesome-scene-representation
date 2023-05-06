@@ -1,0 +1,7 @@
+@InProceedings{xu2023latentavatar,
+title={LatentAvatar: Learning Latent Expression Code for Expressive Neural Head Avatar},
+author={Xu, Yuelang and Zhang, Hongwen and Wang, Lizhen and Zhao, Xiaochen and Han, Huang and Guojun, Qi and Liu, Yebin},
+booktitle={ACM SIGGRAPH 2023 Conference Proceedings},
+pages={},
+year={2023}
+}
