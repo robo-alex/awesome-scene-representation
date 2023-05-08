@@ -1,0 +1,7 @@
+
+@inproceedings{ntc2023,
+    author = {Vaidyanathan, Karthik and Salvi, Marco and Wronski, Bartlomiej and Akenine-Möller, Tomas and Ebelin, Pontus and Lefohn, Aaron},
+    title = "{Random-Access Neural Compression of Material Textures}",
+    year = {2023},
+    booktitle = {Proceedings of SIGGRAPH},
+}

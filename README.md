@@ -35,6 +35,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [AligNeRF: High-Fidelity Neural Radiance Fields via Alignment-Aware Training](https://yifanjiang19.github.io/alignerf), Jiang et al., CVPR 2023 | [bibtex](./citations/alignerf.txt)
 - [LANe : Lighting-Aware Neural Fields for Compositional Scene Synthesis](https://lane-composition.github.io/), Krishnan et al., Arxiv 2023 | [bibtex](./citations/lane.txt)
 - [Neural Fields meet Explicit Geometric Representations for Inverse Rendering of Urban Scenes](https://nv-tlabs.github.io/fegr/), Wang et al., CVPR 2023 | [bibtex](./citations/fegr.txt)
+- [Random-Access Neural Compression of Material Textures](https://research.nvidia.com/labs/rtr/neural_texture_compression/), Vaidyanathan et al., SIGGRAPH 2023 | [bibtex](./citations/ntc2023.txt)
 - [Lift3D: Synthesize 3D Training Data by Lifting 2D GAN to 3D Generative Radiance Field](https://len-li.github.io/lift3d-web/), Li et al., CVPR 2023 | [github](https://github.com/Len-Li/Lift3D) | [bibtex](./citations/lift3d.txt)
 - [ReLight My NeRF: A Dataset for Novel View Synthesis and Relighting of Real World Objects](https://eyecan-ai.github.io/rene/), Toschi et al., CVPR 2023
 - [SPARF: Neural Radiance Fields from Sparse and Noisy Poses](http://prunetruong.com/sparf.github.io/), Truong et al., CVPR 2023 | [github](https://github.com/google-research/sparf) | [bibtex](./citations/sparf2023.txt)
@@ -107,6 +108,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [EventNeRF: Neural Radiance Fields from a Single Colour](https://4dqv.mpi-inf.mpg.de/EventNeRF/), Rudnev et al., CVPR 2023 | [bibtex](./citations/eventnerf.txt)
 - [Factored Neural Representation for Scene Understanding](https://yushiangw.github.io/factorednerf/), Wong et al., Arxiv 2023 | [github](https://github.com/yushiangw/factorednerf) | [bibtex](./citations/factorednerf.txt)
 - [L2G-NeRF: Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields](https://rover-xingyu.github.io/L2G-NeRF/), Chen et al., CVPR 2023 | [github](https://github.com/rover-xingyu/L2G-NeRF) | [bibtex](./citations/l2gnerf.txt)
+- [Radiance Field Gradient Scaling for Unbiased Near-Camera Training](https://arxiv.org/abs/2305.02756), Philip et al., Arxiv 2023
 - [Removing Objects From Neural Radiance Fields](https://nianticlabs.github.io/nerf-object-removal/), Weder wt al., CVPR 2023 | [github]() | [bibtex](./citations/weder2023removing.txt)
 - [Evaluate Geometry of Radiance Field with Low-frequency Color Prior](https://arxiv.org/abs/2304.04351), Fang et al., Arxiv 2023 | [github](https://github.com/qihangGH/IMRC) | [bibtex](./citations/imrc.txt)
 - [VDN-NeRF: Resolving Shape-Radiance Ambiguity via View-Dependence Normalization](https://arxiv.org/abs/2303.17968), Zhu et al., Arxiv 2023 | [github](https://github.com/BoifZ/VDN-NeRF) | [bibtex](./citations/vdn.txt)
@@ -122,6 +124,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [LatentAvatar: Learning Latent Expression Code for Expressive Neural Head Avatar](https://www.liuyebin.com/latentavatar), Xu et al., SIGGRAPH 2023 | [github](https://github.com/YuelangX/LatentAvatar) [bibtex](./citations/xu2023latentavatar.txt)
 - [Object-Centric Voxelization of Dynamic Scenes via Inverse Neural Rendering](https://sites.google.com/view/dynavol-visual), Gao et al., Arxiv 2023
 - [ViP-NeRF: Visibility Prior for Sparse Input Neural Radiance Fields](https://nagabhushansn95.github.io/publications/2023/ViP-NeRF.html), Somraj et al., SIGGRAPH 2023 | [github](https://github.com/NagabhushanSN95/ViP-NeRF) | [bibtex](./citations/vipnerf.txt)
+- [General Neural Gauge Fields](https://arxiv.org/abs/2305.03462), Zhan et al., ICLR 2023
 - [Online Learning of Neural Surface Light Fields alongside Real-time Incremental 3D Reconstruction](https://jarrome.github.io/NSLF-OL/), Yuan et al., Arxiv 2023 | [github](https://github.com/Jarrome/NSLF-OL) | [bibtex](./citations/yuan2023online.txt)
 - [MRVM-NeRF: Mask-Based Pretraining for Neural Radiance Field](https://arxiv.org/abs/2304.04962), Yang et al., Arxiv 2023 | [bibtex](./citations/mrvm.txt)
 - [UV Volumes for Real-time Rendering of Editable Free-view Human Performance](https://fanegg.github.io/UV-Volumes/), Chen et al., CVPR 2023 | [github](https://github.com/fanegg/UV-Volumes) | [bibtex](./citations/uvvolumes.txt)
