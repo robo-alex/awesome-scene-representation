@@ -1,0 +1,6 @@
+@article{chen2023factor,
+  title={Factor Fields: A Unified Framework for Neural Fields and Beyond},
+  author={Chen, Anpei and Xu, Zexiang and Wei, Xinyue and Tang, Siyu and Su, Hao and Geiger, Andreas},
+  journal={arXiv preprint arXiv:2302.01226},
+  year={2023}
+}

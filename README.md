@@ -68,6 +68,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [NeRFMeshing: Distilling Neural Radiance Fields into Geometrically-Accurate 3D Meshes](https://arxiv.org/abs/2303.09431), Rakotosaona et al., Arxiv 2023 | [bibtex](./citations/nerfmeshing.txt)
 - [Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion](https://3d-avatar-diffusion.microsoft.com/), Wang et al., CVPR 2023 | [bibtex](./citations/rodin.txt)
 - [Zero-1-to-3: Zero-shot One Image to 3D Object](https://zero123.cs.columbia.edu/), Liu et al., Arxiv 2023 | [github](https://github.com/cvlab-columbia/zero123) | [bibtex](./citations/zero123.txt)
+- [Factor Fields: A Unified Framework for Neural Fields and Beyond](https://arxiv.org/abs/2302.01226), Chen et al., Arxiv 2023 | [bibtex](./citations/chen2023factor.txt)
 - [Ref-NPR: Reference-Based Non-Photorealistic Radiance Fields for Controllable Scene Stylization](https://ref-npr.github.io/), Zhang et al.,CVPR 2023 | [github](https://github.com/dvlab-research/Ref-NPR/) | [bibtex](./citations/zhang2023refnpr.txt)
 - [FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization](https://jiawei-yang.github.io/FreeNeRF/), Yang et al., CVPR 2023 | [github](https://github.com/Jiawei-Yang/FreeNeRF) | [bibtex](./citations/freenerf.txt)
 - [TUVF : Learning Generalizable Texture UV Radiance Fields](https://www.anjiecheng.me/TUVF), Cheng et al., Arxiv 2023 | [github](https://github.com/AnjieCheng/TUVF) | [bibtex](./citations/cheng2023tuvf.txt)
