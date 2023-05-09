@@ -123,6 +123,8 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [NeRSemble: Multi-view Radiance Field Reconstruction of Human Heads](https://tobias-kirschstein.github.io/nersemble/), Kirschstein et al., SIGGRAPH Asia 2023
 - [AvatarCraft: Transforming Text into Neural Human Avatars with Parameterized Shape and Pose Control](https://avatar-craft.github.io/), Jiang et al., Arxiv 2023 | [github](https://github.com/songrise/avatarcraft) | [bibtex](./citations/avatarcraft.txt)
 - [LatentAvatar: Learning Latent Expression Code for Expressive Neural Head Avatar](https://www.liuyebin.com/latentavatar), Xu et al., SIGGRAPH 2023 | [github](https://github.com/YuelangX/LatentAvatar) [bibtex](./citations/xu2023latentavatar.txt)
+- [AvatarReX: Real-time Expressive Full-body Avatars](https://liuyebin.com/AvatarRex/), Zheng et al., SIGGRAPH 2023 | [bibtex](./citations/zheng2023avatarrex.txt)
+- [DreamFace: Progressive Generation of Animatable 3D Faces under Text Guidance](https://sites.google.com/view/dreamface), Zhang et al., SIGGRAPH 2023 | [bibtex](./citations/zhang2023dreamface.txt)
 - [Object-Centric Voxelization of Dynamic Scenes via Inverse Neural Rendering](https://sites.google.com/view/dynavol-visual), Gao et al., Arxiv 2023
 - [ViP-NeRF: Visibility Prior for Sparse Input Neural Radiance Fields](https://nagabhushansn95.github.io/publications/2023/ViP-NeRF.html), Somraj et al., SIGGRAPH 2023 | [github](https://github.com/NagabhushanSN95/ViP-NeRF) | [bibtex](./citations/vipnerf.txt)
 - [General Neural Gauge Fields](https://arxiv.org/abs/2305.03462), Zhan et al., ICLR 2023
@@ -142,6 +144,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [S-VolSDF: Sparse Multi-View Stereo Regularization of Neural Implicit Surfaces](https://hao-yu-wu.github.io/s-volsdf/), Wu et al., Arxiv 2023 | [bibtex](./citations/svolsdf.txt)
 - [SurfelNeRF: Neural Surfel Radiance Fields for Online Photorealistic Reconstruction of Indoor Scenes](https://gymat.github.io/SurfelNeRF-web/), Gao et al., CVPR 2023 | [bibtex](./citations/surfelnerf.txt)
 - [Learning Neural Duplex Radiance Fields for Real-Time View Synthesis](http://raywzy.com/NDRF/), Wan et al., CVPR 2023 | [bibtex](./citations/ndrf.txt)
+- [Multi-Space Neural Radiance Fields](https://zx-yin.github.io/msnerf/), Yin et al., CVPR 2023 | [bibtex](./citations/yin2023msnerf.txt)
 - [Tetra-NeRF: Representing Neural Radiance Fields Using Tetrahedra](https://jkulhanek.com/tetra-nerf/), Kulhánek et al., Arxiv 2023 | [github](https://github.com/jkulhanek/tetra-nerf/) | [bibtex](./citations/tetra.txt)
 - [Multiscale Representation for Real-Time Anti-Aliasing Neural Rendering](https://arxiv.org/abs/2304.10075), Hu et al., Arxiv 2023 | [bibtex](./citations/multiscale.txt)
 - [MixNeRF: Memory Efficient NeRF with Feature Mixed-up Hash Table](https://arxiv.org/abs/2304.12587), Lee et al., Arxiv 2023 | [github](https://github.com/nfyfamr/MixNeRF)

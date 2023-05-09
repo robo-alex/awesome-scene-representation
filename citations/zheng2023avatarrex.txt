@@ -1,0 +1,10 @@
+@article{zheng2023avatarrex,
+title={AvatarRex: Real-time Expressive Full-body Avatars},
+author={Zheng, Zerong and Zhao, Xiaochen and Zhang, Hongwen and Liu, Boning and Liu, Yebin},
+journal={ACM Transactions on Graphics (TOG)},
+volume={42},
+number={4},
+articleno={},
+year={2023},
+publisher={ACM New York, NY, USA}
+}

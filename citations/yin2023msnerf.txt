@@ -1,0 +1,6 @@
+@inproceedings{yin2023msnerf,
+	author    = {Ze-Xin Yin and Jiaxiong Qiu and Ming-Ming Cheng and Bo Ren},
+	title     = {Multi-Space Neural Radiance Fields},
+	journal   = {The IEEE/CVF Computer Vision and Pattern Recognition Conference(CVPR)},
+	year      = {2023}
+	}
