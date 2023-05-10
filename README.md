@@ -3,6 +3,7 @@
 A curated list of awesome scene representation(NeRFs) papers, code, and resources.
 
 - [Nerfstudio: A Modular Framework for Neural Radiance Field Development](https://docs.nerf.studio/en/latest/), Tancik et al., Arxiv 2023 | [github](https://github.com/nerfstudio-project/nerfstudio/) | [bibtex](./citations/nerfstudio.txt)
+- [NerfAcc: A General NeRF Acceleration Toolbox](https://www.nerfacc.com/en/latest/), Li et al., Arxiv 2023 | [github](https://github.com/KAIR-BAIR/nerfacc) | [bibtex](./citations/li2023nerfacc.txt)
 - [LERF: Language Embedded Radiance Fields](https://www.lerf.io/), Kerr et al., Arxiv 2023 | [github](https://github.com/kerrj/lerf) | [bibtex](./citations/lerf.txt)
 - [Nerfbusters: Removing Ghostly Artifacts from Casually Captured NeRFs](https://ethanweber.me/nerfbusters/), Warburg et al., Arxiv 2023 | [github](https://github.com/ethanweber/nerfbusters) | [bibtex](./citations/nerfbusters.txt)
 - [MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes](https://merf42.github.io/), Reiser et al., Arxiv 2023 | [github-unofficial](https://github.com/ashawkey/torch-merf) | [bibtex](./citations/merf.txt)
