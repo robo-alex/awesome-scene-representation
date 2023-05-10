@@ -118,6 +118,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [DITTO-NeRF: Diffusion-based Iterative Text To Omni-directional 3D Model](https://janeyeon.github.io/ditto-nerf/), Seo et al., Arxiv 2023 | [github](https://github.com/janeyeon/ditto-nerf-code) | [bibtex](./citations/ditto.txt)
 - [Neural Microfacet Fields for Inverse Rendering](https://half-potato.gitlab.io/posts/nmf/), Mai et al., Arxiv 2023 | [github](https://github.com/half-potato/nmf) | [bibtex](./citations/nmf.txt)
 - [I2-SDF: Intrinsic Indoor Scene Reconstruction and Editing via Raytracing in Neural SDFs](https://jingsenzhu.github.io/i2-sdf/), Zhu et al., CVPR 2023 | [github](https://github.com/jingsenzhu/i2-sdf) | [bibtex](./citations/i2sdf.txt)
+- [PET-NeuS: Positional Encoding Tri-Planes for Neural Surfaces](https://github.com/yiqun-wang/PET-NeuS), Wang et al., CVPR 2023
 - [Reference-guided Controllable Inpainting of Neural Radiance Fields](https://ashmrz.github.io/reference-guided-3d/), Mirzaei et al., Arxiv 2023 | [bibtex](./citations/reference.txt)
 - [TiNeuVox: Fast Dynamic Radiance Fields with Time-Aware Neural Voxels](https://jaminfong.cn/tineuvox/), Fang et al., SIGGRAPH Asia 2022 | [github](https://github.com/hustvl/TiNeuVox) | [bibtex](./citations/tineuvox.txt)
 - [NeRSemble: Multi-view Radiance Field Reconstruction of Human Heads](https://tobias-kirschstein.github.io/nersemble/), Kirschstein et al., SIGGRAPH Asia 2023
