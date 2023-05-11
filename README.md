@@ -125,6 +125,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [NeRSemble: Multi-view Radiance Field Reconstruction of Human Heads](https://tobias-kirschstein.github.io/nersemble/), Kirschstein et al., SIGGRAPH Asia 2023
 - [AvatarCraft: Transforming Text into Neural Human Avatars with Parameterized Shape and Pose Control](https://avatar-craft.github.io/), Jiang et al., Arxiv 2023 | [github](https://github.com/songrise/avatarcraft) | [bibtex](./citations/avatarcraft.txt)
 - [LatentAvatar: Learning Latent Expression Code for Expressive Neural Head Avatar](https://www.liuyebin.com/latentavatar), Xu et al., SIGGRAPH 2023 | [github](https://github.com/YuelangX/LatentAvatar) [bibtex](./citations/xu2023latentavatar.txt)
+- [HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion](http://www.synthesiaresearch.github.io/humanrf), IŞIK et al., SIGGRAPH 2023
 - [AvatarReX: Real-time Expressive Full-body Avatars](https://liuyebin.com/AvatarRex/), Zheng et al., SIGGRAPH 2023 | [bibtex](./citations/zheng2023avatarrex.txt)
 - [DreamFace: Progressive Generation of Animatable 3D Faces under Text Guidance](https://sites.google.com/view/dreamface), Zhang et al., SIGGRAPH 2023 | [bibtex](./citations/zhang2023dreamface.txt)
 - [Object-Centric Voxelization of Dynamic Scenes via Inverse Neural Rendering](https://sites.google.com/view/dynavol-visual), Gao et al., Arxiv 2023
