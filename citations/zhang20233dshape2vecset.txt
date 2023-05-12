@@ -1,0 +1,6 @@
+@article{zhang20233dshape2vecset,
+  title={3dshape2vecset: A 3d shape representation for neural fields and generative diffusion models},
+  author={Zhang, Biao and Tang, Jiapeng and Niessner, Matthias and Wonka, Peter},
+  journal={arXiv preprint arXiv:2301.11445},
+  year={2023}
+}
