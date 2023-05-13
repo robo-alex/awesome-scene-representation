@@ -1,0 +1,6 @@
+@article{marza2023autonerf,
+  title={AutoNeRF: Training Implicit Scene Representations with Autonomous Agents},
+  author={Marza, Pierre and Matignon, Laetitia and Simonin, Olivier and Batra, Dhruv and Wolf, Christian and Chaplot, Devendra Singh},
+  journal={arXiv preprint arXiv:2304.11241},
+  year={2023}
+}

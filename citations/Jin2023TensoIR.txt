@@ -1,0 +1,6 @@
+@inproceedings{Jin2023TensoIR,
+  title={TensoIR: Tensorial Inverse Rendering},
+  author={Jin, Haian and Liu, Isabella and Xu, Peijia and Zhang, Xiaoshuai and Han, Songfang and Bi, Sai and Zhou, Xiaowei and Xu, Zexiang and Su, Hao},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2023}
+}

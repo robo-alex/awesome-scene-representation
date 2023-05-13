@@ -1,0 +1,6 @@
+@article{li2023instant,
+  title={Instant Neural Radiance Fields Stylization},
+  author={Li, Shaoxu and Pan, Ye},
+  journal={arXiv preprint arXiv:2303.16884},
+  year={2023}
+}

@@ -1,0 +1,6 @@
+@inproceedings{wang2023coslam,
+        title={Co-SLAM: Joint Coordinate and Sparse Parametric Encodings for Neural Real-Time SLAM},
+        author={Wang, Hengyi and Wang, Jingwen and Agapito, Lourdes},
+        booktitle={CVPR},
+        year={2023}
+}
