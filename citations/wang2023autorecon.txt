@@ -1,0 +1,6 @@
+@inproceedings{wang2023autorecon,
+  title={AutoRecon: Automated 3D Object Discovery and Reconstruction},
+  author={Wang, Yuang and He, Xingyi and Peng, Sida and Lin, Haotong and Bao, Hujun and Zhou, Xiaowei},
+  booktitle={CVPR},
+  year={2023}
+}
