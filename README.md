@@ -45,7 +45,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Compressing Volumetric Radiance Fields to 1 MB](https://arxiv.org/abs/2211.16386), Li et al., CVPR 2023 | [github](https://github.com/AlgoHunt/VQRF) | [bibtex](./citations/li2022compressing.txt)
 - [AutoRecon: Automated 3D Object Discovery and Reconstruction](https://zju3dv.github.io/autorecon/), Wang et al., CVPR 2023 | [github](https://github.com/zju3dv/AutoRecon) | [bibtex](./citations/wang2023autorecon.txt)
 - [Total-Recon: Deformable Scene Reconstruction for Embodied View Synthesis](https://andrewsonga.github.io/totalrecon/), Song et al., Arxiv 2023 | [github](https://github.com/andrewsonga/Total-Recon) | [bibtex](./citations/song2023totalrecon.txt)
-- [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/), Kerbl et al., SIGGRAPH 2023 | [github](https://gitlab.inria.fr/fungraph/)
+- [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/), Kerbl et al., SIGGRAPH 2023 | [github](https://gitlab.inria.fr/fungraph/) | [bibtex](./citations/kerbl3Dgaussians.txt)
 - [Real-Time Neural Appearance Models](https://research.nvidia.com/labs/rtr/neural_appearance_models/), Zeltner et al., Arxiv 2023
 - [Towards Realistic Generative 3D Face Models](https://aashishrai3799.github.io/Towards-Realistic-Generative-3D-Face-Models/), Raj et al., Arxiv 2023 | [github](https://github.com/aashishrai3799/Towards-Realistic-Generative-3D-Face-Models/)
 - [Pointersect: Neural Rendering with Cloud-Ray Intersection](https://machinelearning.apple.com/research/pointersect), Chang et al., CVPR 2023 | [bibtex](./citations/pointersect.txt)
@@ -155,4 +155,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Instant Neural Radiance Fields Stylization](https://arxiv.org/abs/2303.16884), Li et al., Arxiv 2023 | [bibtex](./citations/li2023instant.txt)
 - [MixNeRF: Memory Efficient NeRF with Feature Mixed-up Hash Table](https://arxiv.org/abs/2304.12587), Lee et al., Arxiv 2023 | [github](https://github.com/nfyfamr/MixNeRF)
 - [Real-Time Neural Light Field on Mobile Devices](https://snap-research.github.io/MobileR2L/), Cao et al., CVPR 2023 | [github](https://github.com/snap-research/MobileR2L) | [bibtex](./citations/mobiler2l.txt)
+- [ConsistentNeRF: Enhancing Neural Radiance Fields with 3D Consistency for Sparse View Synthesis](https://arxiv.org/pdf/2305.11031.pdf), Hu et al., Arxiv 2023
+- [OR-NeRF: Object Removing from 3D Scenes Guided by Multiview Segmentation with Neural Radiance Fields](https://arxiv.org/pdf/2305.10503.pdf), Yin et al., Arxiv 2023
 - [VGOS: Voxel Grid Optimization for View Synthesis from Sparse Inputs](https://arxiv.org/pdf/2304.13386.pdf), Sun et al., ICJAI 2023
+- [DP-NeRF: Deblurred Neural Radiance Field with Physical Scene Priors](https://dogyoonlee.github.io/dpnerf/), Lee et al., CVPR 2023 | [github](https://github.com/dogyoonlee/DP-NeRF) | [bibtex](./citations/dpnerf.txt)
