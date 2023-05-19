@@ -113,7 +113,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Factored Neural Representation for Scene Understanding](https://yushiangw.github.io/factorednerf/), Wong et al., Arxiv 2023 | [github](https://github.com/yushiangw/factorednerf) | [bibtex](./citations/factorednerf.txt)
 - [L2G-NeRF: Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields](https://rover-xingyu.github.io/L2G-NeRF/), Chen et al., CVPR 2023 | [github](https://github.com/rover-xingyu/L2G-NeRF) | [bibtex](./citations/l2gnerf.txt)
 - [Radiance Field Gradient Scaling for Unbiased Near-Camera Training](https://arxiv.org/abs/2305.02756), Philip et al., Arxiv 2023
-- [Removing Objects From Neural Radiance Fields](https://nianticlabs.github.io/nerf-object-removal/), Weder wt al., CVPR 2023 | [github]() | [bibtex](./citations/weder2023removing.txt)
+- [Removing Objects From Neural Radiance Fields](https://nianticlabs.github.io/nerf-object-removal/), Weder wt al., CVPR 2023 | [bibtex](./citations/weder2023removing.txt)
 - [Evaluate Geometry of Radiance Field with Low-frequency Color Prior](https://arxiv.org/abs/2304.04351), Fang et al., Arxiv 2023 | [github](https://github.com/qihangGH/IMRC) | [bibtex](./citations/imrc.txt)
 - [VDN-NeRF: Resolving Shape-Radiance Ambiguity via View-Dependence Normalization](https://arxiv.org/abs/2303.17968), Zhu et al., Arxiv 2023 | [github](https://github.com/BoifZ/VDN-NeRF) | [bibtex](./citations/vdn.txt)
 - [Behind the Scenes: Density Fields for Single View Reconstruction](https://fwmb.github.io/bts/), Wimbauer et al., CVPR 2023 | [github](https://github.com/Brummi/BehindTheScenes) | [bibtex](./citations/behind.txt)
