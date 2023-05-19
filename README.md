@@ -19,7 +19,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions](https://instruct-nerf2nerf.github.io/), Haque et al., Arxiv 2023 | [github](https://github.com/ayaanzhaque/instruct-nerf2nerf) | [bibtex](./citations/instructnerf2023.txt)
 - [GINA-3D: Learning to Generate Implicit Neural Assets in the Wild](https://arxiv.org/abs/2304.02163), Shen et al., CVPR 2023 | [bibtex](./citations/gina.txt)
 - [DreamBooth3D: Subject-Driven Text-to-3D Generation](https://dreambooth3d.github.io/), Raj et al., Arxiv 2023 | [bibtex](./citations/dreambooth3d.txt)
-- [Shap-E: Generating Conditional 3D Implicit Functions](https://arxiv.org/abs/2305.02463), Jun et al., Arxiv 2023 | [github](https://github.com/openai/shap-e)
+- [Shap-E: Generating Conditional 3D Implicit Functions](https://arxiv.org/abs/2305.02463), Jun et al., Arxiv 2023 | [github](https://github.com/openai/shap-e) | [bibtex](./citations/jun2023shap.txt)
 - [Neural Lens Modeling](https://neural-lens.github.io/), Xian et al., CVPR 2023 | [bibtex](./citations/neurallens.txt)
 - [DeLiRa: Self-Supervised Depth, Light, and Radiance Fields](https://sites.google.com/view/tri-delira), Guizilini et al., Arxiv 2023 | [bibtex](./citations/delira.txt)
 - [F2-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories](https://totoro97.github.io/projects/f2-nerf/), Wang et al., CVPR 2023 | [github](https://github.com/totoro97/f2-nerf) | [bibtex](./citations/f2nerf.txt)

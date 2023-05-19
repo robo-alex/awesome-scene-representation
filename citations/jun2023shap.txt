@@ -1,0 +1,6 @@
+@article{jun2023shap,
+  title={Shap-E: Generating Conditional 3D Implicit Functions},
+  author={Jun, Heewoo and Nichol, Alex},
+  journal={arXiv preprint arXiv:2305.02463},
+  year={2023}
+}
