@@ -45,6 +45,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Compressing Volumetric Radiance Fields to 1 MB](https://arxiv.org/abs/2211.16386), Li et al., CVPR 2023 | [github](https://github.com/AlgoHunt/VQRF) | [bibtex](./citations/li2022compressing.txt)
 - [AutoRecon: Automated 3D Object Discovery and Reconstruction](https://zju3dv.github.io/autorecon/), Wang et al., CVPR 2023 | [github](https://github.com/zju3dv/AutoRecon) | [bibtex](./citations/wang2023autorecon.txt)
 - [Total-Recon: Deformable Scene Reconstruction for Embodied View Synthesis](https://andrewsonga.github.io/totalrecon/), Song et al., Arxiv 2023 | [github](https://github.com/andrewsonga/Total-Recon) | [bibtex](./citations/song2023totalrecon.txt)
+- [DynIBaR: Neural Dynamic Image-Based Rendering](https://dynibar.github.io/), Li et al., CVPR 2023 | [github](https://github.com/google/dynibar) | [bibtex](./citations/li2023dynibar.txt)
 - [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/), Kerbl et al., SIGGRAPH 2023 | [github](https://gitlab.inria.fr/fungraph/) | [bibtex](./citations/kerbl3Dgaussians.txt)
 - [Real-Time Neural Appearance Models](https://research.nvidia.com/labs/rtr/neural_appearance_models/), Zeltner et al., Arxiv 2023
 - [Towards Realistic Generative 3D Face Models](https://aashishrai3799.github.io/Towards-Realistic-Generative-3D-Face-Models/), Raj et al., Arxiv 2023 | [github](https://github.com/aashishrai3799/Towards-Realistic-Generative-3D-Face-Models/)
