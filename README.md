@@ -77,6 +77,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization](https://jiawei-yang.github.io/FreeNeRF/), Yang et al., CVPR 2023 | [github](https://github.com/Jiawei-Yang/FreeNeRF) | [bibtex](./citations/freenerf.txt)
 - [TUVF : Learning Generalizable Texture UV Radiance Fields](https://www.anjiecheng.me/TUVF), Cheng et al., Arxiv 2023 | [github](https://github.com/AnjieCheng/TUVF) | [bibtex](./citations/cheng2023tuvf.txt)
 - [Super-NeRF: View-consistent Detail Generation for NeRF super-resolution](https://arxiv.org/abs/2304.13518), Han et al., TPAMI 2023
+- [Chat with NeRF: Grounding 3D Objects in Neural Radiance Field through Dialog](https://chat-with-nerf.github.io/), Yang et al, Arxiv 2023 | [github](https://github.com/sled-group/chat-with-nerf)
 - [Segment Anything in 3D with NeRFs](https://jumpat.github.io/SA3D/), Cen et al., Arxiv 2023 | [github](https://github.com/Jumpat/SegmentAnythingin3D) | [bibtex](./citations/cen2023segment.txt)
 - [HOSNeRF: Dynamic Human-Object-Scene Neural Radiance Fields from a Single Video](https://showlab.github.io/HOSNeRF/), Liu et al., Arxiv 2023 | [bibtex](./citations/liu2023hosnerf.txt)
 - [Explicit Correspondence Matching for Generalizable Neural Radiance Fields](https://donydchen.github.io/matchnerf/), Chen et al., CVPR 2023 | [github](https://github.com/donydchen/matchnerf) | [bibtex](./citations/chen2023matchnerf.txt)
@@ -155,6 +156,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Instant Neural Radiance Fields Stylization](https://arxiv.org/abs/2303.16884), Li et al., Arxiv 2023 | [bibtex](./citations/li2023instant.txt)
 - [MixNeRF: Memory Efficient NeRF with Feature Mixed-up Hash Table](https://arxiv.org/abs/2304.12587), Lee et al., Arxiv 2023 | [github](https://github.com/nfyfamr/MixNeRF)
 - [Real-Time Neural Light Field on Mobile Devices](https://snap-research.github.io/MobileR2L/), Cao et al., CVPR 2023 | [github](https://github.com/snap-research/MobileR2L) | [bibtex](./citations/mobiler2l.txt)
+- [Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation](https://fantasia3d.github.io/), Chen et al., Arxiv 2023 | [github](https://github.com/Gorilla-Lab-SCUT/Fantasia3D) | [bibtex](./citations/chen2023fantasia3d.txt)
 - [ConsistentNeRF: Enhancing Neural Radiance Fields with 3D Consistency for Sparse View Synthesis](https://arxiv.org/pdf/2305.11031.pdf), Hu et al., Arxiv 2023
 - [OR-NeRF: Object Removing from 3D Scenes Guided by Multiview Segmentation with Neural Radiance Fields](https://arxiv.org/pdf/2305.10503.pdf), Yin et al., Arxiv 2023
 - [VGOS: Voxel Grid Optimization for View Synthesis from Sparse Inputs](https://arxiv.org/pdf/2304.13386.pdf), Sun et al., ICJAI 2023
