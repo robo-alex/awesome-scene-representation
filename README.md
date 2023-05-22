@@ -40,6 +40,8 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Neural Prefiltering for Correlation-Aware Levels of Detail](https://weiphil.github.io/portfolio/neural_lod), Weier et al., SIGGRAPH 2023 | [github](https://github.com/WeiPhil/neural_lod)
 - [Lift3D: Synthesize 3D Training Data by Lifting 2D GAN to 3D Generative Radiance Field](https://len-li.github.io/lift3d-web/), Li et al., CVPR 2023 | [github](https://github.com/Len-Li/Lift3D) | [bibtex](./citations/lift3d.txt)
 - [ReLight My NeRF: A Dataset for Novel View Synthesis and Relighting of Real World Objects](https://eyecan-ai.github.io/rene/), Toschi et al., CVPR 2023
+- [Text2NeRF: Text-Driven 3D Scene Generation with Neural Radiance Fields](https://eckertzhang.github.io/Text2NeRF.github.io/), Zhang et al., Arxiv 2023
+- [Semantic-Ray: Learning a Generalizable Semantic Field with Cross-Reprojection Attention](https://liuff19.github.io/S-Ray/), Liu et al., CVPR 2023 | [github](https://github.com/liuff19/Semantic-Ray) | [bibtex](./citations/liu2023semantic.txt)
 - [SPARF: Neural Radiance Fields from Sparse and Noisy Poses](http://prunetruong.com/sparf.github.io/), Truong et al., CVPR 2023 | [github](https://github.com/google-research/sparf) | [bibtex](./citations/sparf2023.txt)
 - [ActorsNeRF: Animatable Few-shot Human Rendering with Generalizable NeRFs](https://jitengmu.github.io/ActorsNeRF/), Mu et al., Arxiv 2023 | [bibtex](./citations/mu2023actorsnerf.txt)
 - [Compressing Volumetric Radiance Fields to 1 MB](https://arxiv.org/abs/2211.16386), Li et al., CVPR 2023 | [github](https://github.com/AlgoHunt/VQRF) | [bibtex](./citations/li2022compressing.txt)
