@@ -81,7 +81,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization](https://jiawei-yang.github.io/FreeNeRF/), Yang et al., CVPR 2023 | [github](https://github.com/Jiawei-Yang/FreeNeRF) | [bibtex](./citations/freenerf.txt)
 - [TUVF : Learning Generalizable Texture UV Radiance Fields](https://www.anjiecheng.me/TUVF), Cheng et al., Arxiv 2023 | [github](https://github.com/AnjieCheng/TUVF) | [bibtex](./citations/cheng2023tuvf.txt)
 - [Super-NeRF: View-consistent Detail Generation for NeRF super-resolution](https://arxiv.org/abs/2304.13518), Han et al., TPAMI 2023
-- [Chat with NeRF: Grounding 3D Objects in Neural Radiance Field through Dialog](https://chat-with-nerf.github.io/), Yang et al, Arxiv 2023 | [github](https://github.com/sled-group/chat-with-nerf)
+- [Chat with NeRF: Grounding 3D Objects in Neural Radiance Field through Dialog](https://chat-with-nerf.github.io/), Yang et al, Arxiv 2023 | [github](https://github.com/sled-group/chat-with-nerf) | [bibtex](./citations/chat.txt)
 - [Segment Anything in 3D with NeRFs](https://jumpat.github.io/SA3D/), Cen et al., Arxiv 2023 | [github](https://github.com/Jumpat/SegmentAnythingin3D) | [bibtex](./citations/cen2023segment.txt)
 - [HOSNeRF: Dynamic Human-Object-Scene Neural Radiance Fields from a Single Video](https://showlab.github.io/HOSNeRF/), Liu et al., Arxiv 2023 | [bibtex](./citations/liu2023hosnerf.txt)
 - [Explicit Correspondence Matching for Generalizable Neural Radiance Fields](https://donydchen.github.io/matchnerf/), Chen et al., CVPR 2023 | [github](https://github.com/donydchen/matchnerf) | [bibtex](./citations/chen2023matchnerf.txt)
