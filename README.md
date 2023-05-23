@@ -128,6 +128,8 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [I2-SDF: Intrinsic Indoor Scene Reconstruction and Editing via Raytracing in Neural SDFs](https://jingsenzhu.github.io/i2-sdf/), Zhu et al., CVPR 2023 | [github](https://github.com/jingsenzhu/i2-sdf) | [bibtex](./citations/i2sdf.txt)
 - [PET-NeuS: Positional Encoding Tri-Planes for Neural Surfaces](https://github.com/yiqun-wang/PET-NeuS), Wang et al., CVPR 2023
 - [Reference-guided Controllable Inpainting of Neural Radiance Fields](https://ashmrz.github.io/reference-guided-3d/), Mirzaei et al., Arxiv 2023 | [bibtex](./citations/reference.txt)
+- [NeRFuser: Large-Scale Scene Representation by NeRF Fusion](https://arxiv.org/abs/2305.13307), Fang et al., Arxiv 2023 | [github](https://github.com/ripl/nerfuser)
+- [Registering Neural Radiance Fields as 3D Density Images](https://arxiv.org/abs/2305.12843), Jiang et al., Arxiv 2023
 - [TiNeuVox: Fast Dynamic Radiance Fields with Time-Aware Neural Voxels](https://jaminfong.cn/tineuvox/), Fang et al., SIGGRAPH Asia 2022 | [github](https://github.com/hustvl/TiNeuVox) | [bibtex](./citations/tineuvox.txt)
 - [NeRSemble: Multi-view Radiance Field Reconstruction of Human Heads](https://tobias-kirschstein.github.io/nersemble/), Kirschstein et al., SIGGRAPH Asia 2023
 - [AvatarCraft: Transforming Text into Neural Human Avatars with Parameterized Shape and Pose Control](https://avatar-craft.github.io/), Jiang et al., Arxiv 2023 | [github](https://github.com/songrise/avatarcraft) | [bibtex](./citations/avatarcraft.txt)
