@@ -99,7 +99,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Ref-NeuS: Ambiguity-Reduced Neural Implicit Surface Learning for Multi-View Reconstruction with Reflection](https://g3956.github.io/), Ge et al., Arxiv 2023 | [github](https://github.com/g3956/Ref-NeuS) | [bibtex](./citations/refneus.txt)
 - [Seeing Through the Glass: Neural 3D Reconstruction of Object Inside a Transparent Container](https://arxiv.org/abs/2303.13805), Tong et al., CVPR 2023 | [github](https://github.com/hirotong/ReNeuS) | [bibtex](./citations/tong2023seeing.txt)
 - [PAC-NeRF: Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification](https://sites.google.com/view/PAC-NeRF), Li et al., ICLR 2023 | [github](https://github.com/xuan-li/PAC-NeRF) | [bibtex](./citations/pacnerf.txt)
-- [NeRF-LiDAR: Generating Realistic LiDAR Point Clouds with Neural Radiance Fields](https://arxiv.org/abs/2304.14811), Zhang et al., Arxiv 2023
+- [NeRF-LiDAR: Generating Realistic LiDAR Point Clouds with Neural Radiance Fields](https://arxiv.org/abs/2304.14811), Zhang et al., Arxiv 2023 | [bibtex](./citations/zhang2023nerf.txt)
 - [BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects](https://bundlesdf.github.io/), Wen et al., CVPR 2023 | [bibtex](./citations/wen2023bundlesdf.txt)
 - [ABLE-NeRF: Attention-Based Rendering with Learnable Embeddings for Neural Radiance Field](https://arxiv.org/abs/2303.13817), Tang et al., CVPR 2023 | [bibtex](./citations/tang2023able.txt)
 - [FeatureNeRF: Learning Generalizable NeRFs by Distilling Foundation Models](https://jianglongye.com/featurenerf/), Ye et al., Arxiv 2023 | [bibtex](./citations/featurenerf.txt)
@@ -114,7 +114,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [TEGLO: High Fidelity Canonical Texture Mapping from Single-View Images](https://teglo-nerf.github.io/), Vinod et al., Arxiv 2023 | [bibtex](./citations/teglo.txt)
 - [Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement](https://me.kiui.moe/nerf2mesh/), Tang et al., Arxiv 2023 | [github](https://github.com/ashawkey/nerf2mesh) | [bibtex](./citations/nerf2mesh.txt)
 - [NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior](https://nope-nerf.active.vision/), Bian et al., CVPR 2023 | [github](https://github.com/ActiveVisionLab/nope-nerf) | [bibtex](./citations/nopenerf.txt)
-- [NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion](https://jiataogu.me/nerfdiff/), Gu et al., | [bibtex](./citations/nerfdiff.txt)
+- [NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion](https://jiataogu.me/nerfdiff/), Gu et al., ICML 2023 | [bibtex](./citations/nerfdiff.txt)
 - [α Surf: Implicit Surface Reconstruction for Semi-Transparent and Thin Objects with Decoupled Geometry and Opacity](https://alphasurf.netlify.app/), Wu et al., Arxiv 2023 | [bibtex](./citations/alphasurf.txt)
 - [Implicit Neural Head Synthesis via Controllable Local Deformation Fields](https://imaging.cs.cmu.edu/local_deformation_fields/), Chen et al., CVPR 2023
 - [EventNeRF: Neural Radiance Fields from a Single Colour](https://4dqv.mpi-inf.mpg.de/EventNeRF/), Rudnev et al., CVPR 2023 | [bibtex](./citations/eventnerf.txt)
@@ -129,14 +129,14 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [DITTO-NeRF: Diffusion-based Iterative Text To Omni-directional 3D Model](https://janeyeon.github.io/ditto-nerf/), Seo et al., Arxiv 2023 | [github](https://github.com/janeyeon/ditto-nerf-code) | [bibtex](./citations/ditto.txt)
 - [Neural Microfacet Fields for Inverse Rendering](https://half-potato.gitlab.io/posts/nmf/), Mai et al., Arxiv 2023 | [github](https://github.com/half-potato/nmf) | [bibtex](./citations/nmf.txt)
 - [I2-SDF: Intrinsic Indoor Scene Reconstruction and Editing via Raytracing in Neural SDFs](https://jingsenzhu.github.io/i2-sdf/), Zhu et al., CVPR 2023 | [github](https://github.com/jingsenzhu/i2-sdf) | [bibtex](./citations/i2sdf.txt)
-- [PET-NeuS: Positional Encoding Tri-Planes for Neural Surfaces](https://github.com/yiqun-wang/PET-NeuS), Wang et al., CVPR 2023
+- [PET-NeuS: Positional Encoding Tri-Planes for Neural Surfaces](https://arxiv.org/abs/2305.05594), Wang et al., CVPR 2023 | [github](https://github.com/yiqun-wang/PET-NeuS) | [bibtex](./citations/wang2023petneus.txt)
 - [Reference-guided Controllable Inpainting of Neural Radiance Fields](https://ashmrz.github.io/reference-guided-3d/), Mirzaei et al., Arxiv 2023 | [bibtex](./citations/reference.txt)
-- [NeRFuser: Large-Scale Scene Representation by NeRF Fusion](https://arxiv.org/abs/2305.13307), Fang et al., Arxiv 2023 | [github](https://github.com/ripl/nerfuser)
+- [NeRFuser: Large-Scale Scene Representation by NeRF Fusion](https://arxiv.org/abs/2305.13307), Fang et al., Arxiv 2023 | [github](https://github.com/ripl/nerfuser) | [bibtex](./citations/fang23nerfuser.txt)
 - [Registering Neural Radiance Fields as 3D Density Images](https://arxiv.org/abs/2305.12843), Jiang et al., Arxiv 2023
 - [TiNeuVox: Fast Dynamic Radiance Fields with Time-Aware Neural Voxels](https://jaminfong.cn/tineuvox/), Fang et al., SIGGRAPH Asia 2022 | [github](https://github.com/hustvl/TiNeuVox) | [bibtex](./citations/tineuvox.txt)
-- [NeRSemble: Multi-view Radiance Field Reconstruction of Human Heads](https://tobias-kirschstein.github.io/nersemble/), Kirschstein et al., SIGGRAPH Asia 2023
+- [NeRSemble: Multi-view Radiance Field Reconstruction of Human Heads](https://tobias-kirschstein.github.io/nersemble/), Kirschstein et al., SIGGRAPH Asia 2023 | [bibtex](./citations/kirschstein2023nersemble.txt)
 - [AvatarCraft: Transforming Text into Neural Human Avatars with Parameterized Shape and Pose Control](https://avatar-craft.github.io/), Jiang et al., Arxiv 2023 | [github](https://github.com/songrise/avatarcraft) | [bibtex](./citations/avatarcraft.txt)
-- [LatentAvatar: Learning Latent Expression Code for Expressive Neural Head Avatar](https://www.liuyebin.com/latentavatar), Xu et al., SIGGRAPH 2023 | [github](https://github.com/YuelangX/LatentAvatar) [bibtex](./citations/xu2023latentavatar.txt)
+- [LatentAvatar: Learning Latent Expression Code for Expressive Neural Head Avatar](https://www.liuyebin.com/latentavatar), Xu et al., SIGGRAPH 2023 | [github](https://github.com/YuelangX/LatentAvatar) | [bibtex](./citations/xu2023latentavatar.txt)
 - [HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion](https://synthesiaresearch.github.io/humanrf/), IŞIK et al., SIGGRAPH 2023
 - [AvatarReX: Real-time Expressive Full-body Avatars](https://liuyebin.com/AvatarRex/), Zheng et al., SIGGRAPH 2023 | [bibtex](./citations/zheng2023avatarrex.txt)
 - [DreamFace: Progressive Generation of Animatable 3D Faces under Text Guidance](https://sites.google.com/view/dreamface), Zhang et al., SIGGRAPH 2023 | [bibtex](./citations/zhang2023dreamface.txt)

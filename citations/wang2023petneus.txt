@@ -1,0 +1,6 @@
+@article{wang2023petneus,
+  title={PET-NeuS: Positional Encoding Triplanes for Neural Surfaces},
+  author={Wang, Yiqun and Skorokhodov, Ivan and Wonka, Peter}
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2023}
+}

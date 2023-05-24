@@ -1,0 +1,6 @@
+@article{zhang2023nerf,
+  title={NeRF-LiDAR: Generating Realistic LiDAR Point Clouds with Neural Radiance Fields},
+  author={Zhang, Junge and Zhang, Feihu and Kuang, Shaochen and Zhang, Li},
+  journal={arXiv preprint arXiv:2304.14811},
+  year={2023}
+}
