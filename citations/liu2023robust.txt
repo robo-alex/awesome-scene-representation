@@ -1,0 +1,6 @@
+@inproceedings{liu2023robust,
+  author    = {Liu, Yu-Lun and Gao, Chen and Meuleman, Andreas and Tseng, Hung-Yu and Saraf, Ayush and Kim, Changil and Chuang, Yung-Yu and Kopf, Johannes and Huang, Jia-Bin},
+  title     = {Robust Dynamic Radiance Fields},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year      = {2023}
+}

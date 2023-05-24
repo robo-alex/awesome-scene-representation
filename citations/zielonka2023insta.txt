@@ -1,0 +1,6 @@
+@proceedings{INSTA:CVPR2023,
+  author = {Zielonka, Wojciech and Bolkart, Timo and Thies, Justus},
+  title = {Instant Volumetric Head Avatars},
+  journal = {Conference on Computer Vision and Pattern Recognition},
+  year = {2023}
+}
