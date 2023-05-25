@@ -116,11 +116,14 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior](https://nope-nerf.active.vision/), Bian et al., CVPR 2023 | [github](https://github.com/ActiveVisionLab/nope-nerf) | [bibtex](./citations/nopenerf.txt)
 - [NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion](https://jiataogu.me/nerfdiff/), Gu et al., ICML 2023 | [bibtex](./citations/nerfdiff.txt)
 - [α Surf: Implicit Surface Reconstruction for Semi-Transparent and Thin Objects with Decoupled Geometry and Opacity](https://alphasurf.netlify.app/), Wu et al., Arxiv 2023 | [bibtex](./citations/alphasurf.txt)
-- [Implicit Neural Head Synthesis via Controllable Local Deformation Fields](https://imaging.cs.cmu.edu/local_deformation_fields/), Chen et al., CVPR 2023
+- [Implicit Neural Head Synthesis via Controllable Local Deformation Fields](https://imaging.cs.cmu.edu/local_deformation_fields/), Chen et al., CVPR 2023 | [bibtex](./citations/chen2023-implicit_head.txt)
 - [EventNeRF: Neural Radiance Fields from a Single Colour](https://4dqv.mpi-inf.mpg.de/EventNeRF/), Rudnev et al., CVPR 2023 | [bibtex](./citations/eventnerf.txt)
 - [Factored Neural Representation for Scene Understanding](https://yushiangw.github.io/factorednerf/), Wong et al., Arxiv 2023 | [github](https://github.com/yushiangw/factorednerf) | [bibtex](./citations/factorednerf.txt)
 - [L2G-NeRF: Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields](https://rover-xingyu.github.io/L2G-NeRF/), Chen et al., CVPR 2023 | [github](https://github.com/rover-xingyu/L2G-NeRF) | [bibtex](./citations/l2gnerf.txt)
 - [Radiance Field Gradient Scaling for Unbiased Near-Camera Training](https://arxiv.org/abs/2305.02756), Philip et al., Arxiv 2023
+- [Deceptive-NeRF: Enhancing NeRF Reconstruction using Pseudo-Observations from Diffusion Models](https://arxiv.org/abs/2305.15171), Liu et al., Arxiv 2023
+- [InpaintNeRF360: Text-Guided 3D Inpainting on Unbounded Neural Radiance Fields](https://arxiv.org/abs/2305.15094), Wang et al., Arxiv 2023
+- [OD-NeRF: Efficient Training of On-the-Fly Dynamic Neural Radiance Fields](https://arxiv.org/abs/2305.14831), Yan et al., Arxiv 2023
 - [Removing Objects From Neural Radiance Fields](https://nianticlabs.github.io/nerf-object-removal/), Weder wt al., CVPR 2023 | [bibtex](./citations/weder2023removing.txt)
 - [Evaluate Geometry of Radiance Field with Low-frequency Color Prior](https://arxiv.org/abs/2304.04351), Fang et al., Arxiv 2023 | [github](https://github.com/qihangGH/IMRC) | [bibtex](./citations/imrc.txt)
 - [VDN-NeRF: Resolving Shape-Radiance Ambiguity via View-Dependence Normalization](https://arxiv.org/abs/2303.17968), Zhu et al., Arxiv 2023 | [github](https://github.com/BoifZ/VDN-NeRF) | [bibtex](./citations/vdn.txt)

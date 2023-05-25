@@ -1,0 +1,7 @@
+@inproceedings{chen2023-implicit_head,
+title={Implicit Neural Head Synthesis via Controllable Local Deformation Fields,
+author={Chen, Chuhan and O'Toole, Matthew and Bharaj, Gaurav and Garrido, Pablo},
+booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+year={2023}
+}
+}
