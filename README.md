@@ -122,6 +122,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Factored Neural Representation for Scene Understanding](https://yushiangw.github.io/factorednerf/), Wong et al., Arxiv 2023 | [github](https://github.com/yushiangw/factorednerf) | [bibtex](./citations/factorednerf.txt)
 - [L2G-NeRF: Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields](https://rover-xingyu.github.io/L2G-NeRF/), Chen et al., CVPR 2023 | [github](https://github.com/rover-xingyu/L2G-NeRF) | [bibtex](./citations/l2gnerf.txt)
 - [Radiance Field Gradient Scaling for Unbiased Near-Camera Training](https://arxiv.org/abs/2305.02756), Philip et al., Arxiv 2023
+- [NeRF-Factory: An awesome PyTorch NeRF collection](https://github.com/kakaobrain/nerf-factory)
 - [Deceptive-NeRF: Enhancing NeRF Reconstruction using Pseudo-Observations from Diffusion Models](https://arxiv.org/abs/2305.15171), Liu et al., Arxiv 2023
 - [InpaintNeRF360: Text-Guided 3D Inpainting on Unbounded Neural Radiance Fields](https://arxiv.org/abs/2305.15094), Wang et al., Arxiv 2023
 - [OD-NeRF: Efficient Training of On-the-Fly Dynamic Neural Radiance Fields](https://arxiv.org/abs/2305.14831), Yan et al., Arxiv 2023
