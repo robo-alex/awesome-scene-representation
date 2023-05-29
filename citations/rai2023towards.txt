@@ -1,0 +1,6 @@
+@article{rai2023towards,
+	title={Towards Realistic Generative 3D Face Models},
+	author={Rai, Aashish and Gupta, Hiresh and Pandey, Ayush and Carrasco, Francisco Vicente and Takagi, Shingo Jason and Aubel, Amaury and Kim, Daeil and Prakash, Aayush and De la Torre, Fernando},
+	journal={arXiv preprint arXiv:2304.12483},
+	year={2023}
+	}

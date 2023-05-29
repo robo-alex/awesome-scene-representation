@@ -1,0 +1,6 @@
+@article{zhang2023text2nerf,
+  title={Text2NeRF: Text-Driven 3D Scene Generation with Neural Radiance Fields},
+  author={Zhang, Jingbo and Li, Xiaoyu and Wan, Ziyu and Wang, Can and Liao, Jing},
+  journal={arXiv preprint arXiv:2305.11588},
+  year={2023}
+}

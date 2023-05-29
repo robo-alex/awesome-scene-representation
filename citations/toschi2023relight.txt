@@ -1,0 +1,7 @@
+@inproceedings{toschi2023relight,
+  title={ReLight My NeRF: A Dataset for Novel View Synthesis and Relighting of Real World Objects},
+  author={Toschi, Marco and De Matteo, Riccardo and Spezialetti, Riccardo and De Gregorio, Daniele and Di Stefano, Luigi and Salti, Samuele},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={20762--20772},
+  year={2023}
+}

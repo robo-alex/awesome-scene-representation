@@ -40,8 +40,8 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Random-Access Neural Compression of Material Textures](https://research.nvidia.com/labs/rtr/neural_texture_compression/), Vaidyanathan et al., SIGGRAPH 2023 | [bibtex](./citations/ntc2023.txt)
 - [Neural Prefiltering for Correlation-Aware Levels of Detail](https://weiphil.github.io/portfolio/neural_lod), Weier et al., SIGGRAPH 2023 | [github](https://github.com/WeiPhil/neural_lod)
 - [Lift3D: Synthesize 3D Training Data by Lifting 2D GAN to 3D Generative Radiance Field](https://len-li.github.io/lift3d-web/), Li et al., CVPR 2023 | [github](https://github.com/Len-Li/Lift3D) | [bibtex](./citations/lift3d.txt)
-- [ReLight My NeRF: A Dataset for Novel View Synthesis and Relighting of Real World Objects](https://eyecan-ai.github.io/rene/), Toschi et al., CVPR 2023
-- [Text2NeRF: Text-Driven 3D Scene Generation with Neural Radiance Fields](https://eckertzhang.github.io/Text2NeRF.github.io/), Zhang et al., Arxiv 2023
+- [ReLight My NeRF: A Dataset for Novel View Synthesis and Relighting of Real World Objects](https://eyecan-ai.github.io/rene/), Toschi et al., CVPR 2023 | [bibtex](./citations/toschi2023relight.txt)
+- [Text2NeRF: Text-Driven 3D Scene Generation with Neural Radiance Fields](https://eckertzhang.github.io/Text2NeRF.github.io/), Zhang et al., Arxiv 2023 | [github](https://github.com/eckertzhang/Text2NeRF) | [bibtex](./citations/zhang2023text2nerf.txt)
 - [Semantic-Ray: Learning a Generalizable Semantic Field with Cross-Reprojection Attention](https://liuff19.github.io/S-Ray/), Liu et al., CVPR 2023 | [github](https://github.com/liuff19/Semantic-Ray) | [bibtex](./citations/liu2023semantic.txt)
 - [SPARF: Neural Radiance Fields from Sparse and Noisy Poses](http://prunetruong.com/sparf.github.io/), Truong et al., CVPR 2023 | [github](https://github.com/google-research/sparf) | [bibtex](./citations/sparf2023.txt)
 - [ActorsNeRF: Animatable Few-shot Human Rendering with Generalizable NeRFs](https://jitengmu.github.io/ActorsNeRF/), Mu et al., Arxiv 2023 | [bibtex](./citations/mu2023actorsnerf.txt)
@@ -51,9 +51,9 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [DynIBaR: Neural Dynamic Image-Based Rendering](https://dynibar.github.io/), Li et al., CVPR 2023 | [github](https://github.com/google/dynibar) | [bibtex](./citations/li2023dynibar.txt)
 - [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/), Kerbl et al., SIGGRAPH 2023 | [github](https://gitlab.inria.fr/fungraph/) | [bibtex](./citations/kerbl3Dgaussians.txt)
 - [Real-Time Neural Appearance Models](https://research.nvidia.com/labs/rtr/neural_appearance_models/), Zeltner et al., Arxiv 2023
-- [Towards Realistic Generative 3D Face Models](https://aashishrai3799.github.io/Towards-Realistic-Generative-3D-Face-Models/), Raj et al., Arxiv 2023 | [github](https://github.com/aashishrai3799/Towards-Realistic-Generative-3D-Face-Models/)
-- [Pointersect: Neural Rendering with Cloud-Ray Intersection](https://machinelearning.apple.com/research/pointersect), Chang et al., CVPR 2023 | [bibtex](./citations/pointersect.txt)
-- [TextMesh: Generation of Realistic 3D Meshes From Text Prompts](https://fabi92.github.io/textmesh/), Tsalicoglou et al., Arxiv 2023
+- [Towards Realistic Generative 3D Face Models](https://aashishrai3799.github.io/Towards-Realistic-Generative-3D-Face-Models/), Rai et al., Arxiv 2023 | [github](https://github.com/aashishrai3799/Towards-Realistic-Generative-3D-Face-Models/) | [bibtex](./citations/rai2023towards.txt)
+- [Pointersect: Neural Rendering with Cloud-Ray Intersection](https://machinelearning.apple.com/research/pointersect), Chang et al., CVPR 2023 | [github](https://github.com/apple/ml-pointersect) | [bibtex](./citations/pointersect.txt)
+- [TextMesh: Generation of Realistic 3D Meshes From Text Prompts](https://fabi92.github.io/textmesh/), Tsalicoglou et al., Arxiv 2023 | [bibtex](./citations/tsalicoglou2023textmesh.txt)
 - [Local Implicit Ray Function for Generalizable Radiance Field Representation](https://xhuangcv.github.io/lirf/), Huang et al., CVPR 2023 | [github](https://github.com/xhuangcv/lirf/) | [bibtex](./citations/huang2023lirf.txt)
 - [AutoNeRF: Training Implicit Scene Representations with Autonomous Agents](https://pierremarza.github.io/projects/autonerf/), Marza et al., Arxiv 2023 | [bibtex](./citations/marza2023autonerf.txt)
 - [Hybrid Neural Rendering for Large-Scale Scenes with Motion Blur](https://daipengwa.github.io/Hybrid-Rendering-ProjectPage/), Dai et al., CVPR 2023 | [github](https://github.com/CVMI-Lab/HybridNeuralRendering) | [bibtex](./citations/dai2023hybrid.txt)

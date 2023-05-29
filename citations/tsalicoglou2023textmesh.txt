@@ -1,0 +1,8 @@
+@misc{tsalicoglou2023textmesh,
+    title={TextMesh: Generation of Realistic 3D Meshes From Text Prompts}, 
+    author={Christina Tsalicoglou and Fabian Manhardt and Alessio Tonioni and Michael Niemeyer and Federico Tombari},
+    year={2023},
+    eprint={2304.12439},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
