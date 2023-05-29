@@ -1,0 +1,6 @@
+@article{lee2023mixnerf,
+  title={MixNeRF: Memory Efficient NeRF with Feature Mixed-up Hash Table},
+  author={Lee, Yongjae and Yang, Li and Fan, Deliang},
+  journal={arXiv preprint arXiv:2304.12587},
+  year={2023}
+}
