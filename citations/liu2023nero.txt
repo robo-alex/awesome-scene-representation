@@ -1,0 +1,6 @@
+@inproceedings{liu2023nero,
+  title={NeRO: Neural Geometry and BRDF Reconstruction of Reflective Objects from Multiview Images},
+  author={Liu, Yuan and Wang, Peng and Lin, Cheng and Long, Xiaoxiao and Wang, Jiepeng and Liu, Lingjie and Komura, Taku and Wang, Wenping},
+  booktitle={SIGGRAPH},
+  year={2023}
+}

@@ -35,6 +35,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [NeuralField-LDM: Scene Generation with Hierarchical Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/NFLDM/), Kim et al., CVPR 2023 | [bibtex](./citations/nfldm.txt)
 - [AligNeRF: High-Fidelity Neural Radiance Fields via Alignment-Aware Training](https://yifanjiang19.github.io/alignerf), Jiang et al., CVPR 2023 | [bibtex](./citations/alignerf.txt)
 - [RoDynRF: Robust Dynamic Radiance Fields](https://robust-dynrf.github.io/), Liu et al., CVPR 2023 | [bibtex](./citations/liu2023robust.txt)
+- [NeRO: Neural Geometry and BRDF Reconstruction of Reflective Objects from Multiview Images](https://liuyuan-pal.github.io/NeRO/), Liu et al., SIGGRAPH 2023 | [github](https://github.com/liuyuan-pal/NeRO) | [bibtex](./citations/liu2023nero.txt)
 - [LANe : Lighting-Aware Neural Fields for Compositional Scene Synthesis](https://lane-composition.github.io/), Krishnan et al., Arxiv 2023 | [bibtex](./citations/lane.txt)
 - [Neural Fields meet Explicit Geometric Representations for Inverse Rendering of Urban Scenes](https://nv-tlabs.github.io/fegr/), Wang et al., CVPR 2023 | [bibtex](./citations/fegr.txt)
 - [Random-Access Neural Compression of Material Textures](https://research.nvidia.com/labs/rtr/neural_texture_compression/), Vaidyanathan et al., SIGGRAPH 2023 | [bibtex](./citations/ntc2023.txt)
@@ -173,6 +174,9 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [MF-NeRF: Memory Efficient NeRF with Mixed-Feature Hash Table](https://arxiv.org/abs/2304.12587), Lee et al., Arxiv 2023 | [github](https://github.com/nfyfamr/MixNeRF) | [bibtex](./citations/lee2023mixnerf.txt)
 - [Real-Time Neural Light Field on Mobile Devices](https://snap-research.github.io/MobileR2L/), Cao et al., CVPR 2023 | [github](https://github.com/snap-research/MobileR2L) | [bibtex](./citations/mobiler2l.txt)
 - [Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation](https://fantasia3d.github.io/), Chen et al., Arxiv 2023 | [github](https://github.com/Gorilla-Lab-SCUT/Fantasia3D) | [bibtex](./citations/chen2023fantasia3d.txt)
+- [Volume Feature Rendering for Fast Neural Radiance Field Reconstruction](https://arxiv.org/abs/2305.17916), Han et al., Arxiv 2023
+- [Compact Real-time Radiance Fields with Neural Codebook](https://arxiv.org/abs/2305.18163), Li et al., Arxiv 2023
+- [Towards a Robust Framework for NeRF Evaluation](https://arxiv.org/abs/2305.18079), Azzarelli et al., Arxiv 2023
 - [ConsistentNeRF: Enhancing Neural Radiance Fields with 3D Consistency for Sparse View Synthesis](https://arxiv.org/pdf/2305.11031.pdf), Hu et al., Arxiv 2023
 - [OR-NeRF: Object Removing from 3D Scenes Guided by Multiview Segmentation with Neural Radiance Fields](https://arxiv.org/pdf/2305.10503.pdf), Yin et al., Arxiv 2023
 - [VGOS: Voxel Grid Optimization for View Synthesis from Sparse Inputs](https://arxiv.org/pdf/2304.13386.pdf), Sun et al., ICJAI 2023
