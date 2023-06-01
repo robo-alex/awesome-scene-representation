@@ -22,6 +22,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Shap-E: Generating Conditional 3D Implicit Functions](https://arxiv.org/abs/2305.02463), Jun et al., Arxiv 2023 | [github](https://github.com/openai/shap-e) | [bibtex](./citations/jun2023shap.txt)
 - [Neural Lens Modeling](https://neural-lens.github.io/), Xian et al., CVPR 2023 | [bibtex](./citations/neurallens.txt)
 - [DeLiRa: Self-Supervised Depth, Light, and Radiance Fields](https://sites.google.com/view/tri-delira), Guizilini et al., Arxiv 2023 | [bibtex](./citations/delira.txt)
+- [Neural Kernel Surface Reconstruction](https://research.nvidia.com/labs/toronto-ai/NKSR/), Huang et al., CVPR 2023 | [github](https://github.com/nv-tlabs/nksr) | [bibtex](./citations/huang2023nksr.txt)
 - [F2-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories](https://totoro97.github.io/projects/f2-nerf/), Wang et al., CVPR 2023 | [github](https://github.com/totoro97/f2-nerf) | [bibtex](./citations/f2nerf.txt)
 - [NeuManifold: Neural Watertight Manifold Reconstruction with Efficient and High-Quality Rendering Support](https://sarahweiii.github.io/neumanifold/), Wei et al., Arxiv 2023
 - [SCADE: NeRFs from Space Carving with Ambiguity-Aware Depth Estimates](https://scade-spacecarving-nerfs.github.io/), Uy et al., CVPR 2023 | [bibtex](./citations/scade.txt)
@@ -123,6 +124,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Implicit Neural Head Synthesis via Controllable Local Deformation Fields](https://imaging.cs.cmu.edu/local_deformation_fields/), Chen et al., CVPR 2023 | [bibtex](./citations/chen2023-implicit_head.txt)
 - [EventNeRF: Neural Radiance Fields from a Single Colour](https://4dqv.mpi-inf.mpg.de/EventNeRF/), Rudnev et al., CVPR 2023 | [bibtex](./citations/eventnerf.txt)
 - [Factored Neural Representation for Scene Understanding](https://yushiangw.github.io/factorednerf/), Wong et al., Arxiv 2023 | [github](https://github.com/yushiangw/factorednerf) | [bibtex](./citations/factorednerf.txt)
+- [PlenVDB: Memory Efficient VDB-Based Radiance Fields for Fast Training and Rendering](https://plenvdb.github.io/), Yan et al., CVPR 2023 | [github](https://github.com/wolfball/PlenVDB) | [bibtex](./citations/hyan2023plenvdb.txt)
 - [L2G-NeRF: Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields](https://rover-xingyu.github.io/L2G-NeRF/), Chen et al., CVPR 2023 | [github](https://github.com/rover-xingyu/L2G-NeRF) | [bibtex](./citations/l2gnerf.txt)
 - [Radiance Field Gradient Scaling for Unbiased Near-Camera Training](https://arxiv.org/abs/2305.02756), Philip et al., Arxiv 2023
 - [NeRF-Factory: An awesome PyTorch NeRF collection](https://github.com/kakaobrain/nerf-factory)

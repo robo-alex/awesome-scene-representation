@@ -1,0 +1,7 @@
+@inproceedings{huang2023nksr,
+  title={Neural Kernel Surface Reconstruction},
+  author={Huang, Jiahui and Gojcic, Zan and Atzmon, Matan and Litany, Or and Fidler, Sanja and Williams, Francis},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={4369--4379},
+  year={2023}
+}
