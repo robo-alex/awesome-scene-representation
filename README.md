@@ -22,7 +22,9 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Shap-E: Generating Conditional 3D Implicit Functions](https://arxiv.org/abs/2305.02463), Jun et al., Arxiv 2023 | [github](https://github.com/openai/shap-e) | [bibtex](./citations/jun2023shap.txt)
 - [Neural Lens Modeling](https://neural-lens.github.io/), Xian et al., CVPR 2023 | [bibtex](./citations/neurallens.txt)
 - [DeLiRa: Self-Supervised Depth, Light, and Radiance Fields](https://sites.google.com/view/tri-delira), Guizilini et al., Arxiv 2023 | [bibtex](./citations/delira.txt)
+- [FlowCam: Training Generalizable 3D Radiance Fields without Camera Poses via Pixel-Aligned Scene Flow](https://cameronosmith.github.io/flowcam/), Smith et al., Arxiv 2023 | [github](https://github.com/cameronosmith/FlowCam)
 - [Neural Kernel Surface Reconstruction](https://research.nvidia.com/labs/toronto-ai/NKSR/), Huang et al., CVPR 2023 | [github](https://github.com/nv-tlabs/nksr) | [bibtex](./citations/huang2023nksr.txt)
+- [Neuralangelo: High-Fidelity Neural Surface Reconstruction](https://research.nvidia.com/labs/dir/neuralangelo/), Li et al., CVPR 2023 | [bibtex](./citations/li2023neuralangelo.txt)
 - [F2-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories](https://totoro97.github.io/projects/f2-nerf/), Wang et al., CVPR 2023 | [github](https://github.com/totoro97/f2-nerf) | [bibtex](./citations/f2nerf.txt)
 - [NeuManifold: Neural Watertight Manifold Reconstruction with Efficient and High-Quality Rendering Support](https://sarahweiii.github.io/neumanifold/), Wei et al., Arxiv 2023
 - [SCADE: NeRFs from Space Carving with Ambiguity-Aware Depth Estimates](https://scade-spacecarving-nerfs.github.io/), Uy et al., CVPR 2023 | [bibtex](./citations/scade.txt)
