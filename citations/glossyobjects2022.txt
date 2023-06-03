@@ -1,0 +1,6 @@
+@inproceedings{glossyobjects2022,
+  title={ORCa: Glossy Objects as Radiance-Field Cameras},
+  author={Tiwary, Kushagra and Dave, Akshat and Behari, Nikhil and Klinghoffer, Tzofi and Veeraraghavan, Ashok and Raskar, Ramesh},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  year={2023}
+}

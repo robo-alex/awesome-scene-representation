@@ -58,6 +58,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Real-Time Neural Appearance Models](https://research.nvidia.com/labs/rtr/neural_appearance_models/), Zeltner et al., Arxiv 2023
 - [Towards Realistic Generative 3D Face Models](https://aashishrai3799.github.io/Towards-Realistic-Generative-3D-Face-Models/), Rai et al., Arxiv 2023 | [github](https://github.com/aashishrai3799/Towards-Realistic-Generative-3D-Face-Models/) | [bibtex](./citations/rai2023towards.txt)
 - [Pointersect: Neural Rendering with Cloud-Ray Intersection](https://machinelearning.apple.com/research/pointersect), Chang et al., CVPR 2023 | [github](https://github.com/apple/ml-pointersect) | [bibtex](./citations/pointersect.txt)
+- [ORCa: Glossy Objects as Radiance-Field Cameras](https://ktiwary2.github.io/objectsascam/), Tiwary et al., CVPR 2023 | [github](https://github.com/ktiwary2/orca) | [bibtex](./citations/glossyobjects2022.txt)
 - [TextMesh: Generation of Realistic 3D Meshes From Text Prompts](https://fabi92.github.io/textmesh/), Tsalicoglou et al., Arxiv 2023 | [bibtex](./citations/tsalicoglou2023textmesh.txt)
 - [Local Implicit Ray Function for Generalizable Radiance Field Representation](https://xhuangcv.github.io/lirf/), Huang et al., CVPR 2023 | [github](https://github.com/xhuangcv/lirf/) | [bibtex](./citations/huang2023lirf.txt)
 - [AutoNeRF: Training Implicit Scene Representations with Autonomous Agents](https://pierremarza.github.io/projects/autonerf/), Marza et al., Arxiv 2023 | [bibtex](./citations/marza2023autonerf.txt)
@@ -179,7 +180,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Real-Time Neural Light Field on Mobile Devices](https://snap-research.github.io/MobileR2L/), Cao et al., CVPR 2023 | [github](https://github.com/snap-research/MobileR2L) | [bibtex](./citations/mobiler2l.txt)
 - [Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation](https://fantasia3d.github.io/), Chen et al., Arxiv 2023 | [github](https://github.com/Gorilla-Lab-SCUT/Fantasia3D) | [bibtex](./citations/chen2023fantasia3d.txt)
 - [Template-free Articulated Neural Point Clouds for Reposable View Synthesis](https://arxiv.org/abs/2305.19065), Uzolas et al., Arxiv 2023 | [github](https://github.com/lukasuz/Articulated-Point-NeRF)
-- [DäRF: Boosting Radiance Fields from Sparse Inputs with Monocular Depth Adaptation](https://arxiv.org/abs/2305.19201), Song et al., Arxiv 2023
+- [DäRF: Boosting Radiance Fields from Sparse Inputs with Monocular Depth Adaptation](https://ku-cvlab.github.io/DaRF/), Song et al., Arxiv 2023 | [bibtex](./citations/song2023darf.txt)
 - [Volume Feature Rendering for Fast Neural Radiance Field Reconstruction](https://arxiv.org/abs/2305.17916), Han et al., Arxiv 2023
 - [Compact Real-time Radiance Fields with Neural Codebook](https://arxiv.org/abs/2305.18163), Li et al., Arxiv 2023
 - [Towards a Robust Framework for NeRF Evaluation](https://arxiv.org/abs/2305.18079), Azzarelli et al., Arxiv 2023
