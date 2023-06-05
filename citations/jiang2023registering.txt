@@ -1,0 +1,6 @@
+@article{jiang2023registering,
+  title={Registering Neural Radiance Fields as 3D Density Images},
+  author={Jiang, Han and Li, Ruoxuan and Sun, Haosen and Tai, Yu-Wing and Tang, Chi-Keung},
+  journal={arXiv preprint arXiv:2305.12843},
+  year={2023}
+}

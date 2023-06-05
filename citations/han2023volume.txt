@@ -1,0 +1,6 @@
+@article{han2023volume,
+  title={Volume Feature Rendering for Fast Neural Radiance Field Reconstruction},
+  author={Han, Kang and Xiang, Wei and Yu, Lu},
+  journal={arXiv preprint arXiv:2305.17916},
+  year={2023}
+}

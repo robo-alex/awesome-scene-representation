@@ -1,0 +1,6 @@
+@article{liu2023self,
+  title={Self-supervised Learning by View Synthesis},
+  author={Liu, Shaoteng and Zhang, Xiangyu and Hu, Tao and Jia, Jiaya},
+  journal={arXiv preprint arXiv:2304.11330},
+  year={2023}
+}

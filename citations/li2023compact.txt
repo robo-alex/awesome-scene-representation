@@ -1,0 +1,6 @@
+@article{li2023compact,
+  title={Compact Real-time Radiance Fields with Neural Codebook},
+  author={Li, Lingzhi and Wang, Zhongshu and Shen, Zhen and Shen, Li and Tan, Ping},
+  journal={arXiv preprint arXiv:2305.18163},
+  year={2023}
+}

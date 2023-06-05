@@ -1,0 +1,6 @@
+@article{wei2023neumanifold,
+  title={NeuManifold: Neural Watertight Manifold Reconstruction with Efficient and High-Quality Rendering Support},
+  author={Wei, Xinyue and Xiang, Fanbo and Bi, Sai and Chen, Anpei and Sunkavalli, Kalyan and Xu, Zexiang and Su, Hao},
+  journal={arXiv preprint arXiv:2305.17134},
+  year={2023}
+}

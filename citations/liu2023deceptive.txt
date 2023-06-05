@@ -1,0 +1,6 @@
+@article{liu2023deceptive,
+title={Deceptive-NeRF: Enhancing NeRF Reconstruction using Pseudo-Observations from Diffusion Models},
+author={Liu, Xinhang and Kao, Shiu-hong and Chen, Jiaben and Tai, Yu-Wing and Tang, Chi-Keung},
+journal={arXiv preprint arXiv:2305.15171},
+year={2023}
+}

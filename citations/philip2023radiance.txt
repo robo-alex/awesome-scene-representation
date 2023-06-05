@@ -1,0 +1,6 @@
+@article{philip2023radiance,
+  title={Radiance Field Gradient Scaling for Unbiased Near-Camera Training},
+  author={Philip, Julien and Deschaintre, Valentin},
+  journal={arXiv preprint arXiv:2305.02756},
+  year={2023}
+}

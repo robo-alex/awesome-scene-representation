@@ -1,0 +1,6 @@
+@article{han2023super,
+  title={Super-NeRF: View-consistent Detail Generation for NeRF super-resolution},
+  author={Han, Yuqi and Yu, Tao and Yu, Xiaohang and Wang, Yuwang and Dai, Qionghai},
+  journal={arXiv preprint arXiv:2304.13518},
+  year={2023}
+}

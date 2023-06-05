@@ -1,0 +1,6 @@
+@article{hu2023consistentnerf,
+  title={ConsistentNeRF: Enhancing Neural Radiance Fields with 3D Consistency for Sparse View Synthesis},
+  author={Hu, Shoukang and Zhou, Kaichen and Li, Kaiyu and Yu, Longhui and Hong, Lanqing and Hu, Tianyang and Li, Zhenguo and Lee, Gim Hee and Liu, Ziwei},
+  journal={arXiv preprint arXiv:2305.11031},
+  year={2023}
+}

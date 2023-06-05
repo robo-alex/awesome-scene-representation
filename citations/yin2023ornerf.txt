@@ -1,0 +1,9 @@
+@misc{
+  yin2023ornerf,
+  title={OR-NeRF: Object Removing from 3D Scenes Guided by Multiview Segmentation with Neural Radiance Fields}, 
+  author={Youtan Yin and Zhoujie Fu and Fan Yang and Guosheng Lin},
+  year={2023},
+  eprint={2305.10503},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV}
+}

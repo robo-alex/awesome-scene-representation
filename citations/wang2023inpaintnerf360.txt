@@ -1,0 +1,6 @@
+@article{wang2023inpaintnerf360,
+  title={InpaintNeRF360: Text-Guided 3D Inpainting on Unbounded Neural Radiance Fields},
+  author={Wang, Dongqing and Zhang, Tong and Abboud, Alaa and S{\"u}sstrunk, Sabine},
+  journal={arXiv preprint arXiv:2305.15094},
+  year={2023}
+}

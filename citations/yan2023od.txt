@@ -1,0 +1,6 @@
+@article{yan2023od,
+  title={OD-NeRF: Efficient Training of On-the-Fly Dynamic Neural Radiance Fields},
+  author={Yan, Zhiwen and Li, Chen and Lee, Gim Hee},
+  journal={arXiv preprint arXiv:2305.14831},
+  year={2023}
+}

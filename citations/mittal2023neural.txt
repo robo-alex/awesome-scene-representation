@@ -1,0 +1,6 @@
+@article{mittal2023neural,
+  title={Neural Radiance Fields: Past, Present, and Future},
+  author={Mittal, Ansh},
+  journal={arXiv preprint arXiv:2304.10050},
+  year={2023}
+}

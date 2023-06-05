@@ -1,0 +1,6 @@
+@article{ramazzina2023scatternerf,
+  title={ScatterNeRF: Seeing Through Fog with Physically-Based Inverse Neural Rendering},
+  author={Ramazzina, Andrea and Bijelic, Mario and Walz, Stefanie and Sanvito, Alessandro and Scheuble, Dominik and Heide, Felix},
+  journal={arXiv preprint arXiv:2305.02103},
+  year={2023}
+}

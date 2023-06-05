@@ -1,0 +1,6 @@
+@article{yang2023learning,
+  title={Learning a Diffusion Prior for NeRFs},
+  author={Yang, Guandao and Kundu, Abhijit and Guibas, Leonidas J and Barron, Jonathan T and Poole, Ben},
+  journal={arXiv preprint arXiv:2304.14473},
+  year={2023}
+}

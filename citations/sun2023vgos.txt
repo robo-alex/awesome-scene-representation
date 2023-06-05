@@ -1,0 +1,6 @@
+@article{sun2023vgos,
+  title={VGOS: Voxel Grid Optimization for View Synthesis from Sparse Inputs},
+  author={Sun, Jiakai and Zhang, Zhanjie and Chen, Jiafu and Li, Guangyuan and Ji, Boyan and Zhao, Lei and Xing, Wei},
+  journal={arXiv preprint arXiv:2304.13386},
+  year={2023}
+}

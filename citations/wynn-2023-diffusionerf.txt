@@ -1,0 +1,8 @@
+@inproceedings{wynn-2023-diffusionerf,
+ title   = {{DiffusioNeRF: Regularizing Neural Radiance Fields with Denoising Diffusion Models}},
+ author  = {Jamie Wynn and
+            Daniyar Turmukhambetov
+           },
+ booktitle = {CVPR},
+ year = {2023}
+}

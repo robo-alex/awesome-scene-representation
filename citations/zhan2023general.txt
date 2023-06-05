@@ -1,0 +1,6 @@
+@article{zhan2023general,
+  title={General neural gauge fields},
+  author={Zhan, Fangneng and Liu, Lingjie and Kortylewski, Adam and Theobalt, Christian},
+  journal={ICLR},
+  year={2023}
+}

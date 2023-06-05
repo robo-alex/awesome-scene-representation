@@ -1,0 +1,6 @@
+@article{haghighi2023neural,
+  title={Neural Implicit Dense Semantic SLAM},
+  author={Haghighi, Yasaman and Kumar, Suryansh and Thiran, Jean Philippe and Van Gool, Luc},
+  journal={arXiv preprint arXiv:2304.14560},
+  year={2023}
+}

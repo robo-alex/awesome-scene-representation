@@ -1,0 +1,6 @@
+@article{azzarelli2023towards,
+  title={Towards a Robust Framework for NeRF Evaluation},
+  author={Azzarelli, Adrian and Anantrasirichai, Nantheera and Bull, David R},
+  journal={arXiv preprint arXiv:2305.18079},
+  year={2023}
+}
