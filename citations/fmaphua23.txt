@@ -1,0 +1,6 @@
+@inproceedings{fmaphua23,
+  author = {T, Hua. H, Bai. Z, Cao. and L, Wang.},
+  title = {{FMapping}: Factorized Efficient Neural Field Mapping for Real-Time Dense RGB SLAM},
+  year = {2023},
+  type = {arXiv}
+}
