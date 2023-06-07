@@ -1,0 +1,6 @@
+@article{zhu2023hifa,
+  title={HiFA: High-fidelity Text-to-3D with Advanced Diffusion Guidance},
+  author={Zhu, Joseph and Zhuang, Peiye},
+  journal={arXiv preprint arXiv:2305.18766},
+  year={2023}
+}

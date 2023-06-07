@@ -1,0 +1,6 @@
+@article{gao2023object,
+  title={Object-Centric Voxelization of Dynamic Scenes via Inverse Neural Rendering},
+  author={Gao, Siyu and Zhao, Yanpeng and Wang, Yunbo and Yang, Xiaokang},
+  journal={arXiv preprint arXiv:2305.00393},
+  year={2023}
+}
