@@ -47,6 +47,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [NeRF-Texture: Texture Synthesis with Neural Radiance Fields](https://yihua7.github.io/NeRF-Texture-web/), Huang et al., SIGGRAPH 2023 | [github](https://github.com/yihua7/NeRF-Texture) | [bibtex](./citations/huang2023nerf-texture.txt)
 - [ReLight My NeRF: A Dataset for Novel View Synthesis and Relighting of Real World Objects](https://eyecan-ai.github.io/rene/), Toschi et al., CVPR 2023 | [bibtex](./citations/toschi2023relight.txt)
 - [DiffusioNeRF: Regularizing Neural Radiance Fields with Denoising Diffusion Models](https://arxiv.org/abs/2302.12231), Wynn et al., CVPR 2023 | [github](https://github.com/nianticlabs/diffusionerf) | [bibtex](./citations/wynn-2023-diffusionerf.txt)
+- [SeaThru-NeRF: Neural Radiance Fields in Scattering Media](https://sea-thru-nerf.github.io/), Levy et al., CVPR 2023 | [bibtex](./citations/levy2023seathru.txt)
 - [Text2NeRF: Text-Driven 3D Scene Generation with Neural Radiance Fields](https://eckertzhang.github.io/Text2NeRF.github.io/), Zhang et al., Arxiv 2023 | [github](https://github.com/eckertzhang/Text2NeRF) | [bibtex](./citations/zhang2023text2nerf.txt)
 - [Semantic-Ray: Learning a Generalizable Semantic Field with Cross-Reprojection Attention](https://liuff19.github.io/S-Ray/), Liu et al., CVPR 2023 | [github](https://github.com/liuff19/Semantic-Ray) | [bibtex](./citations/liu2023semantic.txt)
 - [SPARF: Neural Radiance Fields from Sparse and Noisy Poses](http://prunetruong.com/sparf.github.io/), Truong et al., CVPR 2023 | [github](https://github.com/google-research/sparf) | [bibtex](./citations/sparf2023.txt)
@@ -192,3 +193,4 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [VGOS: Voxel Grid Optimization for View Synthesis from Sparse Inputs](https://arxiv.org/abs/2304.13386), Sun et al., ICJAI 2023 | [bibtex](./citations/sun2023vgos.txt)
 - [DP-NeRF: Deblurred Neural Radiance Field with Physical Scene Priors](https://dogyoonlee.github.io/dpnerf/), Lee et al., CVPR 2023 | [github](https://github.com/dogyoonlee/DP-NeRF) | [bibtex](./citations/dpnerf.txt)
 - [FMapping: Factorized Efficient Neural Field Mapping for Real-Time Dense RGB SLAM](https://vlis2022.github.io/fmap/), Hua et al., Arxiv 2023 | [github](https://github.com/thua919/FMapping) | [bibtex](./citations/fmaphua23.txt)
+- [ZIGNeRF: Zero-shot 3D Scene Representation with Invertible Generative Neural Radiance Fields](https://arxiv.org/abs/2306.02741), Ko et al., Arxiv 2023
