@@ -1,0 +1,7 @@
+@inproceedings{park2023temporal,
+  title={Temporal Interpolation Is All You Need for Dynamic Neural Radiance Fields},
+  author={Park, Sungheon and Son, Minjung and Jang, Seokhwan and Ahn, Young Chun and Kim, Ji-Yeon and Kang, Nahyup},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={4212--4221},
+  year={2023}
+}

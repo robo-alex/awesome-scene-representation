@@ -192,5 +192,6 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [OR-NeRF: Object Removing from 3D Scenes Guided by Multiview Segmentation with Neural Radiance Fields](https://ornerf.github.io/), Yin et al., Arxiv 2023 | [github](https://github.com/cuteyyt/or-nerf) | [bibtex](./citations/yin2023ornerf.txt)
 - [VGOS: Voxel Grid Optimization for View Synthesis from Sparse Inputs](https://arxiv.org/abs/2304.13386), Sun et al., ICJAI 2023 | [bibtex](./citations/sun2023vgos.txt)
 - [DP-NeRF: Deblurred Neural Radiance Field with Physical Scene Priors](https://dogyoonlee.github.io/dpnerf/), Lee et al., CVPR 2023 | [github](https://github.com/dogyoonlee/DP-NeRF) | [bibtex](./citations/dpnerf.txt)
+- [Temporal Interpolation is All You Need for Dynamic Neural Radiance Fields](https://sungheonpark.github.io/tempinterpnerf/), Park et al., CVPR 2023 | [bibtex](./citations/park2023temporal.txt)
 - [FMapping: Factorized Efficient Neural Field Mapping for Real-Time Dense RGB SLAM](https://vlis2022.github.io/fmap/), Hua et al., Arxiv 2023 | [github](https://github.com/thua919/FMapping) | [bibtex](./citations/fmaphua23.txt)
 - [ZIGNeRF: Zero-shot 3D Scene Representation with Invertible Generative Neural Radiance Fields](https://arxiv.org/abs/2306.02741), Ko et al., Arxiv 2023
