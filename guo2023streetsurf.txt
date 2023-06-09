@@ -1,0 +1,6 @@
+@article{guo2023streetsurf,
+    title={StreetSurf: Extending Multi-view Implicit Surface Reconstruction to Street Views},
+    author={Guo, Jianfei and Deng, Nianchen and Li, Xinyang and Bai, Yeqi and Shi, Botian and Wang, Chiyu and Ding, Chenjing and Wang, Dongliang and Li, Yikang},
+    journal={arXiv preprint arXiv:2306.04988},
+    year={2023}
+}

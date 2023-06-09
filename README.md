@@ -6,7 +6,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [NerfAcc: A General NeRF Acceleration Toolbox](https://www.nerfacc.com/en/latest/), Li et al., Arxiv 2023 | [github](https://github.com/KAIR-BAIR/nerfacc) | [bibtex](./citations/li2023nerfacc.txt)
 - [LERF: Language Embedded Radiance Fields](https://www.lerf.io/), Kerr et al., Arxiv 2023 | [github](https://github.com/kerrj/lerf) | [bibtex](./citations/lerf.txt)
 - [Nerfbusters: Removing Ghostly Artifacts from Casually Captured NeRFs](https://ethanweber.me/nerfbusters/), Warburg et al., Arxiv 2023 | [github](https://github.com/ethanweber/nerfbusters) | [bibtex](./citations/nerfbusters.txt)
-- [MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes](https://merf42.github.io/), Reiser et al., Arxiv 2023 | [github-unofficial](https://github.com/ashawkey/torch-merf) | [bibtex](./citations/merf.txt)
+- [MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes](https://merf42.github.io/), Reiser et al., Arxiv 2023 | [github](https://github.com/google-research/google-research/tree/master/merf) | [bibtex](./citations/merf.txt)
 - [BakedSDF: Meshing Neural SDFs for Real-Time View Synthesis](https://bakedsdf.github.io/), Yariv et al., Arxiv 2023 | [bibtex](./citations/bakedsdf.txt)
 - [Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields](https://jonbarron.info/zipnerf/), Barron et al., Arxiv 2023 | [bibtex](./citations/zipnerf.txt)
 - [NeRF in the Palm of Your Hand: Corrective Augmentation for Robotics via Novel-View Synthesis](https://bland.website/spartn/), Zhou et al., CVPR 2023 | [bibtex](./citations/spartn.txt)
@@ -146,6 +146,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [NeRFshop: Interactive Editing of Neural Radiance Fields](https://repo-sam.inria.fr/fungraph/nerfshop/), Jambon et al., I3D 2023 | [github](https://github.com/graphdeco-inria/nerfshop) | [bibtex](./citations/nerfshop.txt)
 - [DITTO-NeRF: Diffusion-based Iterative Text To Omni-directional 3D Model](https://janeyeon.github.io/ditto-nerf/), Seo et al., Arxiv 2023 | [github](https://github.com/janeyeon/ditto-nerf-code) | [bibtex](./citations/ditto.txt)
 - [Neural Microfacet Fields for Inverse Rendering](https://half-potato.gitlab.io/posts/nmf/), Mai et al., Arxiv 2023 | [github](https://github.com/half-potato/nmf) | [bibtex](./citations/nmf.txt)
+- [StreetSurf: Extending Multi-view Implicit Surface Reconstruction to Street Views](https://ventusff.github.io/streetsurf_web/), Guo et al., Arxiv 2023 | [github](https://github.com/pjlab-ADG/neuralsim) | [bibtex](./citations/guo2023streetsurf.txt)
 - [I2-SDF: Intrinsic Indoor Scene Reconstruction and Editing via Raytracing in Neural SDFs](https://jingsenzhu.github.io/i2-sdf/), Zhu et al., CVPR 2023 | [github](https://github.com/jingsenzhu/i2-sdf) | [bibtex](./citations/i2sdf.txt)
 - [PET-NeuS: Positional Encoding Tri-Planes for Neural Surfaces](https://arxiv.org/abs/2305.05594), Wang et al., CVPR 2023 | [github](https://github.com/yiqun-wang/PET-NeuS) | [bibtex](./citations/wang2023petneus.txt)
 - [Reference-guided Controllable Inpainting of Neural Radiance Fields](https://ashmrz.github.io/reference-guided-3d/), Mirzaei et al., Arxiv 2023 | [bibtex](./citations/reference.txt)
@@ -198,3 +199,4 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Temporal Interpolation is All You Need for Dynamic Neural Radiance Fields](https://sungheonpark.github.io/tempinterpnerf/), Park et al., CVPR 2023 | [bibtex](./citations/park2023temporal.txt)
 - [FMapping: Factorized Efficient Neural Field Mapping for Real-Time Dense RGB SLAM](https://vlis2022.github.io/fmap/), Hua et al., Arxiv 2023 | [github](https://github.com/thua919/FMapping) | [bibtex](./citations/fmaphua23.txt)
 - [ZIGNeRF: Zero-shot 3D Scene Representation with Invertible Generative Neural Radiance Fields](https://arxiv.org/abs/2306.02741), Ko et al., Arxiv 2023
+- [LU-NeRF: Scene and Pose Estimation by Synchronizing Local Unposed NeRFs](https://people.cs.umass.edu/~zezhoucheng/lu-nerf/), Cheng et al., Arxiv 2023 | [bibtex](./citations/cheng2023lunerf.txt)
