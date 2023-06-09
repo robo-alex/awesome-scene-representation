@@ -1,0 +1,6 @@
+@article{lorraine2023att3d,
+  author = {Lorraine, Jonathan and Xie, Kevin and Zeng, Xiaohui and Lin, Chen-Hsuan and Takikawa, Towaki and Sharp, Nicholas, and Lin, Tsung-Yi and Liu, Ming-Yu and Fidler, Sanja and Lucas, James},
+  title = {ATT3D: Amortized Text-To-3D Object Synthesis},
+  journal = {arXiv},
+  year = {2023},
+}

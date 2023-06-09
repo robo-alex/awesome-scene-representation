@@ -22,6 +22,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Shap-E: Generating Conditional 3D Implicit Functions](https://arxiv.org/abs/2305.02463), Jun et al., Arxiv 2023 | [github](https://github.com/openai/shap-e) | [bibtex](./citations/jun2023shap.txt)
 - [Neural Lens Modeling](https://neural-lens.github.io/), Xian et al., CVPR 2023 | [bibtex](./citations/neurallens.txt)
 - [DeLiRa: Self-Supervised Depth, Light, and Radiance Fields](https://sites.google.com/view/tri-delira), Guizilini et al., Arxiv 2023 | [bibtex](./citations/delira.txt)
+- [ATT3D: Amortized Text-To-3D Object Synthesis](https://research.nvidia.com/labs/toronto-ai/ATT3D/?linkId=100000204660845), Lorraine et al., Arxiv 2023 | [bibtex](./citations/lorraine2023att3d.txt)
 - [HiFA: High-fidelity Text-to-3D with Advanced Diffusion Guidance](https://hifa-team.github.io/HiFA-site/), Zhu et al., Arxiv 2023 | [github](https://github.com/HiFA-team/HiFA) | [bibtex](./citations/zhu2023hifa.txt)
 - [FlowCam: Training Generalizable 3D Radiance Fields without Camera Poses via Pixel-Aligned Scene Flow](https://cameronosmith.github.io/flowcam/), Smith et al., Arxiv 2023 | [github](https://github.com/cameronosmith/FlowCam)
 - [Neural Kernel Surface Reconstruction](https://research.nvidia.com/labs/toronto-ai/NKSR/), Huang et al., CVPR 2023 | [github](https://github.com/nv-tlabs/nksr) | [bibtex](./citations/huang2023nksr.txt)
@@ -166,6 +167,8 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Re-ReND: Real-time Rendering of NeRFs across Devices](https://arxiv.org/abs/2303.08717), Rojas et al., Arxiv 2023 | [bibtex](./citations/rerend.txt)
 - [Learning Neural Volumetric Representations of Dynamic Humans in Minutes](https://zju3dv.github.io/instant_nvr/), Geng et al., CVPR 2023 | [bibtex](./citations/instant_nvr.txt)
 - [PermutoSDF: Fast Multi-View Reconstruction withImplicit Surfaces using Permutohedral Lattices](https://radualexandru.github.io/permuto_sdf/), Rosu et al., CVPR 2023 | [github](https://github.com/RaduAlexandru/permuto_sdf) | [bibtex](./citations/permutosdf.txt)
+- [FusedRF: Fusing Multiple Radiance Fields](https://arxiv.org/abs/2306.04180), Goel et al., Arxiv 2023
+- [Explicit Neural Surfaces: Learning Continuous Geometry With Deformation Fields](https://arxiv.org/abs/2306.02956), Walker et al., Arxiv 2023
 - [Neural Implicit Dense Semantic SLAM](https://arxiv.org/abs/2304.14560), Haghighi et al., Arxiv 2023 | [bibtex](./citations/haghighi2023neural.txt)
 - [Point-SLAM: Dense Neural Point Cloud-based SLAM](https://arxiv.org/abs/2304.04278), Sandström et al., Arxiv 2023 | [github](https://github.com/tfy14esa/Point-SLAM) | [bibtex](./citations/pointslam.txt)
 - [Decoupling Dynamic Monocular Videos for Dynamic View Synthesis](https://arxiv.org/abs/2304.01716), You et al., Arxiv 2023 | [bibtex](./citations/decoupling.txt)
