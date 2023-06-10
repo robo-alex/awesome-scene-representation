@@ -6,7 +6,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [NerfAcc: A General NeRF Acceleration Toolbox](https://www.nerfacc.com/en/latest/), Li et al., Arxiv 2023 | [github](https://github.com/KAIR-BAIR/nerfacc) | [bibtex](./citations/li2023nerfacc.txt)
 - [LERF: Language Embedded Radiance Fields](https://www.lerf.io/), Kerr et al., Arxiv 2023 | [github](https://github.com/kerrj/lerf) | [bibtex](./citations/lerf.txt)
 - [Nerfbusters: Removing Ghostly Artifacts from Casually Captured NeRFs](https://ethanweber.me/nerfbusters/), Warburg et al., Arxiv 2023 | [github](https://github.com/ethanweber/nerfbusters) | [bibtex](./citations/nerfbusters.txt)
-- [MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes](https://merf42.github.io/), Reiser et al., Arxiv 2023 | [github](https://github.com/google-research/google-research/tree/master/merf) | [bibtex](./citations/merf.txt)
+- [MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes](https://merf42.github.io/), Reiser et al., SIGGRAPH 2023 | [github](https://github.com/google-research/google-research/tree/master/merf) | [bibtex](./citations/merf.txt)
 - [BakedSDF: Meshing Neural SDFs for Real-Time View Synthesis](https://bakedsdf.github.io/), Yariv et al., Arxiv 2023 | [bibtex](./citations/bakedsdf.txt)
 - [Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields](https://jonbarron.info/zipnerf/), Barron et al., Arxiv 2023 | [bibtex](./citations/zipnerf.txt)
 - [NeRF in the Palm of Your Hand: Corrective Augmentation for Robotics via Novel-View Synthesis](https://bland.website/spartn/), Zhou et al., CVPR 2023 | [bibtex](./citations/spartn.txt)
@@ -168,8 +168,8 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Re-ReND: Real-time Rendering of NeRFs across Devices](https://arxiv.org/abs/2303.08717), Rojas et al., Arxiv 2023 | [bibtex](./citations/rerend.txt)
 - [Learning Neural Volumetric Representations of Dynamic Humans in Minutes](https://zju3dv.github.io/instant_nvr/), Geng et al., CVPR 2023 | [bibtex](./citations/instant_nvr.txt)
 - [PermutoSDF: Fast Multi-View Reconstruction withImplicit Surfaces using Permutohedral Lattices](https://radualexandru.github.io/permuto_sdf/), Rosu et al., CVPR 2023 | [github](https://github.com/RaduAlexandru/permuto_sdf) | [bibtex](./citations/permutosdf.txt)
-- [FusedRF: Fusing Multiple Radiance Fields](https://arxiv.org/abs/2306.04180), Goel et al., Arxiv 2023
-- [Explicit Neural Surfaces: Learning Continuous Geometry With Deformation Fields](https://arxiv.org/abs/2306.02956), Walker et al., Arxiv 2023
+- [FusedRF: Fusing Multiple Radiance Fields](https://arxiv.org/abs/2306.04180), Goel et al., Arxiv 2023 | [bibtex](./citations/goel2023fusedrf.txt)
+- [Explicit Neural Surfaces: Learning Continuous Geometry With Deformation Fields](https://arxiv.org/abs/2306.02956), Walker et al., Arxiv 2023 | [bibtex](./citations/walker2023explicit.txt)
 - [Neural Implicit Dense Semantic SLAM](https://arxiv.org/abs/2304.14560), Haghighi et al., Arxiv 2023 | [bibtex](./citations/haghighi2023neural.txt)
 - [Point-SLAM: Dense Neural Point Cloud-based SLAM](https://arxiv.org/abs/2304.04278), Sandström et al., Arxiv 2023 | [github](https://github.com/tfy14esa/Point-SLAM) | [bibtex](./citations/pointslam.txt)
 - [Decoupling Dynamic Monocular Videos for Dynamic View Synthesis](https://arxiv.org/abs/2304.01716), You et al., Arxiv 2023 | [bibtex](./citations/decoupling.txt)
@@ -198,5 +198,5 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [DP-NeRF: Deblurred Neural Radiance Field with Physical Scene Priors](https://dogyoonlee.github.io/dpnerf/), Lee et al., CVPR 2023 | [github](https://github.com/dogyoonlee/DP-NeRF) | [bibtex](./citations/dpnerf.txt)
 - [Temporal Interpolation is All You Need for Dynamic Neural Radiance Fields](https://sungheonpark.github.io/tempinterpnerf/), Park et al., CVPR 2023 | [bibtex](./citations/park2023temporal.txt)
 - [FMapping: Factorized Efficient Neural Field Mapping for Real-Time Dense RGB SLAM](https://vlis2022.github.io/fmap/), Hua et al., Arxiv 2023 | [github](https://github.com/thua919/FMapping) | [bibtex](./citations/fmaphua23.txt)
-- [ZIGNeRF: Zero-shot 3D Scene Representation with Invertible Generative Neural Radiance Fields](https://arxiv.org/abs/2306.02741), Ko et al., Arxiv 2023
+- [ZIGNeRF: Zero-shot 3D Scene Representation with Invertible Generative Neural Radiance Fields](https://arxiv.org/abs/2306.02741), Ko et al., Arxiv 2023 | [bibtex](./citations/ko2023zignerf.txt)
 - [LU-NeRF: Scene and Pose Estimation by Synchronizing Local Unposed NeRFs](https://people.cs.umass.edu/~zezhoucheng/lu-nerf/), Cheng et al., Arxiv 2023 | [bibtex](./citations/cheng2023lunerf.txt)

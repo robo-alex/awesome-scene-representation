@@ -1,0 +1,6 @@
+@article{ko2023zignerf,
+  title={ZIGNeRF: Zero-shot 3D Scene Representation with Invertible Generative Neural Radiance Fields},
+  author={Ko, Kanghyeok and Lee, Minhyeok},
+  journal={arXiv preprint arXiv:2306.02741},
+  year={2023}
+}

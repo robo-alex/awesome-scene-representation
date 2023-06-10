@@ -1,0 +1,6 @@
+@article{walker2023explicit,
+  title={Explicit Neural Surfaces: Learning Continuous Geometry With Deformation Fields},
+  author={Walker, Thomas and Mariotti, Octave and Vaxman, Amir and Bilen, Hakan},
+  journal={arXiv preprint arXiv:2306.02956},
+  year={2023}
+}

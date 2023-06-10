@@ -1,0 +1,6 @@
+@article{goel2023fusedrf,
+  title={FusedRF: Fusing Multiple Radiance Fields},
+  author={Goel, Rahul and Sirikonda, Dhawal and Shah, Rajvi and Narayanan, PJ},
+  journal={arXiv preprint arXiv:2306.04180},
+  year={2023}
+}
