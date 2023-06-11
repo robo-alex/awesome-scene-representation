@@ -1,0 +1,6 @@
+@article{jiang2023h2,
+  title={H2-Mapping: Real-time Dense Mapping Using Hierarchical Hybrid Representation},
+  author={Jiang, Chenxing and Zhang, Hanwen and Liu, Peize and Yu, Zehuan and Cheng, Hui and Zhou, Boyu and Shen, Shaojie},
+  journal={arXiv preprint arXiv:2306.03207},
+  year={2023}
+}

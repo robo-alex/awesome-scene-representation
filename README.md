@@ -200,3 +200,4 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [FMapping: Factorized Efficient Neural Field Mapping for Real-Time Dense RGB SLAM](https://vlis2022.github.io/fmap/), Hua et al., Arxiv 2023 | [github](https://github.com/thua919/FMapping) | [bibtex](./citations/fmaphua23.txt)
 - [ZIGNeRF: Zero-shot 3D Scene Representation with Invertible Generative Neural Radiance Fields](https://arxiv.org/abs/2306.02741), Ko et al., Arxiv 2023 | [bibtex](./citations/ko2023zignerf.txt)
 - [LU-NeRF: Scene and Pose Estimation by Synchronizing Local Unposed NeRFs](https://people.cs.umass.edu/~zezhoucheng/lu-nerf/), Cheng et al., Arxiv 2023 | [bibtex](./citations/cheng2023lunerf.txt)
+- [H2-Mapping: Real-time Dense Mapping Using Hierarchical Hybrid Representation](https://arxiv.org/abs/2306.03207), Jiang et al., Arxiv 2023 | [bibtex](./citations/jiang2023h2.txt)
