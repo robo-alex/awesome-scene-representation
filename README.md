@@ -190,6 +190,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Instant Neural Radiance Fields Stylization](https://arxiv.org/abs/2303.16884), Li et al., Arxiv 2023 | [bibtex](./citations/li2023instant.txt)
 - [MF-NeRF: Memory Efficient NeRF with Mixed-Feature Hash Table](https://arxiv.org/abs/2304.12587), Lee et al., Arxiv 2023 | [github](https://github.com/nfyfamr/MixNeRF) | [bibtex](./citations/lee2023mixnerf.txt)
 - [Real-Time Neural Light Field on Mobile Devices](https://snap-research.github.io/MobileR2L/), Cao et al., CVPR 2023 | [github](https://github.com/snap-research/MobileR2L) | [bibtex](./citations/mobiler2l.txt)
+- [NeRFool: Uncovering the Vulnerability of Generalizable Neural Radiance Fields against Adversarial Perturbations](https://arxiv.org/abs/2306.06359), Fu et al., ICML 2023
 - [Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation](https://fantasia3d.github.io/), Chen et al., Arxiv 2023 | [github](https://github.com/Gorilla-Lab-SCUT/Fantasia3D) | [bibtex](./citations/chen2023fantasia3d.txt)
 - [Template-free Articulated Neural Point Clouds for Reposable View Synthesis](https://arxiv.org/abs/2305.19065), Uzolas et al., Arxiv 2023 | [github](https://github.com/lukasuz/Articulated-Point-NeRF)
 - [DäRF: Boosting Radiance Fields from Sparse Inputs with Monocular Depth Adaptation](https://ku-cvlab.github.io/DaRF/), Song et al., Arxiv 2023 | [bibtex](./citations/song2023darf.txt)
