@@ -31,9 +31,11 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [NeuManifold: Neural Watertight Manifold Reconstruction with Efficient and High-Quality Rendering Support](https://sarahweiii.github.io/neumanifold/), Wei et al., Arxiv 2023 | [bibtex](./citations/wei2023neumanifold.txt)
 - [SCADE: NeRFs from Space Carving with Ambiguity-Aware Depth Estimates](https://scade-spacecarving-nerfs.github.io/), Uy et al., CVPR 2023 | [bibtex](./citations/scade.txt)
 - [Progressively Optimized Local Radiance Fields for Robust View Synthesis](https://localrf.github.io/), Meuleman et al., CVPR 2023 | [github](https://github.com/facebookresearch/localrf) | [bibtex](./citations/localrf.txt)
+- [UniSim: A Neural Closed-Loop Sensor Simulator](https://waabi.ai/unisim/), Yang et al., CVPR 2023 | [bibtex](./citations/yang2023unisim.txt)
 - [Grid-guided Neural Radiance Fields for Large Urban Scenes](https://city-super.github.io/gridnerf/), Xu et al., CVPR 2023 | [bibtex](./citations/gridnerf.txt)
 - [K-Planes: Explicit Radiance Fields in Space, Time, and Appearance](https://sarafridov.github.io/K-Planes/), Fridovich-Keil et al, CVPR 2023 | [github](https://github.com/sarafridov/K-Planes) | [bibtex](./citations/kplanes.txt)
 - [HexPlane: A Fast Representation for Dynamic Scenes](https://caoang327.github.io/HexPlane/), Cao et al., CVPR 2023 | [github](https://github.com/Caoang327/HexPlane) | [bibtex](./citations/hexplane.txt)
+- [Neural Scene Chronology](https://zju3dv.github.io/neusc/), Lin et al., CVPR 2023 | [github](https://github.com/zju3dv/NeuSC) | [bibtex](./citations/lin2023neural.txt)
 - [SUDS: Scalable Urban Dynamic Scenes](https://haithemturki.com/suds/), Turki et al., CVPR 2023 | [github](https://github.com/hturki/suds) | [bibtex](./citations/suds.txt)
 - [Neural LiDAR Fields for Novel View Synthesis](https://research.nvidia.com/labs/toronto-ai/nfl/), Huang et al., Arxiv 2023 | [bibtex](./citations/huang2023nfl.txt)
 - [NeuralField-LDM: Scene Generation with Hierarchical Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/NFLDM/), Kim et al., CVPR 2023 | [bibtex](./citations/nfldm.txt)
@@ -206,3 +208,5 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [ZIGNeRF: Zero-shot 3D Scene Representation with Invertible Generative Neural Radiance Fields](https://arxiv.org/abs/2306.02741), Ko et al., Arxiv 2023 | [bibtex](./citations/ko2023zignerf.txt)
 - [LU-NeRF: Scene and Pose Estimation by Synchronizing Local Unposed NeRFs](https://people.cs.umass.edu/~zezhoucheng/lu-nerf/), Cheng et al., Arxiv 2023 | [bibtex](./citations/cheng2023lunerf.txt)
 - [H2-Mapping: Real-time Dense Mapping Using Hierarchical Hybrid Representation](https://arxiv.org/abs/2306.03207), Jiang et al., Arxiv 2023 | [bibtex](./citations/jiang2023h2.txt)
+- [Binary Radiance Fields](https://arxiv.org/abs/2306.07581), Shin et al., Arxiv 2023
+- [NeuS-PIR: Learning Relightable Neural Surface using Pre-Integrated Rendering](https://arxiv.org/abs/2306.07632), Mao et al., Arxiv 2023

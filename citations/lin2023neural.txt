@@ -1,0 +1,6 @@
+@inproceedings{lin2023neural,
+  title={Neural Scene Chronology},
+  author={Lin, Haotong and Wang, Qianqian and Cai, Ruojin and Peng, Sida and Averbuch-Elor, Hadar and Zhou, Xiaowei and Snavely, Noah},
+  booktitle={CVPR},
+  year={2023}
+}

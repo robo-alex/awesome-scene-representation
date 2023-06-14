@@ -1,0 +1,6 @@
+@inproceedings{yang2023unisim,
+  title     = {UniSim: A Neural Closed-Loop Sensor Simulator},
+  author    = {Yang, Ze and Chen, Yun and Wang, Jingkang and Manivasagam, Sivabalan and Ma, Wei-Chiu and Yang, Anqi Joyce and Urtasun, Raquel},
+  booktitle = {CVPR},
+  year      = {2023},
+}
