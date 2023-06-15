@@ -1,0 +1,6 @@
+@article{fu2023nerfool,
+  title={NeRFool: Uncovering the Vulnerability of Generalizable Neural Radiance Fields against Adversarial Perturbations},
+  author={Fu, Yonggan and Yuan, Ye and Kundu, Souvik and Wu, Shang and Zhang, Shunyao and Lin, Yingyan},
+  journal={ICML},
+  year={2023}
+}
