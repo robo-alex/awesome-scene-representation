@@ -31,6 +31,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [NeuManifold: Neural Watertight Manifold Reconstruction with Efficient and High-Quality Rendering Support](https://sarahweiii.github.io/neumanifold/), Wei et al., Arxiv 2023 | [bibtex](./citations/wei2023neumanifold.txt)
 - [SCADE: NeRFs from Space Carving with Ambiguity-Aware Depth Estimates](https://scade-spacecarving-nerfs.github.io/), Uy et al., CVPR 2023 | [bibtex](./citations/scade.txt)
 - [Progressively Optimized Local Radiance Fields for Robust View Synthesis](https://localrf.github.io/), Meuleman et al., CVPR 2023 | [github](https://github.com/facebookresearch/localrf) | [bibtex](./citations/localrf.txt)
+- [Seeing the World through Your Eyes](https://world-from-eyes.github.io/), Alzayer et al., Arxiv 2023
 - [Neural Relighting with Subsurface Scattering by Learning the Radiance Transfer Gradient](https://arxiv.org/abs/2306.09322), Zhu et al., Arxiv 2023
 - [DreamHuman: Animatable 3D Avatars from Text](https://dream-human.github.io/), Kolotouros et al., Arxiv 2023 | [bibtex](./citations/kolotouros2023dreamhuman.txt)
 - [Generalizable One-shot Neural Head Avatar](https://arxiv.org/abs/2306.08768), Li et al., Arxiv 2023
