@@ -215,3 +215,4 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Binary Radiance Fields](https://arxiv.org/abs/2306.07581), Shin et al., Arxiv 2023
 - [NeuS-PIR: Learning Relightable Neural Surface using Pre-Integrated Rendering](https://arxiv.org/abs/2306.07632), Mao et al., Arxiv 2023
 - [UrbanIR: Large-Scale Urban Scene Inverse Rendering from a Single Video](https://arxiv.org/abs/2306.09349), Lin et al., Arxiv 2023
+- [Neural Volumetric Reconstruction for Coherent Synthetic Aperture Sonar](https://arxiv.org/abs/2306.09909), Reed et al., Arxiv 2023
