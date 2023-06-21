@@ -188,9 +188,9 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [FlexNeRF: Photorealistic Free-viewpoint Rendering of Moving Humans from Sparse Views](https://flex-nerf.github.io/), Jayasundara et al., CVPR 2023 | [bibtex](./citations/flexnerf.txt)
 - [Enhanced Stable View Synthesis](https://arxiv.org/abs/2303.17094), Jain et al., CVPR 2023 | [bibtex](./citations/enhanced.txt)
 - [S-VolSDF: Sparse Multi-View Stereo Regularization of Neural Implicit Surfaces](https://hao-yu-wu.github.io/s-volsdf/), Wu et al., Arxiv 2023 | [bibtex](./citations/svolsdf.txt)
-- [SurfelNeRF: Neural Surfel Radiance Fields for Online Photorealistic Reconstruction of Indoor Scenes](https://gymat.github.io/SurfelNeRF-web/), Gao et al., CVPR 2023 | [bibtex](./citations/surfelnerf.txt)
+- [SurfelNeRF: Neural Surfel Radiance Fields for Online Photorealistic Reconstruction of Indoor Scenes](https://gymat.github.io/SurfelNeRF-web/), Gao et al., CVPR 2023 | [github](https://github.com/TencentARC/SurfelNeRF) | [bibtex](./citations/surfelnerf.txt)
 - [Learning Neural Duplex Radiance Fields for Real-Time View Synthesis](http://raywzy.com/NDRF/), Wan et al., CVPR 2023 | [bibtex](./citations/ndrf.txt)
-- [Multi-Space Neural Radiance Fields](https://zx-yin.github.io/msnerf/), Yin et al., CVPR 2023 | [bibtex](./citations/yin2023msnerf.txt)
+- [Multi-Space Neural Radiance Fields](https://zx-yin.github.io/msnerf/), Yin et al., CVPR 2023 | [github](https://github.com/ZX-Yin/ms-nerf) | [bibtex](./citations/yin2023msnerf.txt)
 - [Tetra-NeRF: Representing Neural Radiance Fields Using Tetrahedra](https://jkulhanek.com/tetra-nerf/), Kulhánek et al., Arxiv 2023 | [github](https://github.com/jkulhanek/tetra-nerf/) | [bibtex](./citations/tetra.txt)
 - [Multiscale Representation for Real-Time Anti-Aliasing Neural Rendering](https://arxiv.org/abs/2304.10075), Hu et al., Arxiv 2023 | [bibtex](./citations/multiscale.txt)
 - [Instant Neural Radiance Fields Stylization](https://arxiv.org/abs/2303.16884), Li et al., Arxiv 2023 | [bibtex](./citations/li2023instant.txt)
@@ -212,7 +212,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [ZIGNeRF: Zero-shot 3D Scene Representation with Invertible Generative Neural Radiance Fields](https://arxiv.org/abs/2306.02741), Ko et al., Arxiv 2023 | [bibtex](./citations/ko2023zignerf.txt)
 - [LU-NeRF: Scene and Pose Estimation by Synchronizing Local Unposed NeRFs](https://people.cs.umass.edu/~zezhoucheng/lu-nerf/), Cheng et al., Arxiv 2023 | [bibtex](./citations/cheng2023lunerf.txt)
 - [H2-Mapping: Real-time Dense Mapping Using Hierarchical Hybrid Representation](https://arxiv.org/abs/2306.03207), Jiang et al., Arxiv 2023 | [bibtex](./citations/jiang2023h2.txt)
-- [Binary Radiance Fields](https://arxiv.org/abs/2306.07581), Shin et al., Arxiv 2023
-- [NeuS-PIR: Learning Relightable Neural Surface using Pre-Integrated Rendering](https://arxiv.org/abs/2306.07632), Mao et al., Arxiv 2023
-- [UrbanIR: Large-Scale Urban Scene Inverse Rendering from a Single Video](https://arxiv.org/abs/2306.09349), Lin et al., Arxiv 2023
+- [Binary Radiance Fields](https://arxiv.org/abs/2306.07581), Shin et al., Arxiv 2023 | [bibtex](./citations/shin2023binary.txt)
+- [NeuS-PIR: Learning Relightable Neural Surface using Pre-Integrated Rendering](https://arxiv.org/abs/2306.07632), Mao et al., Arxiv 2023 | [bibtex](./citations/mao2023neus.txt)
+- [UrbanIR: Large-Scale Urban Scene Inverse Rendering from a Single Video](https://urbaninverserendering.github.io/), Lin et al., Arxiv 2023 | [bibtex](./citations/lin2023urbanir.txt)
 - [Neural Volumetric Reconstruction for Coherent Synthetic Aperture Sonar](https://arxiv.org/abs/2306.09909), Reed et al., Arxiv 2023

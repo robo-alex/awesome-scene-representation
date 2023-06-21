@@ -1,0 +1,6 @@
+@article{mao2023neus,
+  title={NeuS-PIR: Learning Relightable Neural Surface using Pre-Integrated Rendering},
+  author={Mao, Shi and Wu, Chenming and Shen, Zhelun and Zhang, Liangjun},
+  journal={arXiv preprint arXiv:2306.07632},
+  year={2023}
+}

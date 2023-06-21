@@ -1,0 +1,6 @@
+@article{lin2023urbanir,
+  title={UrbanIR: Large-Scale Urban Scene Inverse Rendering from a Single Video},
+  author={Lin, Zhi-Hao and Liu, Bohan and Chen, Yi-Ting and Forsyth, David and Huang, Jia-Bin and Bhattad, Anand and Wang, Shenlong},
+  journal={arXiv preprint arXiv:2306.09349},
+  year={2023}
+}

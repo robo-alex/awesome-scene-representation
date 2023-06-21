@@ -1,0 +1,6 @@
+@article{shin2023binary,
+  title={Binary Radiance Fields},
+  author={Shin, Seungjoo and Park, Jaesik},
+  journal={arXiv preprint arXiv:2306.07581},
+  year={2023}
+}
