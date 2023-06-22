@@ -1,0 +1,6 @@
+@article{wang2023benchmarking,
+  title   = {Benchmarking and Analyzing 3D-aware Image Synthesis with a Modularized Codebase},
+  author  = {Wang, Qiuyu and Shi, Zifan and Zheng, Kecheng and Xu, Yinghao and Peng, Sida and Shen, Yujun},
+  journal = {arXiv:},
+  year    = {2023}
+}

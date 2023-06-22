@@ -1,0 +1,6 @@
+@article{zeng2023avatarbooth,
+  title={AvatarBooth: High-Quality and Customizable 3D Human Avatar Generation},
+  author={Zeng, Yifei and Lu, Yuanxun and Ji, Xinya and Yao, Yao and Zhu, Hao and Cao, Xun},
+  journal={arXiv preprint arXiv:2306.09864},
+  year={2023}
+}
