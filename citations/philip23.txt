@@ -1,0 +1,7 @@
+  @inproceedings{philip23,
+    title={Floaters No More: Radiance Field Gradient Scaling for Improved Near-Camera Training}, 
+    author={Julien Philip and Valentin Deschaintre},
+    booktitle={Eurographics Symposium on Rendering},
+    month={June},
+    year={2023}
+  }

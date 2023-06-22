@@ -1,0 +1,6 @@
+@article{roessle2023ganerf,
+  title={GANeRF: Leveraging Discriminators to Optimize Neural Radiance Fields},
+  author={Roessle, Barbara and M{\"u}ller, Norman and Porzi, Lorenzo and Bul{\`o}, Samuel Rota and Kontschieder, Peter and Nie{\ss}ner, Matthias},
+  journal={arXiv preprint arXiv:2306.06044},
+  year={2023}
+}

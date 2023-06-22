@@ -1,0 +1,6 @@
+@article{sklyarova2023neural,
+  title={Neural Haircut: Prior-Guided Strand-Based Hair Reconstruction},
+  author={Sklyarova, Vanessa and Chelishev, Jenya and Dogaru, Andreea and Medvedev, Igor and Lempitsky, Victor and Zakharov, Egor},
+  journal={arXiv preprint arXiv:2306.05872},
+  year={2023}
+}

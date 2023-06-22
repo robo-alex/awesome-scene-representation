@@ -1,0 +1,6 @@
+@article{sen2023hyp,
+  title={HyP-NeRF: Learning Improved NeRF Priors using a HyperNetwork},
+  author={Sen, Bipasha and Singh, Gaurav and Agarwal, Aditya and Agaram, Rohith and Krishna, K Madhava and Sridhar, Srinath},
+  journal={arXiv preprint arXiv:2306.06093},
+  year={2023}
+}

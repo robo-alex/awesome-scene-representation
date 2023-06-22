@@ -1,0 +1,6 @@
+@article{yu2023edit,
+  title={Edit-DiffNeRF: Editing 3D Neural Radiance Fields using 2D Diffusion Model},
+  author={Yu, Lu and Xiang, Wei and Han, Kang},
+  journal={arXiv preprint arXiv:2306.09551},
+  year={2023}
+}

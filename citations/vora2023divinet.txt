@@ -1,0 +1,6 @@
+@article{vora2023divinet,
+  title={DiViNeT: 3D Reconstruction from Disparate Views via Neural Template Regularization},
+  author={Vora, Aditya and Patil, Akshay Gadi and Zhang, Hao},
+  journal={arXiv preprint arXiv:2306.04699},
+  year={2023}
+}
