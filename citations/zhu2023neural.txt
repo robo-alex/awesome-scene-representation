@@ -1,0 +1,6 @@
+@article{zhu2023neural,
+  title={Neural Relighting with Subsurface Scattering by Learning the Radiance Transfer Gradient},
+  author={Zhu, Shizhan and Saito, Shunsuke and Bozic, Aljaz and Aliaga, Carlos and Darrell, Trevor and Lassner, Christop},
+  journal={arXiv preprint arXiv:2306.09322},
+  year={2023}
+}

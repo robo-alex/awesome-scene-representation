@@ -1,0 +1,6 @@
+@article{reed2023neural,
+  title={Neural Volumetric Reconstruction for Coherent Synthetic Aperture Sonar},
+  author={Reed, Albert W and Kim, Juhyeon and Blanford, Thomas and Pediredla, Adithya and Brown, Daniel C and Jayasuriya, Suren},
+  journal={arXiv preprint arXiv:2306.09909},
+  year={2023}
+}

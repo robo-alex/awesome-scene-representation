@@ -1,0 +1,6 @@
+@article{liang2023envidr,
+  title={ENVIDR: Implicit Differentiable Renderer with Neural Environment Lighting},
+  author={Liang, Ruofan and Chen, Huiting and Li, Chunlin and Chen, Fan and Panneer, Selvakumar and Vijaykumar, Nandita},
+  journal={arXiv preprint arXiv:2303.13022},
+  year={2023}
+}

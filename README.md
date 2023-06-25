@@ -31,10 +31,10 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [NeuManifold: Neural Watertight Manifold Reconstruction with Efficient and High-Quality Rendering Support](https://sarahweiii.github.io/neumanifold/), Wei et al., Arxiv 2023 | [bibtex](./citations/wei2023neumanifold.txt)
 - [SCADE: NeRFs from Space Carving with Ambiguity-Aware Depth Estimates](https://scade-spacecarving-nerfs.github.io/), Uy et al., CVPR 2023 | [bibtex](./citations/scade.txt)
 - [Progressively Optimized Local Radiance Fields for Robust View Synthesis](https://localrf.github.io/), Meuleman et al., CVPR 2023 | [github](https://github.com/facebookresearch/localrf) | [bibtex](./citations/localrf.txt)
-- [Seeing the World through Your Eyes](https://world-from-eyes.github.io/), Alzayer et al., Arxiv 2023
-- [Neural Relighting with Subsurface Scattering by Learning the Radiance Transfer Gradient](https://arxiv.org/abs/2306.09322), Zhu et al., Arxiv 2023
+- [Seeing the World through Your Eyes](https://world-from-eyes.github.io/), Alzayer et al., Arxiv 2023 | [bibtex](./citations/alzayer2023seeing.txt)
+- [Neural Relighting with Subsurface Scattering by Learning the Radiance Transfer Gradient](https://arxiv.org/abs/2306.09322), Zhu et al., Arxiv 2023 | [bibtex](./citations/zhu2023neural.txt)
 - [DreamHuman: Animatable 3D Avatars from Text](https://dream-human.github.io/), Kolotouros et al., Arxiv 2023 | [bibtex](./citations/kolotouros2023dreamhuman.txt)
-- [Generalizable One-shot Neural Head Avatar](https://arxiv.org/abs/2306.08768), Li et al., Arxiv 2023
+- [Generalizable One-shot Neural Head Avatar](https://arxiv.org/abs/2306.08768), Li et al., Arxiv 2023 | [bibtex](./citations/li2023generalizable.txt)
 - [UniSim: A Neural Closed-Loop Sensor Simulator](https://waabi.ai/unisim/), Yang et al., CVPR 2023 | [bibtex](./citations/yang2023unisim.txt)
 - [Grid-guided Neural Radiance Fields for Large Urban Scenes](https://city-super.github.io/gridnerf/), Xu et al., CVPR 2023 | [bibtex](./citations/gridnerf.txt)
 - [K-Planes: Explicit Radiance Fields in Space, Time, and Appearance](https://sarafridov.github.io/K-Planes/), Fridovich-Keil et al, CVPR 2023 | [github](https://github.com/sarafridov/K-Planes) | [bibtex](./citations/kplanes.txt)
@@ -64,7 +64,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Total-Recon: Deformable Scene Reconstruction for Embodied View Synthesis](https://andrewsonga.github.io/totalrecon/), Song et al., Arxiv 2023 | [github](https://github.com/andrewsonga/Total-Recon) | [bibtex](./citations/song2023totalrecon.txt)
 - [DynIBaR: Neural Dynamic Image-Based Rendering](https://dynibar.github.io/), Li et al., CVPR 2023 | [github](https://github.com/google/dynibar) | [bibtex](./citations/li2023dynibar.txt)
 - [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/), Kerbl et al., SIGGRAPH 2023 | [github](https://gitlab.inria.fr/fungraph/) | [bibtex](./citations/kerbl3Dgaussians.txt)
-- [Real-Time Neural Appearance Models](https://research.nvidia.com/labs/rtr/neural_appearance_models/), Zeltner et al., Arxiv 2023
+- [Real-Time Neural Appearance Models](https://research.nvidia.com/labs/rtr/neural_appearance_models/), Zeltner et al., Arxiv 2023 | [bibtex](./citations/zeltner2023real.txt)
 - [Towards Realistic Generative 3D Face Models](https://aashishrai3799.github.io/Towards-Realistic-Generative-3D-Face-Models/), Rai et al., Arxiv 2023 | [github](https://github.com/aashishrai3799/Towards-Realistic-Generative-3D-Face-Models/) | [bibtex](./citations/rai2023towards.txt)
 - [Pointersect: Neural Rendering with Cloud-Ray Intersection](https://machinelearning.apple.com/research/pointersect), Chang et al., CVPR 2023 | [github](https://github.com/apple/ml-pointersect) | [bibtex](./citations/pointersect.txt)
 - [ORCa: Glossy Objects as Radiance-Field Cameras](https://ktiwary2.github.io/objectsascam/), Tiwary et al., CVPR 2023 | [github](https://github.com/ktiwary2/orca) | [bibtex](./citations/glossyobjects2022.txt)
@@ -79,7 +79,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [HyP-NeRF: Learning Improved NeRF Priors using a HyperNetwork](https://arxiv.org/abs/2306.06093), Sen et al., Arxiv 2023 | [bibtex](./citations/sen2023hyp.txt)
 - [Neural Haircut: Prior-Guided Strand-Based Hair Reconstruction](https://arxiv.org/abs/2306.05872), Sklyarova et al., Arxiv 2023 | [bibtex](./citations/sklyarova2023neural.txt)
 - [DiViNeT: 3D Reconstruction from Disparate Views via Neural Template Regularization](https://arxiv.org/abs/2306.04699), Vora et al., Arxiv 2023 | [bibtex](./citations/vora2023divinet.txt)
-- [ENVIDR: Implicit Differentiable Renderer with Neural Environment Lighting](https://nexuslrf.github.io/ENVIDR/), Liang et al., Arxiv 2023 | [github](https://github.com/nexuslrf/ENVIDR)
+- [ENVIDR: Implicit Differentiable Renderer with Neural Environment Lighting](https://nexuslrf.github.io/ENVIDR/), Liang et al., Arxiv 2023 | [github](https://github.com/nexuslrf/ENVIDR) | [bibtex](./citations/liang2023envidr.txt)
 - [SPIDR: SDF-based Neural Point Fields for Illumination and Deformation](https://nexuslrf.github.io/SPIDR_webpage/), Liang et al., Arxiv 2023 | [github](https://github.com/nexuslrf/SPIDR) | [bibtex](./citations/liang2022spidr.txt)
 - [TensoIR: Tensorial Inverse Rendering](https://haian-jin.github.io/TensoIR/), Jin et al., CVPR 2023 | [github](https://github.com/Haian-Jin/TensoIR) | [bibtex](./citations/Jin2023TensoIR.txt)
 - [Patch-based 3D Natural Scene Generation from a Single Example](http://weiyuli.xyz/Sin3DGen/), Li et al., CVPR 2023 | [github](https://github.com/wyysf-98/Sin3DGen) | [bibtex](./citations/weiyu23sin3dgen.txt)
@@ -215,7 +215,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Binary Radiance Fields](https://arxiv.org/abs/2306.07581), Shin et al., Arxiv 2023 | [bibtex](./citations/shin2023binary.txt)
 - [NeuS-PIR: Learning Relightable Neural Surface using Pre-Integrated Rendering](https://arxiv.org/abs/2306.07632), Mao et al., Arxiv 2023 | [bibtex](./citations/mao2023neus.txt)
 - [UrbanIR: Large-Scale Urban Scene Inverse Rendering from a Single Video](https://urbaninverserendering.github.io/), Lin et al., Arxiv 2023 | [bibtex](./citations/lin2023urbanir.txt)
-- [Neural Volumetric Reconstruction for Coherent Synthetic Aperture Sonar](https://arxiv.org/abs/2306.09909), Reed et al., Arxiv 2023
+- [Neural Volumetric Reconstruction for Coherent Synthetic Aperture Sonar](https://arxiv.org/abs/2306.09909), Reed et al., Arxiv 2023 | [bibtex](./citations/reed2023neural.txt)
 - [Edit-DiffNeRF: Editing 3D Neural Radiance Fields using 2D Diffusion Model](https://arxiv.org/abs/2306.09551), Yu et al., Arxiv 2023 | [bibtex](./citations/yu2023edit.txt)
 - [Benchmarking and Analyzing 3D-aware Image Synthesis with a Modularized Codebase](https://arxiv.org/abs/2306.12423v1), Wang et al., Arxiv 2023 | [github](https://github.com/qiuyu96/Carver) | [bibtex](./citations/wang2023benchmarking.txt)
 - [Floaters No More: Radiance Field Gradient Scaling for Improved Near-Camera Training](https://gradient-scaling.github.io/), Philip et al., EGSR 2023 | [bibtext](./citations/philip23.txt)

@@ -1,0 +1,6 @@
+@article{li2023generalizable,
+  title={Generalizable One-shot Neural Head Avatar},
+  author={Li, Xueting and De Mello, Shalini and Liu, Sifei and Nagano, Koki and Iqbal, Umar and Kautz, Jan},
+  journal={arXiv preprint arXiv:2306.08768},
+  year={2023}
+}

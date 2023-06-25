@@ -1,0 +1,6 @@
+@article{zeltner2023real,
+  title={Real-Time Neural Appearance Models},
+  author={Zeltner, Tizian and Rousselle, Fabrice and Weidlich, Andrea and Clarberg, Petrik and Nov{\'a}k, Jan and Bitterli, Benedikt and Evans, Alex and Davidovi{\v{c}}, Tom{\'a}{\v{s}} and Kallweit, Simon and Lefohn, Aaron},
+  journal={arXiv preprint arXiv:2305.02678},
+  year={2023}
+}
