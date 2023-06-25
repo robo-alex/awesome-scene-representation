@@ -1,0 +1,6 @@
+@article{huang2023dreamtime,
+  title={DreamTime: An Improved Optimization Strategy for Text-to-3D Content Creation},
+  author={Huang, Yukun and Wang, Jianan and Shi, Yukai and Qi, Xianbiao and Zha, Zheng-Jun and Zhang, Lei},
+  journal={arXiv preprint arXiv:2306.12422},
+  year={2023}
+}

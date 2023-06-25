@@ -1,0 +1,7 @@
+@misc{gordon2023blendednerf,
+title={Blended-NeRF: Zero-Shot Object Generation and Blending in Existing Neural Radiance Fields},
+author={Ori Gordon and Omri Avrahami and Dani Lischinski},
+year={2023},
+eprint={2306.12760},
+archivePrefix={arXiv},
+primaryClass={cs.CV}}
