@@ -223,3 +223,4 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Blended-NeRF: Zero-Shot Object Generation and Blending in Existing Neural Radiance Fields](https://www.vision.huji.ac.il/blended-nerf/), Gordon et al., Arxiv 2023 | [bibtex](./citations/gordon2023blendednerf.txt)
 - [DreamTime: An Improved Optimization Strategy for Text-to-3D Content Creation](https://arxiv.org/abs/2306.12422), Huang et al., Arxiv 2023 | [bibtex](./citations/huang2023dreamtime.txt)
 - [DreamEditor: Text-Driven 3D Scene Editing with Neural Fields](https://arxiv.org/abs//2306.13455), Zhuang et al., Arxiv 2023
+- [Self-supervised novel 2D view synthesis of large-scale scenes with efficient multi-scale voxel carving](https://arxiv.org/abs/2306.14709), Budisteanu et al., Arxiv 2023 | [github](https://github.com/onorabil/MSVC)
