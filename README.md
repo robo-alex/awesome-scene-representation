@@ -222,3 +222,4 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [AvatarBooth: High-Quality and Customizable 3D Human Avatar Generation](https://zeng-yifei.github.io/avatarbooth_page/), Zeng et al., Arxiv 2023 | [github](https://github.com/zeng-yifei/AvatarBooth) | [bibtex](./citations/zeng2023avatarbooth.txt)
 - [Blended-NeRF: Zero-Shot Object Generation and Blending in Existing Neural Radiance Fields](https://www.vision.huji.ac.il/blended-nerf/), Gordon et al., Arxiv 2023 | [bibtex](./citations/gordon2023blendednerf.txt)
 - [DreamTime: An Improved Optimization Strategy for Text-to-3D Content Creation](https://arxiv.org/abs/2306.12422), Huang et al., Arxiv 2023 | [bibtex](./citations/huang2023dreamtime.txt)
+- [DreamEditor: Text-Driven 3D Scene Editing with Neural Fields](https://arxiv.org/abs//2306.13455), Zhuang et al., Arxiv 2023
