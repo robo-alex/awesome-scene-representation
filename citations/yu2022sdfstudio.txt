@@ -1,0 +1,7 @@
+@misc{Yu2022SDFStudio,
+    author    = {Yu, Zehao and Chen, Anpei and Antic, Bozidar and Peng, Songyou Peng and Bhattacharyya, Apratim 
+                 and Niemeyer, Michael and Tang, Siyu and Sattler, Torsten and Geiger, Andreas},
+    title     = {SDFStudio: A Unified Framework for Surface Reconstruction},
+    year      = {2022},
+    url       = {https://github.com/autonomousvision/sdfstudio},
+}
