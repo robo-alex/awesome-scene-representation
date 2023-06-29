@@ -9,7 +9,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Nerfbusters: Removing Ghostly Artifacts from Casually Captured NeRFs](https://ethanweber.me/nerfbusters/), Warburg et al., Arxiv 2023 | [github](https://github.com/ethanweber/nerfbusters) | [bibtex](./citations/nerfbusters.txt)
 - [MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes](https://merf42.github.io/), Reiser et al., SIGGRAPH 2023 | [github](https://github.com/google-research/google-research/tree/master/merf) | [bibtex](./citations/merf.txt)
 - [BakedSDF: Meshing Neural SDFs for Real-Time View Synthesis](https://bakedsdf.github.io/), Yariv et al., Arxiv 2023 | [bibtex](./citations/bakedsdf.txt)
-- [Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields](https://jonbarron.info/zipnerf/), Barron et al., Arxiv 2023 | [bibtex](./citations/zipnerf.txt)
+- [Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields](https://jonbarron.info/zipnerf/), Barron et al., Arxiv 2023 | [github](https://github.com/jake-austin/zipnerf-nerfstudio) | [bibtex](./citations/zipnerf.txt)
 - [NeRF in the Palm of Your Hand: Corrective Augmentation for Robotics via Novel-View Synthesis](https://bland.website/spartn/), Zhou et al., CVPR 2023 | [bibtex](./citations/spartn.txt)
 - [Live 3D Portrait: Real-Time Radiance Fields for Single-Image Portrait View Synthesis](https://research.nvidia.com/labs/nxp/lp3d/), Trevithick et al., SIGGRAPH 2023 | [bibtex](./citations/trevithick2023.txt)
 - [GeNVS: Generative Novel View Synthesis with 3D-Aware Diffusion Models](https://nvlabs.github.io/genvs/), Chan et al., Arxiv 2023 | [github](https://github.com/NVlabs/genvs) | [bibtex](./citations/genvs.txt)
