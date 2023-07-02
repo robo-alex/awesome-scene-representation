@@ -1,0 +1,6 @@
+@article{zhuang2023dreameditor,
+  title={DreamEditor: Text-Driven 3D Scene Editing with Neural Fields},
+  author={Zhuang, Jingyu and Wang, Chen and Liu, Lingjie and Lin, Liang and Li, Guanbin},
+  journal={arXiv preprint arXiv:2306.13455},
+  year={2023}
+}
