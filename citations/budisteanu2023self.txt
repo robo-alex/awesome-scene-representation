@@ -1,0 +1,6 @@
+@article{budisteanu2023self,
+  title={Self-supervised novel 2D view synthesis of large-scale scenes with efficient multi-scale voxel carving},
+  author={Budisteanu, Alexandra and Costea, Dragos and Marcu, Alina and Leordeanu, Marius},
+  journal={arXiv preprint arXiv:2306.14709},
+  year={2023}
+}

@@ -1,0 +1,6 @@
+@article{seo2023flipnerf,
+  title={FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis},
+  author={Seo, Seunghyeon and Chang, Yeonjin and Kwak, Nojun},
+  journal={arXiv preprint arXiv:2306.17723},
+  year={2023}
+}

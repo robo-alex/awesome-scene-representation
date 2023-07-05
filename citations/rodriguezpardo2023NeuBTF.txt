@@ -1,0 +1,11 @@
+@article{rodriguezpardo2023NeuBTF,
+    title = {NeuBTF: Neural fields for BTF encoding and transfer},
+    journal = {Computers & Graphics},
+    volume = {114},
+    pages = {239-246},
+    year = {2023},
+    issn = {0097-8493},
+    doi = {https://doi.org/10.1016/j.cag.2023.06.018},
+    url = {https://www.sciencedirect.com/science/article/pii/S0097849323001140},
+    author = {Carlos Rodriguez-Pardo and Konstantinos Kazatzis and Jorge Lopez-Moreno and Elena Garces}
+    }
