@@ -230,3 +230,5 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Self-supervised novel 2D view synthesis of large-scale scenes with efficient multi-scale voxel carving](https://arxiv.org/abs/2306.14709), Budisteanu et al., Arxiv 2023 | [github](https://github.com/onorabil/MSVC) | [bibtex](./citations/budisteanu2023self.txt)
 - [FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis](https://arxiv.org/abs/2306.17723), Seo et al., Arxiv 2023 | [bibtex](./citations/seo2023flipnerf.txt)
 - [NeuBTF: Neural Fields for BTF Encoding and Transfer](https://carlosrodriguezpardo.es/projects/NeuBTF/), Rodríguez-Pardo et al., Computer & Graphics 2023 | [bibtex](./citations/rodriguezpardo2023NeuBTF.txt)
+- [Hybrid Neural Diffeomorphic Flow for Shape Representation and Generation via Triplane](https://arxiv.org/abs/2307.01957), Han et al., Arxiv 2023
+- [Neural Fields for Interactive Visualization of Statistical Dependencies in 3D Simulation Ensembles](https://arxiv.org/abs/2307.02203), Farokhmanesh et al., Arxiv 2023
