@@ -45,7 +45,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Neural LiDAR Fields for Novel View Synthesis](https://research.nvidia.com/labs/toronto-ai/nfl/), Huang et al., Arxiv 2023 | [bibtex](./citations/huang2023nfl.txt)
 - [NeuralField-LDM: Scene Generation with Hierarchical Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/NFLDM/), Kim et al., CVPR 2023 | [bibtex](./citations/nfldm.txt)
 - [AligNeRF: High-Fidelity Neural Radiance Fields via Alignment-Aware Training](https://yifanjiang19.github.io/alignerf), Jiang et al., CVPR 2023 | [bibtex](./citations/alignerf.txt)
-- [RoDynRF: Robust Dynamic Radiance Fields](https://robust-dynrf.github.io/), Liu et al., CVPR 2023 | [bibtex](./citations/liu2023robust.txt)
+- [RoDynRF: Robust Dynamic Radiance Fields](https://robust-dynrf.github.io/), Liu et al., CVPR 2023 | [github](https://github.com/facebookresearch/robust-dynrf) | [bibtex](./citations/liu2023robust.txt)
 - [NeRO: Neural Geometry and BRDF Reconstruction of Reflective Objects from Multiview Images](https://liuyuan-pal.github.io/NeRO/), Liu et al., SIGGRAPH 2023 | [github](https://github.com/liuyuan-pal/NeRO) | [bibtex](./citations/liu2023nero.txt)
 - [LANe : Lighting-Aware Neural Fields for Compositional Scene Synthesis](https://lane-composition.github.io/), Krishnan et al., Arxiv 2023 | [bibtex](./citations/lane.txt)
 - [Neural Fields meet Explicit Geometric Representations for Inverse Rendering of Urban Scenes](https://nv-tlabs.github.io/fegr/), Wang et al., CVPR 2023 | [bibtex](./citations/fegr.txt)
@@ -230,5 +230,5 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Self-supervised novel 2D view synthesis of large-scale scenes with efficient multi-scale voxel carving](https://arxiv.org/abs/2306.14709), Budisteanu et al., Arxiv 2023 | [github](https://github.com/onorabil/MSVC) | [bibtex](./citations/budisteanu2023self.txt)
 - [FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis](https://arxiv.org/abs/2306.17723), Seo et al., Arxiv 2023 | [bibtex](./citations/seo2023flipnerf.txt)
 - [NeuBTF: Neural Fields for BTF Encoding and Transfer](https://carlosrodriguezpardo.es/projects/NeuBTF/), Rodríguez-Pardo et al., Computer & Graphics 2023 | [bibtex](./citations/rodriguezpardo2023NeuBTF.txt)
-- [Hybrid Neural Diffeomorphic Flow for Shape Representation and Generation via Triplane](https://arxiv.org/abs/2307.01957), Han et al., Arxiv 2023
-- [Neural Fields for Interactive Visualization of Statistical Dependencies in 3D Simulation Ensembles](https://arxiv.org/abs/2307.02203), Farokhmanesh et al., Arxiv 2023
+- [Hybrid Neural Diffeomorphic Flow for Shape Representation and Generation via Triplane](https://arxiv.org/abs/2307.01957), Han et al., Arxiv 2023 | [bibtex](./citations/han2023hybrid.txt)
+- [Neural Fields for Interactive Visualization of Statistical Dependencies in 3D Simulation Ensembles](https://arxiv.org/abs/2307.02203), Farokhmanesh et al., Arxiv 2023 | [bibtex](./citations/farokhmanesh2023neural.txt)

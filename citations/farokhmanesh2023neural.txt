@@ -1,0 +1,6 @@
+@article{farokhmanesh2023neural,
+  title={Neural Fields for Interactive Visualization of Statistical Dependencies in 3D Simulation Ensembles},
+  author={Farokhmanesh, Fatemeh and H{\"o}hlein, Kevin and Neuhauser, Christoph and Westermann, R{\"u}diger},
+  journal={arXiv preprint arXiv:2307.02203},
+  year={2023}
+}

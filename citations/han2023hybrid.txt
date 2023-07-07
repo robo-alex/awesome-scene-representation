@@ -1,0 +1,6 @@
+@article{han2023hybrid,
+  title={Hybrid Neural Diffeomorphic Flow for Shape Representation and Generation via Triplane},
+  author={Han, Kun and Sun, Shanlin and Xie, Xiaohui},
+  journal={arXiv preprint arXiv:2307.01957},
+  year={2023}
+}
