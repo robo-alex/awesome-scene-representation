@@ -232,3 +232,4 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [NeuBTF: Neural Fields for BTF Encoding and Transfer](https://carlosrodriguezpardo.es/projects/NeuBTF/), Rodríguez-Pardo et al., Computer & Graphics 2023 | [bibtex](./citations/rodriguezpardo2023NeuBTF.txt)
 - [Hybrid Neural Diffeomorphic Flow for Shape Representation and Generation via Triplane](https://arxiv.org/abs/2307.01957), Han et al., Arxiv 2023 | [bibtex](./citations/han2023hybrid.txt)
 - [Neural Fields for Interactive Visualization of Statistical Dependencies in 3D Simulation Ensembles](https://arxiv.org/abs/2307.02203), Farokhmanesh et al., Arxiv 2023 | [bibtex](./citations/farokhmanesh2023neural.txt)
+- [NeRFahedron: A Primitive for Animatable Neural Rendering with Interactive Speed](https://zackarysin.github.io/NeRFahedron/), Sin et al., SIGGRAPH i3D 2023 | [bibtex](./citations/sin2023nerfahedron.txt)
