@@ -233,3 +233,5 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Hybrid Neural Diffeomorphic Flow for Shape Representation and Generation via Triplane](https://arxiv.org/abs/2307.01957), Han et al., Arxiv 2023 | [bibtex](./citations/han2023hybrid.txt)
 - [Neural Fields for Interactive Visualization of Statistical Dependencies in 3D Simulation Ensembles](https://arxiv.org/abs/2307.02203), Farokhmanesh et al., Arxiv 2023 | [bibtex](./citations/farokhmanesh2023neural.txt)
 - [NeRFahedron: A Primitive for Animatable Neural Rendering with Interactive Speed](https://zackarysin.github.io/NeRFahedron/), Sin et al., SIGGRAPH i3D 2023 | [bibtex](./citations/sin2023nerfahedron.txt)
+- [NOFA: NeRF-based One-shot Facial Avatar Reconstruction](https://arxiv.org/abs/2307.03441), Yu et al., Arxiv 2023
+- [RGB-D Mapping and Tracking in a Plenoxel Radiance Field](https://arxiv.org/abs/2307.03404), Teigen et al., Arxiv 2023
