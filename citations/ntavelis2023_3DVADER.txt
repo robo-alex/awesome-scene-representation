@@ -1,0 +1,6 @@
+@article{ntavelis2023_3DVADER,
+    author  = {Ntavelis, Evangelos and Siarohin, Aliaksandr and Olszewski, Kyle and Wang, Chaoyang and  Van Gool, Luc and Tulyakov, Sergey},
+    title   = {AutoDecoding Latent 3D Diffusion Models}
+    journal = {arXiv preprint arXiv:2307.xxxxx},
+    year    = {2023},
+}
