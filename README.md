@@ -210,6 +210,8 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Compact Real-time Radiance Fields with Neural Codebook](https://arxiv.org/abs/2305.18163), Li et al., Arxiv 2023 | [bibtex](./citations/li2023compact.txt)
 - [Towards a Robust Framework for NeRF Evaluation](https://arxiv.org/abs/2305.18079), Azzarelli et al., Arxiv 2023 | [bibtex](./citations/azzarelli2023towards.txt)
 - [ConsistentNeRF: Enhancing Neural Radiance Fields with 3D Consistency for Sparse View Synthesis](https://skhu101.github.io/ConsistentNeRF/), Hu et al., Arxiv 2023 | [github](https://github.com/skhu101/ConsistentNeRF) | [bibtex](./citations/hu2023consistentnerf.txt)
+- [Viewset Diffusion: (0-)Image-Conditioned 3D Generative Models from 2D Data](https://szymanowiczs.github.io/viewset-diffusion), Szymanowicz, et al., ICCV 2023 | [github](https://github.com/szymanowiczs/viewset-diffusion)
+- [Multi-Object Navigation with dynamically learned neural implicit representations](https://arxiv.org/abs/2210.05129), Marza et al., ICCV 2023 | [bibtex](./citations/marza2022multi.txt)
 - [OR-NeRF: Object Removing from 3D Scenes Guided by Multiview Segmentation with Neural Radiance Fields](https://ornerf.github.io/), Yin et al., Arxiv 2023 | [github](https://github.com/cuteyyt/or-nerf) | [bibtex](./citations/yin2023ornerf.txt)
 - [VGOS: Voxel Grid Optimization for View Synthesis from Sparse Inputs](https://arxiv.org/abs/2304.13386), Sun et al., ICJAI 2023 | [bibtex](./citations/sun2023vgos.txt)
 - [DP-NeRF: Deblurred Neural Radiance Field with Physical Scene Priors](https://dogyoonlee.github.io/dpnerf/), Lee et al., CVPR 2023 | [github](https://github.com/dogyoonlee/DP-NeRF) | [bibtex](./citations/dpnerf.txt)

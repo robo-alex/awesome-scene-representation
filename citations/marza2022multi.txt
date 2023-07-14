@@ -1,0 +1,6 @@
+@article{marza2022multi,
+  title={Multi-Object Navigation with dynamically learned neural implicit representations},
+  author={Marza, Pierre and Matignon, Laetitia and Simonin, Olivier and Wolf, Christian},
+  journal={arXiv preprint arXiv:2210.05129},
+  year={2022}
+}
