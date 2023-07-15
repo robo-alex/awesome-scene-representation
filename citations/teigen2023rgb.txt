@@ -1,0 +1,6 @@
+@article{teigen2023rgb,
+  title={RGB-D Mapping and Tracking in a Plenoxel Radiance Field},
+  author={Teigen, Andreas L and Park, Yeonsoo and Stahl, Annette and Mester, Rudolf},
+  journal={arXiv preprint arXiv:2307.03404},
+  year={2023}
+}

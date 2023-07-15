@@ -1,0 +1,6 @@
+@article{yu2023nofa,
+  title={NOFA: NeRF-based One-shot Facial Avatar Reconstruction},
+  author={Yu, Wangbo and Fan, Yanbo and Zhang, Yong and Wang, Xuan and Yin, Fei and Bai, Yunpeng and Cao, Yan-Pei and Shan, Ying and Wu, Yang and Sun, Zhongqian and others},
+  journal={arXiv preprint arXiv:2307.03441},
+  year={2023}
+}

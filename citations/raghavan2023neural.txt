@@ -1,0 +1,6 @@
+@article{raghavan2023neural,
+  title={Neural Free-Viewpoint Relighting for Glossy Indirect Illumination},
+  author={Raghavan, Nithin and Xiao, Yan and Lin, Kai-En and Sun, Tiancheng and Bi, Sai and Xu, Zexiang and Li, Tzu-Mao and Ramamoorthi, Ravi},
+  journal={arXiv preprint arXiv:2307.06335},
+  year={2023}
+}

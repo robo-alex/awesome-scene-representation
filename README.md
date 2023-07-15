@@ -31,7 +31,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Neuralangelo: High-Fidelity Neural Surface Reconstruction](https://research.nvidia.com/labs/dir/neuralangelo/), Li et al., CVPR 2023 | [bibtex](./citations/li2023neuralangelo.txt)
 - [F2-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories](https://totoro97.github.io/projects/f2-nerf/), Wang et al., CVPR 2023 | [github](https://github.com/totoro97/f2-nerf) | [bibtex](./citations/f2nerf.txt)
 - [NeuManifold: Neural Watertight Manifold Reconstruction with Efficient and High-Quality Rendering Support](https://sarahweiii.github.io/neumanifold/), Wei et al., Arxiv 2023 | [bibtex](./citations/wei2023neumanifold.txt)
-- [Neural Free-Viewpoint Relighting for Glossy Indirect Illumination](https://arxiv.org/abs/2307.06335), Raghavan et al., Arxiv 2023
+- [Neural Free-Viewpoint Relighting for Glossy Indirect Illumination](https://arxiv.org/abs/2307.06335), Raghavan et al., Arxiv 2023 | [bibtex](./citations/raghavan2023neural.txt)
 - [SCADE: NeRFs from Space Carving with Ambiguity-Aware Depth Estimates](https://scade-spacecarving-nerfs.github.io/), Uy et al., CVPR 2023 | [bibtex](./citations/scade.txt)
 - [Progressively Optimized Local Radiance Fields for Robust View Synthesis](https://localrf.github.io/), Meuleman et al., CVPR 2023 | [github](https://github.com/facebookresearch/localrf) | [bibtex](./citations/localrf.txt)
 - [Seeing the World through Your Eyes](https://world-from-eyes.github.io/), Alzayer et al., Arxiv 2023 | [bibtex](./citations/alzayer2023seeing.txt)
@@ -238,5 +238,5 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Neural Fields for Interactive Visualization of Statistical Dependencies in 3D Simulation Ensembles](https://arxiv.org/abs/2307.02203), Farokhmanesh et al., Arxiv 2023 | [bibtex](./citations/farokhmanesh2023neural.txt)
 - [NeRFahedron: A Primitive for Animatable Neural Rendering with Interactive Speed](https://zackarysin.github.io/NeRFahedron/), Sin et al., SIGGRAPH i3D 2023 | [bibtex](./citations/sin2023nerfahedron.txt)
 - [AutoDecoding Latent 3D Diffusion Models](https://snap-research.github.io/3DVADER/), Ntavelis et al., Arxiv 2023 | [github](https://github.com/snap-research/3DVADER) | [bibtex](./citations/ntavelis2023_3DVADER.txt)
-- [NOFA: NeRF-based One-shot Facial Avatar Reconstruction](https://arxiv.org/abs/2307.03441), Yu et al., Arxiv 2023
-- [RGB-D Mapping and Tracking in a Plenoxel Radiance Field](https://arxiv.org/abs/2307.03404), Teigen et al., Arxiv 2023
+- [NOFA: NeRF-based One-shot Facial Avatar Reconstruction](https://arxiv.org/abs/2307.03441), Yu et al., Arxiv 2023 | [bibtex](./citations/yu2023nofa.txt)
+- [RGB-D Mapping and Tracking in a Plenoxel Radiance Field](https://arxiv.org/abs/2307.03404), Teigen et al., Arxiv 2023 | [bibtex](./citations/teigen2023rgb.txt)
