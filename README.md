@@ -130,7 +130,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [PAC-NeRF: Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification](https://sites.google.com/view/PAC-NeRF), Li et al., ICLR 2023 | [github](https://github.com/xuan-li/PAC-NeRF) | [bibtex](./citations/pacnerf.txt)
 - [NeRF-LiDAR: Generating Realistic LiDAR Point Clouds with Neural Radiance Fields](https://arxiv.org/abs/2304.14811), Zhang et al., Arxiv 2023 | [bibtex](./citations/zhang2023nerf.txt)
 - [BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects](https://bundlesdf.github.io/), Wen et al., CVPR 2023 | [bibtex](./citations/wen2023bundlesdf.txt)
-- [ABLE-NeRF: Attention-Based Rendering with Learnable Embeddings for Neural Radiance Field](https://arxiv.org/abs/2303.13817), Tang et al., CVPR 2023 | [bibtex](./citations/tang2023able.txt)
+- [ABLE-NeRF: Attention-Based Rendering with Learnable Embeddings for Neural Radiance Field](https://arxiv.org/abs/2303.13817), Tang et al., CVPR 2023 | [github](https://github.com/TangZJ/able-nerf) | [bibtex](./citations/tang2023able.txt)
 - [FeatureNeRF: Learning Generalizable NeRFs by Distilling Foundation Models](https://jianglongye.com/featurenerf/), Ye et al., Arxiv 2023 | [bibtex](./citations/featurenerf.txt)
 - [Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction](https://lakonik.github.io/ssdnerf/), Chen et al., Arxiv 2023 | [github](https://github.com/Lakonik/SSDNeRF) | [bibtex](./citations/ssdnerf.txt)
 - [Learning to Render Novel Views from Wide-Baseline Stereo Pairs](https://yilundu.github.io/wide_baseline/), Du et al., CVPR 2023 | [github](https://yilundu.github.io/wide_baseline/) | [bibtex](./citations/widerender.txt)
