@@ -240,3 +240,4 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [AutoDecoding Latent 3D Diffusion Models](https://snap-research.github.io/3DVADER/), Ntavelis et al., Arxiv 2023 | [github](https://github.com/snap-research/3DVADER) | [bibtex](./citations/ntavelis2023_3DVADER.txt)
 - [NOFA: NeRF-based One-shot Facial Avatar Reconstruction](https://arxiv.org/abs/2307.03441), Yu et al., Arxiv 2023 | [bibtex](./citations/yu2023nofa.txt)
 - [RGB-D Mapping and Tracking in a Plenoxel Radiance Field](https://arxiv.org/abs/2307.03404), Teigen et al., Arxiv 2023 | [bibtex](./citations/teigen2023rgb.txt)
+- [HyperDiffusion: Generating Implicit Neural Fields with Weight-Space Diffusion](https://ziyaerkoc.com/hyperdiffusion/), Erkoç et al., ICCV 2023 | [bibtex](./citations/2023hyperdiffusion.txt)

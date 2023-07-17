@@ -1,0 +1,8 @@
+@misc{erkoç2023hyperdiffusion,
+  title={HyperDiffusion: Generating Implicit Neural Fields with Weight-Space Diffusion}, 
+  author={Ziya Erkoç and Fangchang Ma and Qi Shan and Matthias Nießner and Angela Dai},
+  year={2023},
+  eprint={2303.17015},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV}
+}
