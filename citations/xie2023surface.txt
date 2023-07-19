@@ -1,0 +1,6 @@
+@article{xie2023surface,
+  title={Surface Geometry Processing: An Efficient Normal-based Detail Representation},
+  author={Xie, Wuyuan and Wang, Miaohui and Lin, Di and Shi, Boxin and Jiang, Jianmin},
+  journal={arXiv preprint arXiv:2307.07945},
+  year={2023}
+}

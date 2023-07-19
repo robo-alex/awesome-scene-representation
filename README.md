@@ -241,4 +241,4 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [NOFA: NeRF-based One-shot Facial Avatar Reconstruction](https://arxiv.org/abs/2307.03441), Yu et al., Arxiv 2023 | [bibtex](./citations/yu2023nofa.txt)
 - [RGB-D Mapping and Tracking in a Plenoxel Radiance Field](https://arxiv.org/abs/2307.03404), Teigen et al., Arxiv 2023 | [bibtex](./citations/teigen2023rgb.txt)
 - [HyperDiffusion: Generating Implicit Neural Fields with Weight-Space Diffusion](https://ziyaerkoc.com/hyperdiffusion/), Erkoç et al., ICCV 2023 | [bibtex](./citations/2023hyperdiffusion.txt)
-- [Surface Geometry Processing: An Efficient Normal-based Detail Representation](https://arxiv.org/abs/2307.07945), Xie et al., Arxiv 2023
+- [Surface Geometry Processing: An Efficient Normal-based Detail Representation](https://arxiv.org/abs/2307.07945), Xie et al., Arxiv 2023 | [bibtex](./citations/xie2023surface.txt)
