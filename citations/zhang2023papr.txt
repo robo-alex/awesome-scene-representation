@@ -1,0 +1,6 @@
+@article{zhang2023papr,
+  author    = {Zhang*, Yanshu and Peng*, Shichong and Moazeni, Alireza and Li, Ke},
+  title     = {PAPR: Proximity Attention Point Rendering},
+  journal   = {arXiv Preprint},
+  year      = {2023},
+}

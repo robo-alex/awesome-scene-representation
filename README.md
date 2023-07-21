@@ -243,3 +243,5 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [HyperDiffusion: Generating Implicit Neural Fields with Weight-Space Diffusion](https://ziyaerkoc.com/hyperdiffusion/), Erkoç et al., ICCV 2023 | [bibtex](./citations/2023hyperdiffusion.txt)
 - [Surface Geometry Processing: An Efficient Normal-based Detail Representation](https://arxiv.org/abs/2307.07945), Xie et al., Arxiv 2023 | [bibtex](./citations/xie2023surface.txt)
 - [Transient Neural Radiance Fields for Lidar View Synthesis and 3D Reconstruction](https://anaghmalik.com/TransientNeRF/), Malik et al., Arxiv 2023
+- [Magic NeRF Lens: Interactive Fusion of Neural Radiance Fields for Virtual Facility Inspection](https://arxiv.org/abs/2307.09860), Li et al., Arxiv 2023
+- [PAPR: Proximity Attention Point Rendering](https://zvict.github.io/papr/), Zhang et al., Arxiv 2023 | [bibtex](./citations/zhang2023papr.txt)
