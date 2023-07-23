@@ -1,0 +1,6 @@
+@article{fu2022mononerf,
+title={MonoNeRF: Learning Generalizable NeRFs from Monocular Videos without Camera Poses},
+author={Fu, Yang and Misra, Ishan and Wang, Xiaolong},
+journal={arXiv preprint arXiv:2210.07181},
+year={2022}
+}
