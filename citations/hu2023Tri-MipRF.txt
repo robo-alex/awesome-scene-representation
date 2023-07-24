@@ -1,0 +1,6 @@
+@inproceedings{hu2023Tri-MipRF,
+        author      = {Hu, Wenbo and Wang, Yuling and Ma, Lin and Yang, Bangbang and Gao, Lin and Liu, Xiao and Ma, Yuewen},
+        title       = {Tri-MipRF: Tri-Mip Representation for Efficient Anti-Aliasing Neural Radiance Fields},
+        booktitle   = {ICCV},
+        year        = {2023}
+}

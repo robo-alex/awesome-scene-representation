@@ -246,3 +246,6 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Transient Neural Radiance Fields for Lidar View Synthesis and 3D Reconstruction](https://anaghmalik.com/TransientNeRF/), Malik et al., Arxiv 2023
 - [Magic NeRF Lens: Interactive Fusion of Neural Radiance Fields for Virtual Facility Inspection](https://arxiv.org/abs/2307.09860), Li et al., Arxiv 2023
 - [PAPR: Proximity Attention Point Rendering](https://zvict.github.io/papr/), Zhang et al., Arxiv 2023 | [bibtex](./citations/zhang2023papr.txt)
+- [Tri-MipRF: Tri-Mip Representation for Efficient Anti-Aliasing Neural Radiance Fields](https://wbhu.github.io/projects/Tri-MipRF/), Hu et al., ICCV 2023 | [github](https://github.com/wbhu/Tri-MipRF) | [bibtex](./citations/hu2023Tri-MipRF.txt)
+- [CopyRNeRF: Protecting the CopyRight of Neural Radiance Fields](https://arxiv.org/abs/2307.11526), Luo et al., ICCV 2023
+- [FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields](https://arxiv.org/abs/2307.11418), Hwang et al., ICCV 2023
