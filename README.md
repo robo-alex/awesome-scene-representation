@@ -249,3 +249,4 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Tri-MipRF: Tri-Mip Representation for Efficient Anti-Aliasing Neural Radiance Fields](https://wbhu.github.io/projects/Tri-MipRF/), Hu et al., ICCV 2023 | [github](https://github.com/wbhu/Tri-MipRF) | [bibtex](./citations/hu2023Tri-MipRF.txt)
 - [CopyRNeRF: Protecting the CopyRight of Neural Radiance Fields](https://arxiv.org/abs/2307.11526), Luo et al., ICCV 2023
 - [FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields](https://arxiv.org/abs/2307.11418), Hwang et al., ICCV 2023
+- [Dyn-E: Local Appearance Editing of Dynamic Neural Radiance Fields](https://dyn-e.github.io/), Zhang et al., Arxiv 2023
