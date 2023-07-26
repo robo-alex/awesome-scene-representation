@@ -31,6 +31,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Neuralangelo: High-Fidelity Neural Surface Reconstruction](https://research.nvidia.com/labs/dir/neuralangelo/), Li et al., CVPR 2023 | [bibtex](./citations/li2023neuralangelo.txt)
 - [F2-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories](https://totoro97.github.io/projects/f2-nerf/), Wang et al., CVPR 2023 | [github](https://github.com/totoro97/f2-nerf) | [bibtex](./citations/f2nerf.txt)
 - [NeuManifold: Neural Watertight Manifold Reconstruction with Efficient and High-Quality Rendering Support](https://sarahweiii.github.io/neumanifold/), Wei et al., Arxiv 2023 | [bibtex](./citations/wei2023neumanifold.txt)
+- [Strivec: Sparse Tri-Vector Radiance Fields](https://arxiv.org/abs/2307.13226), Gao et al., Arxiv 2023
 - [MonoNeRF: Learning Generalizable NeRFs from Monocular Videos without Camera Poses](https://oasisyang.github.io/mononerf/), Fu et al., ICML 2023 | [bibtex](./citations/fu2022mononerf.txt)
 - [Neural Free-Viewpoint Relighting for Glossy Indirect Illumination](https://arxiv.org/abs/2307.06335), Raghavan et al., Arxiv 2023 | [bibtex](./citations/raghavan2023neural.txt)
 - [SCADE: NeRFs from Space Carving with Ambiguity-Aware Depth Estimates](https://scade-spacecarving-nerfs.github.io/), Uy et al., CVPR 2023 | [bibtex](./citations/scade.txt)
