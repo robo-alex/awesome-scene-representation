@@ -1,0 +1,6 @@
+@article{wu2023mars,
+  author    = {Wu, Zirui and Liu, Tianyu and Luo, Liyi and Zhong, Zhide and Chen, Jianteng and Xiao, Hongmin and Hou, Chao and Lou, Haozhe and Chen, Yuantao and Yang, Runyi and Huang, Yuxin and Ye, Xiaoyu and Yan, Zike and Shi, Yongliang and Liao, Yiyi and Zhao, Hao},
+  title     = {MARS: An Instance-aware, Modular and Realistic Simulator for Autonomous Driving},
+  journal   = {CICAI},
+  year      = {2023},
+}

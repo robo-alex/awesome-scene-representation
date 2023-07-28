@@ -1,0 +1,6 @@
+@article{luo2023copyrnerf,
+  title={CopyRNeRF: Protecting the CopyRight of Neural Radiance Fields},
+  author={Luo, Ziyuan and Guo, Qing and Cheung, Ka Chun and See, Simon and Wan, Renjie},
+  journal={arXiv preprint arXiv:2307.11526},
+  year={2023}
+}

@@ -1,0 +1,6 @@
+@article{zhang2023dyn,
+  title={Dyn-E: Local Appearance Editing of Dynamic Neural Radiance Fields},
+  author={Zhang, Shangzhan and Peng, Sida and ShenTu, Yinji and Shuai, Qing and Chen, Tianrun and Yu, Kaicheng and Bao, Hujun and Zhou, Xiaowei},
+  journal={arXiv preprint arXiv:2307.12909},
+  year={2023}
+}

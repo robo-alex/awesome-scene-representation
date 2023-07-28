@@ -248,6 +248,8 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Magic NeRF Lens: Interactive Fusion of Neural Radiance Fields for Virtual Facility Inspection](https://arxiv.org/abs/2307.09860), Li et al., Arxiv 2023
 - [PAPR: Proximity Attention Point Rendering](https://zvict.github.io/papr/), Zhang et al., Arxiv 2023 | [bibtex](./citations/zhang2023papr.txt)
 - [Tri-MipRF: Tri-Mip Representation for Efficient Anti-Aliasing Neural Radiance Fields](https://wbhu.github.io/projects/Tri-MipRF/), Hu et al., ICCV 2023 | [github](https://github.com/wbhu/Tri-MipRF) | [bibtex](./citations/hu2023Tri-MipRF.txt)
-- [CopyRNeRF: Protecting the CopyRight of Neural Radiance Fields](https://arxiv.org/abs/2307.11526), Luo et al., ICCV 2023
-- [FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields](https://arxiv.org/abs/2307.11418), Hwang et al., ICCV 2023
-- [Dyn-E: Local Appearance Editing of Dynamic Neural Radiance Fields](https://dyn-e.github.io/), Zhang et al., Arxiv 2023
+- [CopyRNeRF: Protecting the CopyRight of Neural Radiance Fields](https://arxiv.org/abs/2307.11526), Luo et al., ICCV 2023 | [bibtex](./citations/luo2023copyrnerf.txt)
+- [FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields](https://arxiv.org/abs/2307.11418), Hwang et al., ICCV 2023 | [bibtex](./citations/hwang2023faceclipnerf.txt)
+- [Dyn-E: Local Appearance Editing of Dynamic Neural Radiance Fields](https://dyn-e.github.io/), Zhang et al., Arxiv 2023 | [bibtex](./citations/zhang2023dyn.txt)
+- [Points-to-3D: Bridging the Gap between Sparse Points and Shape-Controllable Text-to-3D Generation](https://arxiv.org/abs/2307.13908), Yu et al., Arxiv 2023
+- [MARS: An Instance-aware, Modular and Realistic Simulator for Autonomous Driving](https://open-air-sun.github.io/mars/), Wu et al., CICAI 2023 | [github](https://github.com/OPEN-AIR-SUN/mars) | [bibtex](./citations/wu2023mars.txt)

@@ -1,0 +1,6 @@
+@article{hwang2023faceclipnerf,
+  title={FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields},
+  author={Hwang, Sungwon and Hyung, Junha and Kim, Daejin and Kim, Min-Jung and Choo, Jaegul},
+  journal={arXiv preprint arXiv:2307.11418},
+  year={2023}
+}
