@@ -253,3 +253,4 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Dyn-E: Local Appearance Editing of Dynamic Neural Radiance Fields](https://dyn-e.github.io/), Zhang et al., Arxiv 2023 | [bibtex](./citations/zhang2023dyn.txt)
 - [Points-to-3D: Bridging the Gap between Sparse Points and Shape-Controllable Text-to-3D Generation](https://arxiv.org/abs/2307.13908), Yu et al., Arxiv 2023
 - [MARS: An Instance-aware, Modular and Realistic Simulator for Autonomous Driving](https://open-air-sun.github.io/mars/), Wu et al., CICAI 2023 | [github](https://github.com/OPEN-AIR-SUN/mars) | [bibtex](./citations/wu2023mars.txt)
+- [Weakly Supervised Multi-Modal 3D Human Body Pose Estimation for Autonomous Driving](https://arxiv.org/abs/2307.14889), Bauer et al., Arxiv 2023
