@@ -1,0 +1,6 @@
+@article{malik2023transient,
+  title={Transient Neural Radiance Fields for Lidar View Synthesis and 3D Reconstruction},
+  author={Malik, Anagh and Mirdehghan, Parsa and Nousias, Sotiris and Kutulakos, Kiriakos N and Lindell, David B},
+  journal={arXiv preprint arXiv:2307.09555},
+  year={2023}
+}

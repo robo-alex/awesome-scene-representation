@@ -1,0 +1,6 @@
+@article{li2023magic,
+  title={Magic NeRF Lens: Interactive Fusion of Neural Radiance Fields for Virtual Facility Inspection},
+  author={Li, Ke and Schmidt, Susanne and Rolff, Tim and Bacher, Reinhard and Leemans, Wim and Steinicke, Frank},
+  journal={arXiv preprint arXiv:2307.09860},
+  year={2023}
+}

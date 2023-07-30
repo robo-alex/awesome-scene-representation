@@ -244,13 +244,13 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [RGB-D Mapping and Tracking in a Plenoxel Radiance Field](https://arxiv.org/abs/2307.03404), Teigen et al., Arxiv 2023 | [bibtex](./citations/teigen2023rgb.txt)
 - [HyperDiffusion: Generating Implicit Neural Fields with Weight-Space Diffusion](https://ziyaerkoc.com/hyperdiffusion/), Erkoç et al., ICCV 2023 | [bibtex](./citations/2023hyperdiffusion.txt)
 - [Surface Geometry Processing: An Efficient Normal-based Detail Representation](https://arxiv.org/abs/2307.07945), Xie et al., Arxiv 2023 | [bibtex](./citations/xie2023surface.txt)
-- [Transient Neural Radiance Fields for Lidar View Synthesis and 3D Reconstruction](https://anaghmalik.com/TransientNeRF/), Malik et al., Arxiv 2023
-- [Magic NeRF Lens: Interactive Fusion of Neural Radiance Fields for Virtual Facility Inspection](https://arxiv.org/abs/2307.09860), Li et al., Arxiv 2023
+- [Transient Neural Radiance Fields for Lidar View Synthesis and 3D Reconstruction](https://anaghmalik.com/TransientNeRF/), Malik et al., Arxiv 2023 | [bibtex](./citations/malik2023transient.txt)
+- [Magic NeRF Lens: Interactive Fusion of Neural Radiance Fields for Virtual Facility Inspection](https://arxiv.org/abs/2307.09860), Li et al., Arxiv 2023 | [bibtex](./citations/li2023magic.txt)
 - [PAPR: Proximity Attention Point Rendering](https://zvict.github.io/papr/), Zhang et al., Arxiv 2023 | [bibtex](./citations/zhang2023papr.txt)
 - [Tri-MipRF: Tri-Mip Representation for Efficient Anti-Aliasing Neural Radiance Fields](https://wbhu.github.io/projects/Tri-MipRF/), Hu et al., ICCV 2023 | [github](https://github.com/wbhu/Tri-MipRF) | [bibtex](./citations/hu2023Tri-MipRF.txt)
 - [CopyRNeRF: Protecting the CopyRight of Neural Radiance Fields](https://arxiv.org/abs/2307.11526), Luo et al., ICCV 2023 | [bibtex](./citations/luo2023copyrnerf.txt)
 - [FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields](https://arxiv.org/abs/2307.11418), Hwang et al., ICCV 2023 | [bibtex](./citations/hwang2023faceclipnerf.txt)
 - [Dyn-E: Local Appearance Editing of Dynamic Neural Radiance Fields](https://dyn-e.github.io/), Zhang et al., Arxiv 2023 | [bibtex](./citations/zhang2023dyn.txt)
-- [Points-to-3D: Bridging the Gap between Sparse Points and Shape-Controllable Text-to-3D Generation](https://arxiv.org/abs/2307.13908), Yu et al., Arxiv 2023
+- [Points-to-3D: Bridging the Gap between Sparse Points and Shape-Controllable Text-to-3D Generation](https://arxiv.org/abs/2307.13908), Yu et al., Arxiv 2023 | [bibtex](./citations/yu2023points.txt)
 - [MARS: An Instance-aware, Modular and Realistic Simulator for Autonomous Driving](https://open-air-sun.github.io/mars/), Wu et al., CICAI 2023 | [github](https://github.com/OPEN-AIR-SUN/mars) | [bibtex](./citations/wu2023mars.txt)
 - [Weakly Supervised Multi-Modal 3D Human Body Pose Estimation for Autonomous Driving](https://arxiv.org/abs/2307.14889), Bauer et al., Arxiv 2023
