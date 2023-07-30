@@ -1,0 +1,6 @@
+@article{yu2023points,
+  title={Points-to-3D: Bridging the Gap between Sparse Points and Shape-Controllable Text-to-3D Generation},
+  author={Yu, Chaohui and Zhou, Qiang and Li, Jingliang and Zhang, Zhe and Wang, Zhibin and Wang, Fan},
+  journal={arXiv preprint arXiv:2307.13908},
+  year={2023}
+}
