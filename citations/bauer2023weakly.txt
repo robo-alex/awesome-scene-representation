@@ -1,0 +1,8 @@
+@inproceedings{bauer2023weakly,
+  title={Weakly Supervised Multi-Modal 3D Human Body Pose Estimation for Autonomous Driving},
+  author={Bauer, Peter and Bouazizi, Arij and Kressel, Ulrich and Flohr, Fabian B},
+  booktitle={2023 IEEE Intelligent Vehicles Symposium (IV)},
+  pages={1--7},
+  year={2023},
+  organization={IEEE}
+}
