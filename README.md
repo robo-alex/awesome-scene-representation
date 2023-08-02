@@ -255,3 +255,4 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [MARS: An Instance-aware, Modular and Realistic Simulator for Autonomous Driving](https://open-air-sun.github.io/mars/), Wu et al., CICAI 2023 | [github](https://github.com/OPEN-AIR-SUN/mars) | [bibtex](./citations/wu2023mars.txt)
 - [Weakly Supervised Multi-Modal 3D Human Body Pose Estimation for Autonomous Driving](https://arxiv.org/abs/2307.14889), Bauer et al., Arxiv 2023 | [bibtex](./citations/bauer2023weakly.txt)
 - [Seal-3D: Interactive Pixel-Level Editing for Neural Radiance Field](https://windingwind.github.io/seal-3d/), Wang et al., ICCV 2023 | [github](https://github.com/windingwind/seal-3d/) | [bibtex](./citations/wang2023seal3d.txt)
+- [Dynamic PlenOctree for Adaptive Sampling Refinement in Explicit NeRF](https://vlislab22.github.io/DOT/), Bai et al., ICCV 2023 | [github](https://github.com/164140757/DOT) | [bibtex](./citations/Bai2023DOT.txt)
