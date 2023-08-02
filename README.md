@@ -124,7 +124,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling](https://hyperreel.github.io/), Attal et al., CVPR 2023 | [github](https://github.com/facebookresearch/hyperreel) | [bibtex](./citations/hyperreel.txt)
 - [Panoptic Lifting for 3D Scene Understanding with Neural Fields](https://nihalsid.github.io/panoptic-lifting/), Siddiqui et al., CVPR 2023 | [github](https://github.com/nihalsid/panoptic-lifting) | [bibtex](./citations/panopticlifting.txt)
 - [Instance Neural Radiance Field](https://arxiv.org/abs/2304.04395), Hu et al., Arxiv 2023 | [bibtex](./citations/hu2023instance.txt)
-- [Flow Supervision for Deformable NeRF](https://mightychaos.github.io/projects/fsdnerf/), Wang et al., Arxiv 2023 | [bibtex](./citations/wang2023flow.txt)
+- [Flow Supervision for Deformable NeRF](https://mightychaos.github.io/projects/fsdnerf/), Wang et al., Arxiv 2023 | [github](https://github.com/MightyChaos/fsdnerf) | [bibtex](./citations/wang2023flow.txt)
 - [DyLiN: Making Light Field Networks Dynamic](https://dylin2023.github.io/), Yu et al., CVPR 2023 | [github](https://github.com/Heng14/DyLiN) | [bibtex](./citations/dylin.txt)
 - [NeuralLift-360: Lifting An In-the-wild 2D Photo to A 3D Object with 360° Views](https://vita-group.github.io/NeuralLift-360/), Xu et al., Arxiv 2023 | [github](https://github.com/VITA-Group/NeuralLift-360) | [bibtex](./citations/neuralLift.txt)
 - [Ref-NeuS: Ambiguity-Reduced Neural Implicit Surface Learning for Multi-View Reconstruction with Reflection](https://g3956.github.io/), Ge et al., Arxiv 2023 | [github](https://github.com/g3956/Ref-NeuS) | [bibtex](./citations/refneus.txt)
@@ -256,3 +256,5 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Weakly Supervised Multi-Modal 3D Human Body Pose Estimation for Autonomous Driving](https://arxiv.org/abs/2307.14889), Bauer et al., Arxiv 2023 | [bibtex](./citations/bauer2023weakly.txt)
 - [Seal-3D: Interactive Pixel-Level Editing for Neural Radiance Field](https://windingwind.github.io/seal-3d/), Wang et al., ICCV 2023 | [github](https://github.com/windingwind/seal-3d/) | [bibtex](./citations/wang2023seal3d.txt)
 - [Dynamic PlenOctree for Adaptive Sampling Refinement in Explicit NeRF](https://vlislab22.github.io/DOT/), Bai et al., ICCV 2023 | [github](https://github.com/164140757/DOT) | [bibtex](./citations/Bai2023DOT.txt)
+- [Robust Single-view Cone-beam X-ray Pose Estimation with Neural Tuned Tomography (NeTT) and Masked Neural Radiance Fields (mNeRF)](https://arxiv.org/abs/2308.002140), Zhou et al., Arxiv 2023
+- [Onboard View Planning of a Flying Camera for High Fidelity 3D Reconstruction of a Moving Actor](https://arxiv.org/abs/2308.00134), Jiang et al., Arxiv 2023
