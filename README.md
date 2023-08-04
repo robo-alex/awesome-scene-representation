@@ -256,5 +256,6 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Weakly Supervised Multi-Modal 3D Human Body Pose Estimation for Autonomous Driving](https://arxiv.org/abs/2307.14889), Bauer et al., Arxiv 2023 | [bibtex](./citations/bauer2023weakly.txt)
 - [Seal-3D: Interactive Pixel-Level Editing for Neural Radiance Field](https://windingwind.github.io/seal-3d/), Wang et al., ICCV 2023 | [github](https://github.com/windingwind/seal-3d/) | [bibtex](./citations/wang2023seal3d.txt)
 - [Dynamic PlenOctree for Adaptive Sampling Refinement in Explicit NeRF](https://vlislab22.github.io/DOT/), Bai et al., ICCV 2023 | [github](https://github.com/164140757/DOT) | [bibtex](./citations/Bai2023DOT.txt)
-- [Robust Single-view Cone-beam X-ray Pose Estimation with Neural Tuned Tomography (NeTT) and Masked Neural Radiance Fields (mNeRF)](https://arxiv.org/abs/2308.002140), Zhou et al., Arxiv 2023
+- [Robust Single-view Cone-beam X-ray Pose Estimation with Neural Tuned Tomography (NeTT) and Masked Neural Radiance Fields (mNeRF)](https://arxiv.org/abs/2308.00214), Zhou et al., Arxiv 2023
 - [Onboard View Planning of a Flying Camera for High Fidelity 3D Reconstruction of a Moving Actor](https://arxiv.org/abs/2308.00134), Jiang et al., Arxiv 2023
+- [HD-Fusion: Detailed Text-to-3D Generation Leveraging Multiple Noise Estimation](https://arxiv.org/abs/2307.16183), Wu et al., Arxiv 2023 | [bibtex](./citations/wu2023hd.txt)

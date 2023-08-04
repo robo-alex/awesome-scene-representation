@@ -1,0 +1,6 @@
+@article{wu2023hd,
+  title={HD-Fusion: Detailed Text-to-3D Generation Leveraging Multiple Noise Estimation},
+  author={Wu, Jinbo and Gao, Xiaobo and Liu, Xing and Shen, Zhengyang and Zhao, Chen and Feng, Haocheng and Liu, Jingtuo and Ding, Errui},
+  journal={arXiv preprint arXiv:2307.16183},
+  year={2023}
+}
