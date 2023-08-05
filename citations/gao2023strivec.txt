@@ -1,0 +1,6 @@
+@article{gao2023strivec,
+  title={Strivec: Sparse Tri-Vector Radiance Fields},
+  author={Gao, Quankai and Xu, Qiangeng and Su, Hao and Neumann, Ulrich and Xu, Zexiang},
+  journal={arXiv preprint arXiv:2307.13226},
+  year={2023}
+}
