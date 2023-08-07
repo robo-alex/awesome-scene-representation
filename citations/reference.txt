@@ -1,6 +1,6 @@
-@article{mirzaei2023reference,
-  title={Reference-guided Controllable Inpainting of Neural Radiance Fields},
-  author={Mirzaei, Ashkan and Aumentado-Armstrong, Tristan and Brubaker, Marcus A and Kelly, Jonathan and Levinshtein, Alex and Derpanis, Konstantinos G and Gilitschenski, Igor},
-  journal={arXiv preprint arXiv:2304.09677},
-  year={2023}
+@inproceedings{mirzaei2023reference,
+      title={Reference-guided Controllable Inpainting of Neural Radiance Fields}, 
+      author={Ashkan Mirzaei and Tristan Aumentado-Armstrong and Marcus A. Brubaker and Jonathan Kelly and Alex Levinshtein and Konstantinos G. Derpanis and Igor Gilitschenski},
+      year={2023},
+      booktitle={ICCV},
 }

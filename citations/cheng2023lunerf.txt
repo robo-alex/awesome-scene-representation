@@ -1,6 +1,6 @@
-@article{cheng2023lunerf,
+@InProceedings{cheng2023lunerf,
   title={LU-NeRF: Scene and Pose Estimation by Synchronizing Local Unposed NeRFs},
   author={Cheng, Zezhou and Esteves, Carlos and Jampani, Varun and Kar, Abhishek and Maji, Subhransu and Makadia, Ameesh},
-  journal={arXiv preprint},
+  booktitle = {Proceedings of the IEEE International Conference on Computer Vision (ICCV)},
   year={2023}
 }

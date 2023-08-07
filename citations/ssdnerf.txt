@@ -1,8 +1,6 @@
-@misc{ssdnerf,
+@inproceedings{ssdnerf,
     title={Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction}, 
     author={Hansheng Chen and Jiatao Gu and Anpei Chen and Wei Tian and Zhuowen Tu and Lingjie Liu and Hao Su},
     year={2023},
-    archivePrefix={arXiv},
-    eprint={2304.06714},
-    primaryClass={cs.CV}
+    booktitle={ICCV}
 }

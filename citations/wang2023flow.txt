@@ -1,6 +1,8 @@
-@article{wang2023flow,
-  title={Flow supervision for Deformable NeRF},
-  author={Wang, Chaoyang and MacDonald, Lachlan Ewen and Jeni, Laszlo A and Lucey, Simon},
-  journal={arXiv preprint arXiv:2303.16333},
-  year={2023}
+@InProceedings{Wang_2023_CVPR,
+      author    = {Wang, Chaoyang and MacDonald, Lachlan Ewen and Jeni, L\'aszl\'o A. and Lucey, Simon},
+      title     = {Flow Supervision for Deformable NeRF},
+      booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+      month     = {June},
+      year      = {2023},
+      pages     = {21128-21137}
 }

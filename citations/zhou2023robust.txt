@@ -1,0 +1,6 @@
+@article{zhou2023robust,
+  title={Robust Single-view Cone-beam X-ray Pose Estimation with Neural Tuned Tomography (NeTT) and Masked Neural Radiance Fields (mNeRF)},
+  author={Zhou, Chaochao and Faruqui, Syed Hasib Akhter and Patel, Abhinav and Abdalla, Ramez N and Hurley, Michael C and Shaibani, Ali and Potts, Matthew B and Jahromi, Babak S and Cho, Leon and Ansari, Sameer A and others},
+  journal={arXiv preprint arXiv:2308.00214},
+  year={2023}
+}

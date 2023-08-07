@@ -1,0 +1,6 @@
+@article{jiang2023onboard,
+  title={Onboard View Planning of a Flying Camera for High Fidelity 3D Reconstruction of a Moving Actor},
+  author={Jiang, Qingyuan and Isler, Volkan},
+  journal={arXiv preprint arXiv:2308.00134},
+  year={2023}
+}
