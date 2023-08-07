@@ -1,0 +1,6 @@
+@article{deitke2023objaverse,
+  title={Objaverse-XL: A Universe of 10M+ 3D Objects},
+  author={Deitke, Matt and Liu, Ruoshi and Wallingford, Matthew and Ngo, Huong and Michel, Oscar and Kusupati, Aditya and Fan, Alan and Laforte, Christian and Voleti, Vikram and Gadre, Samir Yitzhak and others},
+  journal={arXiv preprint arXiv:2307.05663},
+  year={2023}
+}
