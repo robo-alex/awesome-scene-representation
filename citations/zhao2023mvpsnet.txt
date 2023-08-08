@@ -1,0 +1,6 @@
+@article{zhao2023mvpsnet,
+  title={MVPSNet: Fast Generalizable Multi-view Photometric Stereo},
+  author={Zhao, Dongxu and Lichy, Daniel and Perrin, Pierre-Nicolas and Frahm, Jan-Michael and Sengupta, Soumyadip},
+  journal={arXiv preprint arXiv:2305.11167},
+  year={2023},
+}

@@ -1,0 +1,6 @@
+@article{feng2023motionmag,
+    author    = {Feng, Brandon Y. and AlZayer, Hadi and Rubinstein, Michael and Freeman, William T. and Huang, Jia-Bin},
+    title     = {3D Motion Magnification: Visualizing Subtle Motions with Time-Varying Neural Fields},
+    journal   = {ICCV},
+    year      = {2023},
+  }

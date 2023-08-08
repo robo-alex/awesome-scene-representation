@@ -4,6 +4,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 
 - [Nerfstudio: A Modular Framework for Neural Radiance Field Development](https://docs.nerf.studio/en/latest/), Tancik et al., SIGGRAPH 2023 | [github](https://github.com/nerfstudio-project/nerfstudio/) | [bibtex](./citations/nerfstudio.txt)
 - [NerfAcc: A General NeRF Acceleration Toolbox](https://www.nerfacc.com/en/latest/), Li et al., Arxiv 2023 | [github](https://github.com/KAIR-BAIR/nerfacc) | [bibtex](./citations/li2023nerfacc.txt)
+- [NeRFs: The Search for the Best 3D Representation](https://arxiv.org/abs/2308.02751), Ramamoorthi et al., Arxiv 2023
 - [Objaverse-XL: A Universe of 10M+ 3D Objects](https://objaverse.allenai.org/objaverse-xl-paper.pdf), Deitke et al., Arxiv 2023 | [bibtex](./citations/deitke2023objaverse.txt)
 - [SDFStudio: A Unified Framework for Surface Reconstruction](https://autonomousvision.github.io/sdfstudio/), Yu et al., Arxiv 2023 | [github](https://github.com/autonomousvision/sdfstudio) | [bibtex](./citations/yu2022sdfstudio.txt)
 - [LERF: Language Embedded Radiance Fields](https://www.lerf.io/), Kerr et al., ICCV 2023 | [github](https://github.com/kerrj/lerf) | [bibtex](./citations/lerf.txt)
@@ -260,3 +261,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Robust Single-view Cone-beam X-ray Pose Estimation with Neural Tuned Tomography (NeTT) and Masked Neural Radiance Fields (mNeRF)](https://arxiv.org/abs/2308.00214), Zhou et al., Arxiv 2023 | [bibtex](./citations/zhou2023robust.txt)
 - [Onboard View Planning of a Flying Camera for High Fidelity 3D Reconstruction of a Moving Actor](https://arxiv.org/abs/2308.00134), Jiang et al., Arxiv 2023 | [bibtex](./citations/jiang2023onboard.txt)
 - [HD-Fusion: Detailed Text-to-3D Generation Leveraging Multiple Noise Estimation](https://arxiv.org/abs/2307.16183), Wu et al., Arxiv 2023 | [bibtex](./citations/wu2023hd.txt)
+- [Learning Unified Decompositional and Compositional NeRF for Editable Novel View Synthesis](https://arxiv.org/abs/2308.02840), Wang et al., Arxiv 2023
+- [Learning Neural Radiance Fields for Mirrors with Whitted-Style Ray Tracing](https://zju3dv.github.io/Mirror-NeRF/), Zeng et al., ACM Multimedia 2023 | [github](https://github.com/zju3dv/Mirror-NeRF/) | [bibtex](./citations/zeng2023mirror-nerf.txt)
+- [3D Motion Magnification: Visualizing Subtle Motions with Time-Varying Neural Fields](https://3d-motion-magnification.github.io/), Feng et al., ICCV 2023 | [bibtex](./citations/feng2023motionmag.txt)
+- [MVPSNet: Fast Generalizable Multi-view Photometric Stereo](https://floralzhao.github.io/mvpsnet.github.io/), Zhao et al., ICCV 2023 | [bibtex](./citations/zhao2023mvpsnet.txt)
