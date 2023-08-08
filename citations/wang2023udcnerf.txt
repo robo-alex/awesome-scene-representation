@@ -1,0 +1,6 @@
+@inproceedings{wang2023udcnerf,
+     title={Learning Unified Decompositional and Compositional NeRF for Editable Novel View Synthesis},
+     author={Wang, Yuxin and Wu, Wayne and Xu, Dan},
+     booktitle={ICCV},
+     year={2023}
+     }
