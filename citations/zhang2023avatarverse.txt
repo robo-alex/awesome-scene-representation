@@ -1,0 +1,8 @@
+@misc{zhang2023avatarverse,
+  title={AvatarVerse: High-quality & Stable 3D Avatar Creation from Text and Pose},
+  author={Huichao Zhang and Bowen Chen and Hao Yang and Liao Qu and Xu Wang and Li Chen and Chao Long and Feida Zhu and Kang Du and Min Zheng},
+  year={2023},
+  eprint={2308.03610},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV}
+}

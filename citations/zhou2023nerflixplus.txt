@@ -1,0 +1,6 @@
+@article{zhou2023nerflix,
+  title={From NeRFLiX to NeRFLiX++: A General NeRF-Agnostic Restorer Paradigm},
+  author={Zhou, Kun and Li, Wenbo and Jiang, Nianjuan and Han, Xiaoguang and Lu, Jiangbo},
+  journal={arXiv preprint arXiv:2306.06388},
+  year={2023}
+}

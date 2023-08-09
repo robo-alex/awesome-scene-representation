@@ -1,0 +1,7 @@
+@inproceedings{zhou2023nerflix,
+title={NeRFLiX: High-Quality Neural View Synthesis by Learning a Degradation-Driven Inter-viewpoint MiXer},
+author={Zhou, Kun and Li, Wenbo and Wang, Yi and Hu, Tao and Jiang, Nianjuan and Han, Xiaoguang and Lu, Jiangbo},
+booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+pages={12363--12374},
+year={2023}
+}

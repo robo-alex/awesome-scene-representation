@@ -1,0 +1,8 @@
+@misc{gao2023cloth2tex,
+      title={Cloth2Tex: A Customized Cloth Texture Generation Pipeline for 3D Virtual Try-On}, 
+      author={Daiheng Gao and Xu Chen and Xindi Zhang and Qi Wang and Ke Sun and Bang Zhang and Liefeng Bo and Qixing Huang},
+      year={2023},
+      eprint={2308.04288},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
