@@ -229,6 +229,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [UrbanIR: Large-Scale Urban Scene Inverse Rendering from a Single Video](https://urbaninverserendering.github.io/), Lin et al., Arxiv 2023 | [bibtex](./citations/lin2023urbanir.txt)
 - [Neural Volumetric Reconstruction for Coherent Synthetic Aperture Sonar](https://arxiv.org/abs/2306.09909), Reed et al., Arxiv 2023 | [bibtex](./citations/reed2023neural.txt)
 - [Edit-DiffNeRF: Editing 3D Neural Radiance Fields using 2D Diffusion Model](https://arxiv.org/abs/2306.09551), Yu et al., Arxiv 2023 | [bibtex](./citations/yu2023edit.txt)
+- [Articulated Object Neural Radiance Field](https://github.com/zubair-irshad/articulated-object-nerf), Irshad
 - [Benchmarking and Analyzing 3D-aware Image Synthesis with a Modularized Codebase](https://arxiv.org/abs/2306.12423v1), Wang et al., Arxiv 2023 | [github](https://github.com/qiuyu96/Carver) | [bibtex](./citations/wang2023benchmarking.txt)
 - [Floaters No More: Radiance Field Gradient Scaling for Improved Near-Camera Training](https://gradient-scaling.github.io/), Philip et al., EGSR 2023 | [bibtext](./citations/philip23.txt)
 - [AvatarBooth: High-Quality and Customizable 3D Human Avatar Generation](https://zeng-yifei.github.io/avatarbooth_page/), Zeng et al., Arxiv 2023 | [github](https://github.com/zeng-yifei/AvatarBooth) | [bibtex](./citations/zeng2023avatarbooth.txt)
