@@ -87,7 +87,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [HyP-NeRF: Learning Improved NeRF Priors using a HyperNetwork](https://arxiv.org/abs/2306.06093), Sen et al., Arxiv 2023 | [bibtex](./citations/sen2023hyp.txt)
 - [Neural Haircut: Prior-Guided Strand-Based Hair Reconstruction](https://arxiv.org/abs/2306.05872), Sklyarova et al., Arxiv 2023 | [bibtex](./citations/sklyarova2023neural.txt)
 - [DiViNeT: 3D Reconstruction from Disparate Views via Neural Template Regularization](https://arxiv.org/abs/2306.04699), Vora et al., Arxiv 2023 | [bibtex](./citations/vora2023divinet.txt)
-- [ENVIDR: Implicit Differentiable Renderer with Neural Environment Lighting](https://nexuslrf.github.io/ENVIDR/), Liang et al., Arxiv 2023 | [github](https://github.com/nexuslrf/ENVIDR) | [bibtex](./citations/liang2023envidr.txt)
+- [ENVIDR: Implicit Differentiable Renderer with Neural Environment Lighting](https://nexuslrf.github.io/ENVIDR/), Liang et al., ICCV 2023 | [github](https://github.com/nexuslrf/ENVIDR) | [bibtex](./citations/liang2023envidr.txt)
 - [SPIDR: SDF-based Neural Point Fields for Illumination and Deformation](https://nexuslrf.github.io/SPIDR_webpage/), Liang et al., Arxiv 2023 | [github](https://github.com/nexuslrf/SPIDR) | [bibtex](./citations/liang2022spidr.txt)
 - [TensoIR: Tensorial Inverse Rendering](https://haian-jin.github.io/TensoIR/), Jin et al., CVPR 2023 | [github](https://github.com/Haian-Jin/TensoIR) | [bibtex](./citations/Jin2023TensoIR.txt)
 - [Patch-based 3D Natural Scene Generation from a Single Example](http://weiyuli.xyz/Sin3DGen/), Li et al., CVPR 2023 | [github](https://github.com/wyysf-98/Sin3DGen) | [bibtex](./citations/weiyu23sin3dgen.txt)
@@ -271,3 +271,5 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Digging into Depth Priors for Outdoor Neural Radiance Fields](https://cwchenwang.github.io/outdoor-nerf-depth/), Wang et al., ACM Multimedia 2023 | [github](https://github.com/cwchenwang/outdoor-nerf-depth) | [bibtex](./citations/wang2023digging.txt)
 - [NeRFLiX: High-Quality Neural View Synthesis by Learning a Degradation-Driven Inter-viewpoint MiXer](https://redrock303.github.io/nerflix/), Zhou et al., CVPR 2023 | [github](https://github.com/redrock303/NeRFLiX_CVPR2023) | [bibtex](./citations/zhou2023nerflix.txt)
 - [From NeRFLiX to NeRFLiX++: A General NeRF-Agnostic Restorer Paradigm](https://redrock303.github.io/nerflix_plus/), Zhou et al., Arxiv 2023 | [bibtex](./citations/zhou2023nerflixplus.txt)
+- [VERF: Runtime Monitoring of Pose Estimation with Neural Radiance Fields](https://arxiv.org/abs/2308.05939), Maggio, Arxiv 2023
+- [MagicPony: Learning Articulated 3D Animals in the Wild](https://3dmagicpony.github.io/), Wu et al., CVPR 2023 | [github](https://github.com/elliottwu/MagicPony) | [bibtex](./citations/wu2023magicpony.txt)
