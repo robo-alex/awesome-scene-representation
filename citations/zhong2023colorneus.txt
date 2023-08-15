@@ -1,0 +1,6 @@
+@article{zhong2023colorneus,
+    title={{Color-NeuS}: Reconstructing Neural Implicit Surfaces with Color},
+    author={Zhong, Licheng and Yang, Lixin and Li, Kailin and Zhen, Haoyu and Han, Mei and Lu, Cewu},
+    journal = {arXiv preprint arXiv:2308.06962},
+    year={2023},
+  }

@@ -100,7 +100,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Multiview Compressive Coding for 3D Reconstruction](https://mcc3d.github.io/), Wu et al., CVPR 2023 | [github](https://github.com/facebookresearch/MCC) | [bibtex](./citations/mcc.txt)
 - [NeRF-Supervised Deep Stereo](https://nerfstereo.github.io/), Tosi et al., CVPR 2023 | [github](https://github.com/fabiotosi92/NeRF-Supervised-Deep-Stereo) | [bibtex](./citations/nerfstereo.txt)
 - [NeILF++: Inter-reflectable Light Fields for Geometry and Material Estimation](https://yoyo000.github.io/NeILF_pp/), Zhang et al., Arxiv 2023 | [bibtex](./citations/neilfpp.txt)
-- [SparseNeRF: Distilling Depth Ranking for Few-shot Novel View Synthesis](https://sparsenerf.github.io/), Wang et al., Arxiv 2023 | [github](https://github.com/Wanggcong/SparseNeRF) | [bibtex](./citations/sparsenerf.txt)
+- [SparseNeRF: Distilling Depth Ranking for Few-shot Novel View Synthesis](https://sparsenerf.github.io/), Wang et al., ICCV 2023 | [github](https://github.com/Wanggcong/SparseNeRF) | [bibtex](./citations/sparsenerf.txt)
 - [NeRFMeshing: Distilling Neural Radiance Fields into Geometrically-Accurate 3D Meshes](https://arxiv.org/abs/2303.09431), Rakotosaona et al., Arxiv 2023 | [bibtex](./citations/nerfmeshing.txt)
 - [Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion](https://3d-avatar-diffusion.microsoft.com/), Wang et al., CVPR 2023 | [bibtex](./citations/rodin.txt)
 - [PointAvatar: Deformable Point-based Head Avatars from Videos](https://zhengyuf.github.io/PointAvatar/), Zheng et al., CVPR 2023 | [github](https://github.com/zhengyuf/pointavatar) | [bibtex](./citations/Zheng2023pointavatar.txt)
@@ -273,3 +273,5 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [From NeRFLiX to NeRFLiX++: A General NeRF-Agnostic Restorer Paradigm](https://redrock303.github.io/nerflix_plus/), Zhou et al., Arxiv 2023 | [bibtex](./citations/zhou2023nerflixplus.txt)
 - [VERF: Runtime Monitoring of Pose Estimation with Neural Radiance Fields](https://arxiv.org/abs/2308.05939), Maggio, Arxiv 2023
 - [MagicPony: Learning Articulated 3D Animals in the Wild](https://3dmagicpony.github.io/), Wu et al., CVPR 2023 | [github](https://github.com/elliottwu/MagicPony) | [bibtex](./citations/wu2023magicpony.txt)
+- [Color-NeuS: Reconstructing Neural Implicit Surfaces with Color](https://colmar-zlicheng.github.io/color_neus/), Zhong et al., Arxiv 2023 | [github](https://github.com/Colmar-zlicheng/Color-NeuS) | [bibtex](./citations/zhong2023colorneus.txt)
+- [Neural radiance fields in the industrial and robotics domain: applications, research opportunities and use cases](https://arxiv.org/abs/2308.07118), Šlapak et al., Arxiv 2023 | [github](https://github.com/Maftej/iisnerf)
