@@ -1,0 +1,6 @@
+@inproceedings{zhen2023relightable,
+    title={Relightable and Animatable Neural Avatar from Sparse-View Video},
+    author={Xu, Zhen and Peng, Sida and Geng, Chen and Mou, Linzhan and Yan, Zihan and Sun, Jiaming and Bao, Hujun and Zhou, Xiaowei},
+    booktitle={arXiv preprint arXiv:2308.07903},
+    year={2023}
+}
