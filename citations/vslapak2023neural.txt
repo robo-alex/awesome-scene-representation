@@ -1,0 +1,6 @@
+@article{vslapak2023neural,
+  title={Neural radiance fields in the industrial and robotics domain: applications, research opportunities and use cases},
+  author={{\v{S}}lapak, Eugen and Pardo, Enric and Dopiriak, Mat{\'u}{\v{s}} and Maksymyuk, Taras and Gazda, Juraj},
+  journal={arXiv preprint arXiv:2308.07118},
+  year={2023}
+}

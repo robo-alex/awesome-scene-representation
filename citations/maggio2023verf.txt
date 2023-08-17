@@ -1,0 +1,6 @@
+@article{maggio2023verf,
+  title={VERF: Runtime Monitoring of Pose Estimation with Neural Radiance Fields},
+  author={Maggio, Dominic and Mario, Courtney and Carlone, Luca},
+  journal={arXiv preprint arXiv:2308.05939},
+  year={2023}
+}
