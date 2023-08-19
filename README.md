@@ -31,6 +31,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [FlowCam: Training Generalizable 3D Radiance Fields without Camera Poses via Pixel-Aligned Scene Flow](https://cameronosmith.github.io/flowcam/), Smith et al., Arxiv 2023 | [github](https://github.com/cameronosmith/FlowCam)
 - [Neural Kernel Surface Reconstruction](https://research.nvidia.com/labs/toronto-ai/NKSR/), Huang et al., CVPR 2023 | [github](https://github.com/nv-tlabs/nksr) | [bibtex](./citations/huang2023nksr.txt)
 - [Neuralangelo: High-Fidelity Neural Surface Reconstruction](https://research.nvidia.com/labs/dir/neuralangelo/), Li et al., CVPR 2023 | [github](https://github.com/nvlabs/neuralangelo) | [bibtex](./citations/li2023neuralangelo.txt)
+- [Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis](https://dynamic3dgaussians.github.io/), Luiten et al., Arxiv 2023 | [github](https://github.com/JonathonLuiten/Dynamic3DGaussians) | [bibtex](./citations/luiten2023dynamic.txt)
 - [F2-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories](https://totoro97.github.io/projects/f2-nerf/), Wang et al., CVPR 2023 | [github](https://github.com/totoro97/f2-nerf) | [bibtex](./citations/f2nerf.txt)
 - [NeuManifold: Neural Watertight Manifold Reconstruction with Efficient and High-Quality Rendering Support](https://sarahweiii.github.io/neumanifold/), Wei et al., Arxiv 2023 | [bibtex](./citations/wei2023neumanifold.txt)
 - [Strivec: Sparse Tri-Vector Radiance Fields](https://arxiv.org/abs/2307.13226), Gao et al., Arxiv 2023 | [bibtex](./citations/gao2023strivec.txt)
@@ -279,3 +280,4 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [DDF-HO: Hand-Held Object Reconstruction via Conditional Directed Distance Field](https://arxiv.org/abs/2308.08231), Zhang et al., Arxiv 2023 | [bibtex](./citations/zhang2023ddfh.txt)
 - [Relightable and Animatable Neural Avatar from Sparse-View Video](https://zju3dv.github.io/relightable_avatar/), Xu et al., Arxiv 2023 | [github](https://zju3dv.github.com/relightable_avatar) | [bibtex](./citations/zhen2023relightable.txt)
 - [TeCH: Text-guided Reconstruction of Lifelike Clothed Humans](https://huangyangyi.github.io/tech/), Huang et al., Arxiv 2023 | [github](https://github.com/huangyangyi/TeCH) | [bibtex](./citations/huang2023tech.txt)
+- [Ref-DVGO: Reflection-Aware Direct Voxel Grid Optimization for an Improved Quality-Efficiency Trade-Off in Reflective Scene Reconstructio](https://arxiv.org/abs/2308.08530), Kouros et al., Arxiv 2023

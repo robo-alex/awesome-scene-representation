@@ -1,0 +1,6 @@
+@article{luiten2023dynamic,
+  author    = {Luiten, Jonathon and Kopanas, Georgios and Leibe, Bastian and Ramanan, Deva},
+  title     = {Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis},
+  journal   = {preprint},
+  year      = {2023},
+}
