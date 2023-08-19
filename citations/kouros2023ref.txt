@@ -1,0 +1,6 @@
+@article{kouros2023ref,
+  title={Ref-DVGO: Reflection-Aware Direct Voxel Grid Optimization for an Improved Quality-Efficiency Trade-Off in Reflective Scene Reconstructio},
+  author={Kouros, Georgios and Wu, Minye and Nagesh, Sushruth and Shrivastava, Shubham and Chakravarty, Punarjay and Tuytelaars, Tinne},
+  journal={arXiv preprint arXiv:2308.08530},
+  year={2023}
+}

@@ -1,0 +1,8 @@
+@misc{smith2023flowcam,
+title={FlowCam: Training Generalizable 3D Radiance Fields without Camera Poses via Pixel-Aligned Scene Flow}, 
+author={Cameron Smith and Yilun Du and Ayush Tewari and Vincent Sitzmann},
+year={2023},
+eprint={2306.00180},
+archivePrefix={arXiv},
+primaryClass={cs.CV}
+}
