@@ -1,0 +1,5 @@
+@article{ma2023learning,
+  title={Learning Signed Distance Functions from Noisy 3D Point Clouds via Noise to Noise Mapping},
+  author={Ma, Baorui and Liu, Yu-Shen and Han, Zhizhong},
+  year={2023}
+}

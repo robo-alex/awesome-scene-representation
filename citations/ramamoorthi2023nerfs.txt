@@ -1,0 +1,6 @@
+@article{ramamoorthi2023nerfs,
+  title={NeRFs: The Search for the Best 3D Representation},
+  author={Ramamoorthi, Ravi},
+  journal={arXiv preprint arXiv:2308.02751},
+  year={2023}
+}
