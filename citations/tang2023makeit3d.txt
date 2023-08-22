@@ -1,0 +1,8 @@
+@misc{tang2023makeit3d,
+        title={Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior}, 
+        author={Junshu Tang and Tengfei Wang and Bo Zhang and Ting Zhang and Ran Yi and Lizhuang Ma and Dong Chen},
+        year={2023},
+        eprint={2303.14184},
+        archivePrefix={arXiv},
+        primaryClass={cs.CV}
+  }

@@ -11,6 +11,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Nerfbusters: Removing Ghostly Artifacts from Casually Captured NeRFs](https://ethanweber.me/nerfbusters/), Warburg et al., ICCV 2023 | [github](https://github.com/ethanweber/nerfbusters) | [bibtex](./citations/nerfbusters.txt)
 - [MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes](https://merf42.github.io/), Reiser et al., SIGGRAPH 2023 | [github](https://github.com/google-research/google-research/tree/master/merf) | [bibtex](./citations/merf.txt)
 - [BakedSDF: Meshing Neural SDFs for Real-Time View Synthesis](https://bakedsdf.github.io/), Yariv et al., SIGGRAPH 2023 | [bibtex](./citations/bakedsdf.txt)
+- [CamP: Camera Preconditioning for Neural Radiance Fields](https://camp-nerf.github.io/), Park et al., SIGGRAPH 2023 | [bibtex](./citations/park2023camp.txt)
 - [Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields](https://jonbarron.info/zipnerf/), Barron et al., ICCV 2023 | [github](https://github.com/jake-austin/zipnerf-nerfstudio) | [bibtex](./citations/zipnerf.txt)
 - [NeRF in the Palm of Your Hand: Corrective Augmentation for Robotics via Novel-View Synthesis](https://bland.website/spartn/), Zhou et al., CVPR 2023 | [bibtex](./citations/spartn.txt)
 - [Factor Fields and Beyond](https://apchenstu.github.io/FactorFields/), Chen et al., Arxiv and SIGGRAPH 2023 | [github](https://github.com/autonomousvision/factor-fields)
@@ -284,3 +285,8 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [MATLABER: Material-Aware Text-to-3D via LAtent BRDF auto-EncodeR](https://sheldontsui.github.io/projects/Matlaber), Xu et al., Arxiv 2023 | [github](https://github.com/SheldonTsui/Matlaber) | [bibtex](./citations/xu2023matlaber.txt)
 - [MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection](https://arxiv.org/abs/2308.09421), Xu et al., ICCV 2023 | [github](https://github.com/cskkxjk/MonoNeRD)
 - [DReg-NeRF: Deep Registration for Neural Radiance Fields](https://aibluefisher.github.io/DReg-NeRF/), Chen et al., ICCV 2023 | [github](https://github.com/AIBluefisher/DReg-NeRF)
+- [Strata-NeRF: Neural Radiance Fields for Stratified Scenes](https://ankitatiisc.github.io/Strata-NeRF/), Dhiman et al., ICCV 2023
+- [Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior](https://make-it-3d.github.io/), Tang et al., Arxiv 2023 | [github](https://github.com/junshutang/Make-It-3D) | [bibtex](./citations/tang2023makeit3d.txt)
+- [Renderable Neural Radiance Map for Visual Navigation](https://rllab-snu.github.io/projects/RNR-Map/), Kwon et al., CVPR 2023 | [github](https://github.com/rllab-snu/RNR-Map) | [bibtex](./citations/Kwon_2023_CVPR.txt)
+- [LiveHand: Real-time and Photorealistic Neural Hand Rendering](https://vcai.mpi-inf.mpg.de/projects/LiveHand/), Mundra et al., ICCV 2023 | [github](https://github.com/amundra15/livehand) | [bibtex](./citations/mundra2023livehand.txt)
+- [TADA! Text to Animatable Digital Avatars](https://tada.is.tue.mpg.de/), Liao et al., Arxiv 2023 | [bibtex](citations/liao2023tada.txt)

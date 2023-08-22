@@ -1,0 +1,8 @@
+@InProceedings{Kwon_2023_CVPR,
+     author    = {Kwon, Obin and Park, Jeongho and Oh, Songhwai},
+     title     = {Renderable Neural Radiance Map for Visual Navigation},
+     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+     month     = {June},
+     year      = {2023},
+     pages     = {9099-9108}
+ }

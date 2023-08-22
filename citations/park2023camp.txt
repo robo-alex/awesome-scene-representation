@@ -1,0 +1,8 @@
+@article{park2023camp,
+  author    = {Park, Keunhong; Henzler, Philipp; Mildenhall, Ben; Barron, Jonathan T.; Martin-Brualla, Ricardo},
+  title     = {CamP: Camera Preconditioning for Neural Radiance Fields},
+  journal = {ACM Trans. Graph.},
+  publisher = {ACM},
+  year      = {2023},
+  issue_date = {December 2023},
+}

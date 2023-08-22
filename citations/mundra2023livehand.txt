@@ -1,0 +1,7 @@
+@misc{mundra2023livehand,
+	title = {LiveHand: Real-time and Photorealistic Neural Hand Rendering}, 
+	author = {Akshay Mundra and Mallikarjun {B R} and Jiayi Wang and Marc Habermann and Christian Theobalt and Mohamed Elgharib},
+	booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+	month = {October},
+	year = {2023},
+}
