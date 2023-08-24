@@ -283,10 +283,11 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [TeCH: Text-guided Reconstruction of Lifelike Clothed Humans](https://huangyangyi.github.io/tech/), Huang et al., Arxiv 2023 | [github](https://github.com/huangyangyi/TeCH) | [bibtex](./citations/huang2023tech.txt)
 - [Ref-DVGO: Reflection-Aware Direct Voxel Grid Optimization for an Improved Quality-Efficiency Trade-Off in Reflective Scene Reconstructio](https://arxiv.org/abs/2308.08530), Kouros et al., Arxiv 2023 | [bibtex](./citations/kouros2023ref.txt)
 - [MATLABER: Material-Aware Text-to-3D via LAtent BRDF auto-EncodeR](https://sheldontsui.github.io/projects/Matlaber), Xu et al., Arxiv 2023 | [github](https://github.com/SheldonTsui/Matlaber) | [bibtex](./citations/xu2023matlaber.txt)
-- [MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection](https://arxiv.org/abs/2308.09421), Xu et al., ICCV 2023 | [github](https://github.com/cskkxjk/MonoNeRD)
+- [MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection](https://arxiv.org/abs/2308.09421), Xu et al., ICCV 2023 | [github](https://github.com/cskkxjk/MonoNeRD) | [bibtex](./citations/xu2023mononerd.txt)
 - [DReg-NeRF: Deep Registration for Neural Radiance Fields](https://aibluefisher.github.io/DReg-NeRF/), Chen et al., ICCV 2023 | [github](https://github.com/AIBluefisher/DReg-NeRF)
 - [Strata-NeRF: Neural Radiance Fields for Stratified Scenes](https://ankitatiisc.github.io/Strata-NeRF/), Dhiman et al., ICCV 2023
 - [Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior](https://make-it-3d.github.io/), Tang et al., Arxiv 2023 | [github](https://github.com/junshutang/Make-It-3D) | [bibtex](./citations/tang2023makeit3d.txt)
 - [Renderable Neural Radiance Map for Visual Navigation](https://rllab-snu.github.io/projects/RNR-Map/), Kwon et al., CVPR 2023 | [github](https://github.com/rllab-snu/RNR-Map) | [bibtex](./citations/Kwon_2023_CVPR.txt)
 - [LiveHand: Real-time and Photorealistic Neural Hand Rendering](https://vcai.mpi-inf.mpg.de/projects/LiveHand/), Mundra et al., ICCV 2023 | [github](https://github.com/amundra15/livehand) | [bibtex](./citations/mundra2023livehand.txt)
 - [TADA! Text to Animatable Digital Avatars](https://tada.is.tue.mpg.de/), Liao et al., Arxiv 2023 | [bibtex](citations/liao2023tada.txt)
+- [Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields](https://arxiv.org/abs/2308.11974), Song et al., ICCV 2023

@@ -1,0 +1,6 @@
+@article{xu2023mononerd,
+  title={MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection},
+  author={Xu, Junkai and Peng, Liang and Cheng, Haoran and Li, Hao and Qian, Wei and Li, Ke and Wang, Wenxiao and Cai, Deng},
+  journal={arXiv preprint arXiv:2308.09421},
+  year={2023}
+}
