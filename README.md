@@ -291,3 +291,4 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [LiveHand: Real-time and Photorealistic Neural Hand Rendering](https://vcai.mpi-inf.mpg.de/projects/LiveHand/), Mundra et al., ICCV 2023 | [github](https://github.com/amundra15/livehand) | [bibtex](./citations/mundra2023livehand.txt)
 - [TADA! Text to Animatable Digital Avatars](https://tada.is.tue.mpg.de/), Liao et al., Arxiv 2023 | [bibtex](citations/liao2023tada.txt)
 - [Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields](https://arxiv.org/abs/2308.11974), Song et al., ICCV 2023
+- [Enhancing NeRF akin to Enhancing LLMs: Generalizable NeRF Transformer with Mixture-of-View-Experts](https://arxiv.org/abs/2308.11793), Cong et al., Arxiv 2023
