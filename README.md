@@ -292,3 +292,6 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [TADA! Text to Animatable Digital Avatars](https://tada.is.tue.mpg.de/), Liao et al., Arxiv 2023 | [bibtex](citations/liao2023tada.txt)
 - [Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields](https://arxiv.org/abs/2308.11974), Song et al., ICCV 2023
 - [Enhancing NeRF akin to Enhancing LLMs: Generalizable NeRF Transformer with Mixture-of-View-Experts](https://arxiv.org/abs/2308.11793), Cong et al., Arxiv 2023
+- [NeO 360: Neural Fields for Sparse View Synthesis of Outdoor Scenes](https://zubair-irshad.github.io/projects/neo360.html), IRSHAD et al., ICCV 2023 | [github](https://github.com/zubair-irshad/NeO-360) | [bibtex](./citations/irshad2023neo360.txt)
+- [NeuralClothSim: Neural Deformation Fields Meet the Kirchhoff-Love Thin Shell Theory](https://4dqv.mpi-inf.mpg.de/NeuralClothSim/), Kairanda et al., Arxiv 2023 | [bibtex](./citations/kair2023neuralclothsim.txt)
+- [NOVA: NOvel View Augmentation for Neural Composition of Dynamic Objects](https://arxiv.org/abs/2308.12560), Agrawal et al., Arxiv 2023 | [github](https://github.com/dakshitagrawal/NoVA)

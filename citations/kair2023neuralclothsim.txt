@@ -1,0 +1,6 @@
+@article{kair2023neuralclothsim, 
+  title={NeuralClothSim: Neural Deformation Fields Meet the Kirchhoff-Love Thin Shell Theory}, 
+  author={Navami Kairanda and Marc Habermann and Christian Theobalt and Vladislav Golyanik}, 
+  journal = {arXiv:2308.12970}, 
+  year={2023} 
+} 
