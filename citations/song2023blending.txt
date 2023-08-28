@@ -1,0 +1,6 @@
+@article{song2023blending,
+  title={Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields},
+  author={Song, Hyeonseop and Choi, Seokhun and Do, Hoseok and Lee, Chul and Kim, Taehyeong},
+  journal={ICCV},
+  year={2023}
+}

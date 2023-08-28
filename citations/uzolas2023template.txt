@@ -1,0 +1,6 @@
+@article{uzolas2023template,
+  title={Template-free Articulated Neural Point Clouds for Reposable View Synthesis},
+  author={Uzolas, Lukas and Eisemann, Elmar and Kellnhofer, Petr},
+  journal={arXiv preprint arXiv:2305.19065},
+  year={2023}
+}

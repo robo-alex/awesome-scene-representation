@@ -1,0 +1,6 @@
+@article{szymanowicz2023viewset,
+  title={Viewset Diffusion:(0-) Image-Conditioned 3D Generative Models from 2D Data},
+  author={Szymanowicz, Stanislaw and Rupprecht, Christian and Vedaldi, Andrea},
+  journal={arXiv preprint arXiv:2306.07881},
+  year={2023}
+}

@@ -1,0 +1,6 @@
+@article{cong2023enhancing,
+  title={Enhancing NeRF akin to Enhancing LLMs: Generalizable NeRF Transformer with Mixture-of-View-Experts},
+  author={Cong, Wenyan and Liang, Hanxue and Wang, Peihao and Fan, Zhiwen and Chen, Tianlong and Varma, Mukund and Wang, Yi and Wang, Zhangyang},
+  journal={ICCV},
+  year={2023}
+}
