@@ -295,3 +295,4 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [NeO 360: Neural Fields for Sparse View Synthesis of Outdoor Scenes](https://zubair-irshad.github.io/projects/neo360.html), IRSHAD et al., ICCV 2023 | [github](https://github.com/zubair-irshad/NeO-360) | [bibtex](./citations/irshad2023neo360.txt)
 - [NeuralClothSim: Neural Deformation Fields Meet the Kirchhoff-Love Thin Shell Theory](https://4dqv.mpi-inf.mpg.de/NeuralClothSim/), Kairanda et al., Arxiv 2023 | [bibtex](./citations/kair2023neuralclothsim.txt)
 - [NOVA: NOvel View Augmentation for Neural Composition of Dynamic Objects](https://arxiv.org/abs/2308.12560), Agrawal et al., Arxiv 2023 | [github](https://github.com/dakshitagrawal/NoVA)
+- [Relighting Neural Radiance Fields with Shadow and Highlight Hints](https://nrhints.github.io/), Zeng ey al., SIGGRAPH Asia 2023 | [github](https://github.com/iamNCJ/NRHints) | [bibtex](./citations/zeng2023nrhints.txt)
