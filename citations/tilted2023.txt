@@ -1,0 +1,6 @@
+@inproceedings{tilted2023,
+    author = {Yi, Brent and Zeng, Weijia and Buchanan, Sam and Ma, Yi},
+    title = {Canonical Factors for Hybrid Neural Fields},
+    booktitle = {International Conference on Computer Vision (ICCV)},
+    year = {2023},
+}
