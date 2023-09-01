@@ -1,0 +1,6 @@
+@article{cai2023clnerf,
+  title={CLNeRF: Continual Learning Meets NeRF},
+  author={Cai, Zhipeng and Mueller, Matthias},
+  journal={ICCV},
+  year={2023}
+}
