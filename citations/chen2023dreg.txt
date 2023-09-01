@@ -1,0 +1,6 @@
+@article{chen2023dreg,
+  title={DReg-NeRF: Deep Registration for Neural Radiance Fields},
+  author={Chen, Yu and Lee, Gim Hee},
+  journal={arXiv preprint arXiv:2308.09386},
+  year={2023}
+}

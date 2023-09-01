@@ -1,0 +1,6 @@
+@article{agrawal2023nova,
+  title={NOVA: NOvel View Augmentation for Neural Composition of Dynamic Objects},
+  author={Agrawal, Dakshit and Xu, Jiajie and Mustikovela, Siva Karthik and Gkioulekas, Ioannis and Shrivastava, Ashish and Chai, Yuning},
+  journal={arXiv preprint arXiv:2308.12560},
+  year={2023}
+}

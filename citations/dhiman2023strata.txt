@@ -1,0 +1,6 @@
+@article{dhiman2023strata,
+  title={Strata-NeRF: Neural Radiance Fields for Stratified Scenes},
+  author={Dhiman, Ankit and Rangwani, Harsh and Parihar, Rishubh and Boregowda, Lokesh R and Sridhar, Srinath and Babu, R Venkatesh and others},
+  journal={ICCV},
+  year={2023}
+}
