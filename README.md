@@ -299,3 +299,4 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Flexible Techniques for Differentiable Rendering with 3D Gaussians](https://leonidk.com/fmb-plus/), Keselman et al., Arxiv 2023 | [github](https://github.com/leonidk/fmb-plus) | [bibtex](./citations/keselman2023fuzzyplus.txt)
 - [CLNeRF: Continual Learning Meets NeRF](https://arxiv.org/abs/2308.14816), Cai et al., ICCV 2023 | [github](https://github.com/IntelLabs/CLNeRF) | [bibtex](./citations/cai2023clnerf.txt)
 - [Canonical Factors for Hybrid Neural Fields](https://brentyi.github.io/tilted/), Yi et al., ICCV 2023 | [github](https://github.com/brentyi/tilted) | [bibtex](./citations/titled2023.txt)
+- [CityDreamer: Compositional Generative Model of Unbounded 3D Cities](https://infinitescript.com/project/city-dreamer/), Xie et al., Arxiv 2023 | [github](https://github.com/hzxie/city-dreamer) | [bibtex](./citations/xie2023citydreamer.txt)
