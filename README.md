@@ -300,3 +300,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [CLNeRF: Continual Learning Meets NeRF](https://arxiv.org/abs/2308.14816), Cai et al., ICCV 2023 | [github](https://github.com/IntelLabs/CLNeRF) | [bibtex](./citations/cai2023clnerf.txt)
 - [Canonical Factors for Hybrid Neural Fields](https://brentyi.github.io/tilted/), Yi et al., ICCV 2023 | [github](https://github.com/brentyi/tilted) | [bibtex](./citations/titled2023.txt)
 - [CityDreamer: Compositional Generative Model of Unbounded 3D Cities](https://infinitescript.com/project/city-dreamer/), Xie et al., Arxiv 2023 | [github](https://github.com/hzxie/city-dreamer) | [bibtex](./citations/xie2023citydreamer.txt)
+- [Improving NeRF Quality by Progressive Camera Placement for Unrestricted Navigation in Complex Environments](https://arxiv.org/abs/2309.00014), Kopanas et al., Arxiv 2023 | [bibtex](./citations/kopanas2023improving.txt)
+- [S2RF: Semantically Stylized Radiance Fields](https://arxiv.org/abs/2309.01252), Lahiri et al., Arxiv 2023
+- [Neural Vector Fields: Generalizing Distance Vector Fields by Codebooks and Zero-Curl Regularization](https://arxiv.org/abs/2309.01512), Yang et al., Arxiv 2023
+- [ImmersiveNeRF: Hybrid Radiance Fields for Unbounded Immersive Light Field Reconstruction](https://arxiv.org/abs/2309.01374), Yu et al., Arxiv 2023
