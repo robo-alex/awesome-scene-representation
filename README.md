@@ -304,3 +304,4 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [S2RF: Semantically Stylized Radiance Fields](https://arxiv.org/abs/2309.01252), Lahiri et al., Arxiv 2023
 - [Neural Vector Fields: Generalizing Distance Vector Fields by Codebooks and Zero-Curl Regularization](https://arxiv.org/abs/2309.01512), Yang et al., Arxiv 2023
 - [ImmersiveNeRF: Hybrid Radiance Fields for Unbounded Immersive Light Field Reconstruction](https://arxiv.org/abs/2309.01374), Yu et al., Arxiv 2023
+- [Instant Continual Learning of Neural Radiance Fields](https://arxiv.org/abs/2309.01811), Po et al., Arxiv 2023
