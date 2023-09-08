@@ -1,0 +1,6 @@
+@article{goli2023,
+    title={{Bayes' Rays}: Uncertainty Quantification in Neural Radiance Fields},
+    author={Lily Goli, Cody Reading, Silvia Sellán, Alec Jacobson, Andrea Tagliasacchi},
+    journal={arXiv},
+    year={2023}
+}

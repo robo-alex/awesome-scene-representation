@@ -305,3 +305,5 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Neural Vector Fields: Generalizing Distance Vector Fields by Codebooks and Zero-Curl Regularization](https://arxiv.org/abs/2309.01512), Yang et al., Arxiv 2023
 - [ImmersiveNeRF: Hybrid Radiance Fields for Unbounded Immersive Light Field Reconstruction](https://arxiv.org/abs/2309.01374), Yu et al., Arxiv 2023
 - [Instant Continual Learning of Neural Radiance Fields](https://arxiv.org/abs/2309.01811), Po et al., Arxiv 2023
+- [ResFields: Residual Neural Fields for Spatiotemporal Signals](https://markomih.github.io/ResFields/), Mihajlovic et al., Arxiv 2023 | [github](https://markomih.github.io/ResFields/) | [bibtex](./citations/mihajlovic2023resfields.txt)
+- [Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields](https://bayesrays.github.io/), Goli et al., Arxiv 2023 | [bibtex](./citations/goli2023.txt)
