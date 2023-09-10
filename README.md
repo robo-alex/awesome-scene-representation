@@ -301,9 +301,9 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Canonical Factors for Hybrid Neural Fields](https://brentyi.github.io/tilted/), Yi et al., ICCV 2023 | [github](https://github.com/brentyi/tilted) | [bibtex](./citations/titled2023.txt)
 - [CityDreamer: Compositional Generative Model of Unbounded 3D Cities](https://infinitescript.com/project/city-dreamer/), Xie et al., Arxiv 2023 | [github](https://github.com/hzxie/city-dreamer) | [bibtex](./citations/xie2023citydreamer.txt)
 - [Improving NeRF Quality by Progressive Camera Placement for Unrestricted Navigation in Complex Environments](https://arxiv.org/abs/2309.00014), Kopanas et al., Arxiv 2023 | [bibtex](./citations/kopanas2023improving.txt)
-- [S2RF: Semantically Stylized Radiance Fields](https://arxiv.org/abs/2309.01252), Lahiri et al., Arxiv 2023
-- [Neural Vector Fields: Generalizing Distance Vector Fields by Codebooks and Zero-Curl Regularization](https://arxiv.org/abs/2309.01512), Yang et al., Arxiv 2023
-- [ImmersiveNeRF: Hybrid Radiance Fields for Unbounded Immersive Light Field Reconstruction](https://arxiv.org/abs/2309.01374), Yu et al., Arxiv 2023
-- [Instant Continual Learning of Neural Radiance Fields](https://arxiv.org/abs/2309.01811), Po et al., Arxiv 2023
+- [S2RF: Semantically Stylized Radiance Fields](https://arxiv.org/abs/2309.01252), Lahiri et al., Arxiv 2023 | [bibtex](./citations/lahiri2023s2rf.txt)
+- [Neural Vector Fields: Generalizing Distance Vector Fields by Codebooks and Zero-Curl Regularization](https://arxiv.org/abs/2309.01512), Yang et al., Arxiv 2023 | [bibtex](./citations/yang2023neural.txt)
+- [ImmersiveNeRF: Hybrid Radiance Fields for Unbounded Immersive Light Field Reconstruction](https://arxiv.org/abs/2309.01374), Yu et al., Arxiv 2023 | [bibtex](./citations/yu2023immersivenerf.txt)
+- [Instant Continual Learning of Neural Radiance Fields](https://arxiv.org/abs/2309.01811), Po et al., Arxiv 2023 | [bibtex](./citations/po2023instant.txt)
 - [ResFields: Residual Neural Fields for Spatiotemporal Signals](https://markomih.github.io/ResFields/), Mihajlovic et al., Arxiv 2023 | [github](https://markomih.github.io/ResFields/) | [bibtex](./citations/mihajlovic2023resfields.txt)
 - [Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields](https://bayesrays.github.io/), Goli et al., Arxiv 2023 | [bibtex](./citations/goli2023.txt)

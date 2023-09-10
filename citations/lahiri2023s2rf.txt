@@ -1,0 +1,6 @@
+@article{lahiri2023s2rf,
+  title={S2RF: Semantically Stylized Radiance Fields},
+  author={Lahiri, Dishani and Panse, Neeraj and Kumar, Moneish},
+  journal={arXiv preprint arXiv:2309.01252},
+  year={2023}
+}

@@ -1,0 +1,6 @@
+@article{yang2023neural,
+  title={Neural Vector Fields: Generalizing Distance Vector Fields by Codebooks and Zero-Curl Regularization},
+  author={Yang, Xianghui and Lin, Guosheng and Chen, Zhenghao and Zhou, Luping},
+  journal={arXiv preprint arXiv:2309.01512},
+  year={2023}
+}

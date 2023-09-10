@@ -1,0 +1,6 @@
+@article{yu2023immersivenerf,
+  title={ImmersiveNeRF: Hybrid Radiance Fields for Unbounded Immersive Light Field Reconstruction},
+  author={Yu, Xiaohang and Wang, Haoxiang and Han, Yuqi and Yang, Lei and Yu, Tao and Dai, Qionghai},
+  journal={arXiv preprint arXiv:2309.01374},
+  year={2023}
+}

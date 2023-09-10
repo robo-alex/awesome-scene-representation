@@ -1,0 +1,6 @@
+@article{po2023instant,
+  title={Instant Continual Learning of Neural Radiance Fields},
+  author={Po, Ryan and Dong, Zhengyang and Bergman, Alexander W and Wetzstein, Gordon},
+  journal={arXiv preprint arXiv:2309.01811},
+  year={2023}
+}
