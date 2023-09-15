@@ -1,0 +1,6 @@
+@article{qiao2023dmrf,
+  author    = {Yi-Ling Qiao and Alexander Gao and Yiran Xu and Yue Feng and Jia-Bin Huang and Ming C. Lin},
+  title     = {Dynamic Mesh-Aware Radiance Fields},
+  journal   = {ICCV},
+  year      = {2023},
+}

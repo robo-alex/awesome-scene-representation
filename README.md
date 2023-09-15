@@ -309,3 +309,4 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields](https://bayesrays.github.io/), Goli et al., Arxiv 2023 | [bibtex](./citations/goli2023.txt)
 - [Single View Refractive Index Tomography with Neural Fields](https://arxiv.org/abs/2309.04437), Zhao et al., Arxiv 2023
 - [DeformToon3D: Deformable 3D Toonification from Neural Radiance Fields](https://www.mmlab-ntu.com/project/deformtoon3d/), Zhang et al., ICCV 2023 | [github](https://github.com/junzhezhang/DeformToon3D)
+- [Dynamic Mesh-Aware Radiance Fields](https://mesh-aware-rf.github.io/), Qiao et al., ICCV 2023 | [github](https://github.com/YilingQiao/DMRF/tree/cleaning) | [bibtex](./citations/qiao2023dmrf.txt)
