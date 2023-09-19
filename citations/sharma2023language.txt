@@ -1,0 +1,7 @@
+@inproceedings{sharma2023language,
+ title={Language Embedded Radiance Fields for Zero-Shot Task-Oriented Grasping},
+ author=author={Satvik Sharma and Adam Rashid and Chung Min Kim and Justin Kerr and Lawrence Yunliang Chen and Angjoo Kanazawa and Ken Goldberg},
+ booktitle={7th Annual Conference on Robot Learning},
+ year={2023},
+ url={https://openreview.net/forum?id=k-Fg8JDQmc}
+} 
