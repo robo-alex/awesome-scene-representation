@@ -1,0 +1,6 @@
+@article{fu2023panoptic,
+  title={PanopticNeRF-360: Panoramic 3D-to-2D Label Transfer in Urban Scenes},
+  author={Fu, Xiao and Zhang, Shangzhan and Chen, Tianrun and Lu, Yichong and Zhou, Xiaowei and Geiger, Andreas and Liao, Yiyi},
+  journal={arXiv},
+  year = {2023}
+}

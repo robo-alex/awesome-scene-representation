@@ -1,0 +1,6 @@
+@inproceedings{low2023_robust-e-nerf,
+  title = {Robust e-NeRF: NeRF from Sparse & Noisy Events under Non-Uniform Motion},
+  author = {Low, Weng Fei and Lee, Gim Hee},
+  booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  year = {2023}
+}
