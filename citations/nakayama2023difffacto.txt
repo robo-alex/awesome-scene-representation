@@ -1,0 +1,6 @@
+@inproceedings{nakayama2023difffacto,
+      title={DiffFacto: Controllable Part-Based 3D Point Cloud Generation with Cross Diffusion}, 
+      author={Kiyohiro Nakayama and Mikaela Angelina Uy and Jiahui Huang and Shi-Min Hu and Ke Li and Leonidas Guibas},
+      year={2023},
+      booktitle = {International Conference on Computer Vision (ICCV)},
+}

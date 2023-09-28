@@ -1,0 +1,6 @@
+@article{pang2023locally,
+  title={Locally Stylized Neural Radiance Fields},
+  author={Pang, Hong-Wing and Hua, Binh-Son and Yeung, Sai-Kit},
+  journal={arXiv preprint arXiv:2309.10684},
+  year={2023}
+}
