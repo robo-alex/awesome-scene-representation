@@ -317,3 +317,4 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Robust e-NeRF: NeRF from Sparse & Noisy Events under Non-Uniform Motion](https://wengflow.github.io/robust-e-nerf/), Low et al., ICCV 2023 | [github](https://github.com/wengflow/robust-e-nerf) | [bibtex](./citations/low2023_robust-e-nerf.txt)
 - [DiffFacto: Controllable Part-Based 3D Point Cloud Generation with Cross Diffusion](https://difffacto.github.io/), Nakayama et al., ICCV 2023 | [bibtex](./citations/nakayama2023difffacto.txt)
 - [NeRF-Det: Learning Geometry-Aware Volumetric Representation for Multi-View 3D Object Detection](https://chenfengxu714.github.io/nerfdet/), Xu et al., ICCV 2023 | [github](https://github.com/facebookresearch/NeRF-Det) | [bibtex](./citations/xu2023nerfdet.txt)
+- [Neural Impostor: Editing Neural Radiance Fields with Explicit Shape Manipulation](https://arxiv.org/abs/2310.05391), Liu et al., Arxiv 2023
