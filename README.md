@@ -318,3 +318,5 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [DiffFacto: Controllable Part-Based 3D Point Cloud Generation with Cross Diffusion](https://difffacto.github.io/), Nakayama et al., ICCV 2023 | [bibtex](./citations/nakayama2023difffacto.txt)
 - [NeRF-Det: Learning Geometry-Aware Volumetric Representation for Multi-View 3D Object Detection](https://chenfengxu714.github.io/nerfdet/), Xu et al., ICCV 2023 | [github](https://github.com/facebookresearch/NeRF-Det) | [bibtex](./citations/xu2023nerfdet.txt)
 - [Neural Impostor: Editing Neural Radiance Fields with Explicit Shape Manipulation](https://arxiv.org/abs/2310.05391), Liu et al., Arxiv 2023
+- [PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction](https://arxiv.org/abs/2310.07449), Bian et al., Arxiv 2023
+- [S4C: Self-Supervised Semantic Scene Completion with Neural Fields](https://arxiv.org/abs/2310.07522), Hayler et al., Arxiv 2023
