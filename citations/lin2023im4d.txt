@@ -1,0 +1,6 @@
+@inproceedings{lin2023im4d,
+  title={High-Fidelity and Real-Time Novel View Synthesis for Dynamic Scenes},
+  author={Lin, Haotong and Peng, Sida and Xu, Zhen and Xie, Tao and He, Xingyi and Bao, Hujun and Zhou, Xiaowei},
+  booktitle={SIGGRAPH Asia Conference Proceedings},
+  year={2023}
+}

@@ -1,0 +1,6 @@
+@article{liu2023neural,
+  title={Neural Impostor: Editing Neural Radiance Fields with Explicit Shape Manipulation},
+  author={Liu, Ruiyang and Xiang, Jinxu and Zhao, Bowen and Zhang, Ran and Yu, Jingyi and Zheng, Changxi},
+  journal={arXiv preprint arXiv:2310.05391},
+  year={2023}
+}

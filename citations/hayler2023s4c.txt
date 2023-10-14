@@ -1,0 +1,6 @@
+@article{hayler2023s4c,
+  title={S4C: Self-Supervised Semantic Scene Completion with Neural Fields},
+  author={Hayler, Adrian and Wimbauer, Felix and Muhle, Dominik and Rupprecht, Christian and Cremers, Daniel},
+  journal={arXiv preprint arXiv:2310.07522},
+  year={2023}
+}
