@@ -1,0 +1,6 @@
+
+@article{perf2023,
+    title={PERF: Panoramic Neural Radiance Field from a Single Panorama},
+    author={Guangcong Wang and Peng Wang and Zhaoxi Chen and Wenping Wang and Chen Change Loy and Ziwei Liu},
+    journal={Technical Report},
+    year={2023}}

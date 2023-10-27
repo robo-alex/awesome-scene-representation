@@ -1,0 +1,6 @@
+@article{yang2023sire,
+  title={SIRe-IR: Inverse Rendering for BRDF Reconstruction with Shadow and Illumination Removal in High-Illuminance Scenes},
+  author={Yang, Ziyi and Chen, Yanzhen and Gao, Xinyu and Yuan, Yazhen and Wu, Yu and Zhou, Xiaowei and Jin, Xiaogang},
+  journal={arXiv preprint arXiv:2310.13030},
+  year={2023}
+}

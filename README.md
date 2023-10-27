@@ -321,3 +321,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction](https://arxiv.org/abs/2310.07449), Bian et al., Arxiv 2023 | [bibtex](./citations/bian2023porf.txt)
 - [S4C: Self-Supervised Semantic Scene Completion with Neural Fields](https://arxiv.org/abs/2310.07522), Hayler et al., Arxiv 2023 | [bibtex](./citations/hayler2023s4c.txt)
 - [Im4D: High-Fidelity and Real-Time Novel View Synthesis for Dynamic Scenes](https://zju3dv.github.io/im4d/), Lin et al., SIGGRAPH Asia 2023 | [github](https://github.com/zju3dv/im4d) [bibtex](./citations/lin2023im4d.txt)
+- [LightSpeed: Light and Fast Neural Light Fields on Mobile Devices](https://lightspeed-r2l.github.io/website/), Gupta et al., Arxiv 2023
+- [PERF: Panoramic Neural Radiance Field from a Single Panorama](https://perf-project.github.io/), Wang et al., Arxiv 2023 | [github](https://github.com/perf-project/PeRF) | [bibtex](./citations/perf2023.txt)
+- [LiCROM: Linear-Subspace Continuous Reduced Order Modeling with Neural Fields](https://arxiv.org/abs/2310.15907), Chang et al., Arxiv 2023
+- [SIRe-IR: Inverse Rendering for BRDF Reconstruction with Shadow and Illumination Removal in High-Illuminance Scenes](https://arxiv.org/abs/2310.13030), Yang et al., Arxiv 2023 | [bibtex](./citations/yang2023sire.txt)
