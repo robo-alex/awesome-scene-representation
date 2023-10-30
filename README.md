@@ -325,3 +325,4 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [PERF: Panoramic Neural Radiance Field from a Single Panorama](https://perf-project.github.io/), Wang et al., Arxiv 2023 | [github](https://github.com/perf-project/PeRF) | [bibtex](./citations/perf2023.txt)
 - [LiCROM: Linear-Subspace Continuous Reduced Order Modeling with Neural Fields](https://arxiv.org/abs/2310.15907), Chang et al., Arxiv 2023
 - [SIRe-IR: Inverse Rendering for BRDF Reconstruction with Shadow and Illumination Removal in High-Illuminance Scenes](https://arxiv.org/abs/2310.13030), Yang et al., Arxiv 2023 | [bibtex](./citations/yang2023sire.txt)
+- [Reconstructive Latent-Space Neural Radiance Fields for Efficient 3D Scene Representations](https://arxiv.org/abs/2310.17880), Aumentado-Armstrong et al., Arxiv 2023
