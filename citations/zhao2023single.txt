@@ -1,0 +1,6 @@
+@article{zhao2023single,
+  title={Single View Refractive Index Tomography with Neural Fields},
+  author={Zhao, Brandon and Levis, Aviad and Connor, Liam and Srinivasan, Pratul P and Bouman, Katherine L},
+  journal={arXiv preprint arXiv:2309.04437},
+  year={2023}
+}

@@ -308,7 +308,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Instant Continual Learning of Neural Radiance Fields](https://arxiv.org/abs/2309.01811), Po et al., Arxiv 2023 | [bibtex](./citations/po2023instant.txt)
 - [ResFields: Residual Neural Fields for Spatiotemporal Signals](https://markomih.github.io/ResFields/), Mihajlovic et al., Arxiv 2023 | [github](https://markomih.github.io/ResFields/) | [bibtex](./citations/mihajlovic2023resfields.txt)
 - [Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields](https://bayesrays.github.io/), Goli et al., Arxiv 2023 | [bibtex](./citations/goli2023.txt)
-- [Single View Refractive Index Tomography with Neural Fields](https://arxiv.org/abs/2309.04437), Zhao et al., Arxiv 2023
+- [Single View Refractive Index Tomography with Neural Fields](https://arxiv.org/abs/2309.04437), Zhao et al., Arxiv 2023 | [bibtex](./citations/zhao2023single.txt)
 - [DeformToon3D: Deformable 3D Toonification from Neural Radiance Fields](https://www.mmlab-ntu.com/project/deformtoon3d/), Zhang et al., ICCV 2023 | [github](https://github.com/junzhezhang/DeformToon3D)
 - [Dynamic Mesh-Aware Radiance Fields](https://mesh-aware-rf.github.io/), Qiao et al., ICCV 2023 | [github](https://github.com/YilingQiao/DMRF/tree/cleaning) | [bibtex](./citations/qiao2023dmrf.txt)
 - [DynaMoN: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF](https://arxiv.org/abs/2309.08927), Karaoglu et al., Arxiv 2023
@@ -320,7 +320,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Neural Impostor: Editing Neural Radiance Fields with Explicit Shape Manipulation](https://arxiv.org/abs/2310.05391), Liu et al., Arxiv 2023 | [bibtex](./citations/liu2023neural.txt)
 - [PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction](https://arxiv.org/abs/2310.07449), Bian et al., Arxiv 2023 | [bibtex](./citations/bian2023porf.txt)
 - [S4C: Self-Supervised Semantic Scene Completion with Neural Fields](https://arxiv.org/abs/2310.07522), Hayler et al., Arxiv 2023 | [bibtex](./citations/hayler2023s4c.txt)
-- [Im4D: High-Fidelity and Real-Time Novel View Synthesis for Dynamic Scenes](https://zju3dv.github.io/im4d/), Lin et al., SIGGRAPH Asia 2023 | [github](https://github.com/zju3dv/im4d) [bibtex](./citations/lin2023im4d.txt)
+- [Im4D: High-Fidelity and Real-Time Novel View Synthesis for Dynamic Scenes](https://zju3dv.github.io/im4d/), Lin et al., SIGGRAPH Asia 2023 | [github](https://github.com/zju3dv/im4d) | [bibtex](./citations/lin2023im4d.txt)
 - [LightSpeed: Light and Fast Neural Light Fields on Mobile Devices](https://lightspeed-r2l.github.io/website/), Gupta et al., Arxiv 2023
 - [PERF: Panoramic Neural Radiance Field from a Single Panorama](https://perf-project.github.io/), Wang et al., Arxiv 2023 | [github](https://github.com/perf-project/PeRF) | [bibtex](./citations/perf2023.txt)
 - [LiCROM: Linear-Subspace Continuous Reduced Order Modeling with Neural Fields](https://arxiv.org/abs/2310.15907), Chang et al., Arxiv 2023
