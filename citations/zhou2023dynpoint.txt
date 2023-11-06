@@ -1,0 +1,6 @@
+@article{zhou2023dynpoint,
+  title={DynPoint: Dynamic Neural Point For View Synthesis},
+  author={Zhou, Kaichen and Zhong, Jia-Xing and Shin, Sangyun and Lu, Kai and Yang, Yiyuan and Markham, Andrew and Trigoni, Niki},
+  journal={arXiv preprint arXiv:2310.18999},
+  year={2023}
+}

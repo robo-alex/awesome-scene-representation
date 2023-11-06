@@ -1,0 +1,6 @@
+@article{aumentado2023reconstructive,
+  title={Reconstructive Latent-Space Neural Radiance Fields for Efficient 3D Scene Representations},
+  author={Aumentado-Armstrong, Tristan and Mirzaei, Ashkan and Brubaker, Marcus A and Kelly, Jonathan and Levinshtein, Alex and Derpanis, Konstantinos G and Gilitschenski, Igor},
+  journal={arXiv preprint arXiv:2310.17880},
+  year={2023}
+}
