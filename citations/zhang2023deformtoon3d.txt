@@ -1,0 +1,5 @@
+@inproceedings{zhang2023deformtoon3d,
+ title = {DeformToon3D: Deformable 3D Toonification from Neural Radiance Fields},
+ author = {Junzhe Zhang, Yushi Lan, Shuai Yang, Fangzhou Hong, Quan Wang, Chai Kiat Yeo, Ziwei Liu, Chen Change Loy},
+ booktitle = {ICCV},
+ year = {2023}}

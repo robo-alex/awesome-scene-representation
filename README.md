@@ -309,7 +309,8 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [ResFields: Residual Neural Fields for Spatiotemporal Signals](https://markomih.github.io/ResFields/), Mihajlovic et al., Arxiv 2023 | [github](https://markomih.github.io/ResFields/) | [bibtex](./citations/mihajlovic2023resfields.txt)
 - [Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields](https://bayesrays.github.io/), Goli et al., Arxiv 2023 | [bibtex](./citations/goli2023.txt)
 - [Single View Refractive Index Tomography with Neural Fields](https://arxiv.org/abs/2309.04437), Zhao et al., Arxiv 2023 | [bibtex](./citations/zhao2023single.txt)
-- [DeformToon3D: Deformable 3D Toonification from Neural Radiance Fields](https://www.mmlab-ntu.com/project/deformtoon3d/), Zhang et al., ICCV 2023 | [github](https://github.com/junzhezhang/DeformToon3D)
+- [DeformToon3D: Deformable 3D Toonification from Neural Radiance Fields](https://www.mmlab-ntu.com/project/deformtoon3d/), Zhang et al., ICCV 2023 | [github](https://github.com/junzhezhang/DeformToon3D) | [bibtex](./citations/zhang2023deformtoon3d.txt)
+- [EmerNeRF: Emergent Spatial-Temporal Scene Decomposition via Self-Supervision](https://emernerf.github.io/), Yang et al., Arxiv 2023 | [github](https://github.com/NVlabs/EmerNeRF) | [bibtex](./citations/yang2023emernerf.txt)
 - [Dynamic Mesh-Aware Radiance Fields](https://mesh-aware-rf.github.io/), Qiao et al., ICCV 2023 | [github](https://github.com/YilingQiao/DMRF/tree/cleaning) | [bibtex](./citations/qiao2023dmrf.txt)
 - [DynaMoN: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF](https://arxiv.org/abs/2309.08927), Karaoglu et al., Arxiv 2023
 - [Locally Stylized Neural Radiance Fields](https://arxiv.org/abs/2309.10684), Pang et al., ICCV 2023 | [bibtex](./citations/pang2023locally.txt)
