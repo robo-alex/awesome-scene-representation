@@ -1,0 +1,20 @@
+@InProceedings{VRNeRF,
+        author    = {Linning Xu and
+                     Vasu Agrawal and
+                     William Laney and
+                     Tony Garcia and
+                     Aayush Bansal and
+                     Changil Kim and
+                     Rota Bulò, Samuel and
+                     Lorenzo Porzi and
+                     Peter Kontschieder and
+                     Aljaž Božič and
+                     Dahua Lin and
+                     Michael Zollhöfer and
+                     Christian Richardt},
+        title     = {{VR-NeRF}: High-Fidelity Virtualized Walkable Spaces},
+        booktitle = {SIGGRAPH Asia Conference Proceedings},
+        year      = {2023},
+        doi       = {10.1145/3610548.3618139},
+        url       = {https://vr-nerf.github.io},
+      }
