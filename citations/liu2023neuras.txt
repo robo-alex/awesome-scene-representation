@@ -1,0 +1,6 @@
+@inproceedings{liu2023neural,
+  title     = {Neural Scene Rasterization for Large Scene Rendering in Real Time},
+  author    = {Jeffrey Yunfan Liu and Yun Chen and Ze Yang and Jingkang Wang and Sivabalan Manivasagam and Raquel Urtasun},
+  booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+  year      = {2023},
+}

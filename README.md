@@ -331,3 +331,5 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [DynPoint: Dynamic Neural Point For View Synthesis](https://arxiv.org/abs/2310.18999), Zhou et al., Arxiv 2023 | [bibtex](./citations/zhou2023dynpoint.txt)
 - [InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image](https://arxiv.org/abs/2311.02826), Li et al., Arxiv 2023 | [github](https://github.com/mybabyyh/InstructPix2NeRF)
 - [VR-NeRF: High-Fidelity Virtualized Walkable Spaces](https://vr-nerf.github.io/), Xu et al., SIGGRAPH Asia 2023 | [bibtex](./citations/VRNeRF.txt)
+- [Real-Time Neural Rasterization for Large Scenes](https://waabi.ai/NeuRas/), Liu et al., ICCV 2023 | [bibtex](./citations/liu2023neuras.txt)
+- [ConRad: Image Constrained Radiance Fields for 3D Generation from a Single Image](https://arxiv.org/abs/2311.05230), Purushwalkam et al., NeurIPS 2023
