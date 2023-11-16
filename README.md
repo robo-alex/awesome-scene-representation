@@ -2,7 +2,7 @@
 
 A curated list of awesome scene representation(NeRFs) papers, code, and resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
 
-- [Nerfstudio: A Modular Framework for Neural Radiance Field Development](https://docs.nerf.studio/en/latest/), Tancik et al., SIGGRAPH 2023 | [github](https://github.com/nerfstudio-project/nerfstudio/) | [bibtex](./citations/nerfstudio.txt)
+- [Nerfstudio: A Modular Framework for Neural Radiance Field Development](https://docs.nerf.studio/), Tancik et al., SIGGRAPH 2023 | [github](https://github.com/nerfstudio-project/nerfstudio/) | [bibtex](./citations/nerfstudio.txt)
 - [NerfAcc: A General NeRF Acceleration Toolbox](https://www.nerfacc.com/en/latest/), Li et al., Arxiv 2023 | [github](https://github.com/KAIR-BAIR/nerfacc) | [bibtex](./citations/li2023nerfacc.txt)
 - [NeRFs: The Search for the Best 3D Representation](https://arxiv.org/abs/2308.02751), Ramamoorthi et al., Arxiv 2023 | [bibtex](./citations/ramamoorthi2023nerfs.txt)
 - [Objaverse-XL: A Universe of 10M+ 3D Objects](https://objaverse.allenai.org/objaverse-xl-paper.pdf), Deitke et al., Arxiv 2023 | [bibtex](./citations/deitke2023objaverse.txt)
@@ -324,12 +324,12 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Im4D: High-Fidelity and Real-Time Novel View Synthesis for Dynamic Scenes](https://zju3dv.github.io/im4d/), Lin et al., SIGGRAPH Asia 2023 | [github](https://github.com/zju3dv/im4d) | [bibtex](./citations/lin2023im4d.txt)
 - [LightSpeed: Light and Fast Neural Light Fields on Mobile Devices](https://lightspeed-r2l.github.io/website/), Gupta et al., Arxiv 2023
 - [PERF: Panoramic Neural Radiance Field from a Single Panorama](https://perf-project.github.io/), Wang et al., Arxiv 2023 | [github](https://github.com/perf-project/PeRF) | [bibtex](./citations/perf2023.txt)
-- [LiCROM: Linear-Subspace Continuous Reduced Order Modeling with Neural Fields](https://arxiv.org/abs/2310.15907), Chang et al., Arxiv 2023
+- [LiCROM: Linear-Subspace Continuous Reduced Order Modeling with Neural Fields](https://arxiv.org/abs/2310.15907), Chang et al., Arxiv 2023 | [bibtex](./citations/chang2023licrom.txt)
 - [SIRe-IR: Inverse Rendering for BRDF Reconstruction with Shadow and Illumination Removal in High-Illuminance Scenes](https://arxiv.org/abs/2310.13030), Yang et al., Arxiv 2023 | [bibtex](./citations/yang2023sire.txt)
 - [Reconstructive Latent-Space Neural Radiance Fields for Efficient 3D Scene Representations](https://arxiv.org/abs/2310.17880), Aumentado-Armstrong et al., Arxiv 2023 | [bibtex](./citations/aumentado2023reconstructive.txt)
-- [Novel View Synthesis from a Single RGBD Image for Indoor Scenes](https://arxiv.org/abs/2311.01065), Hetang et al., Arxiv 2023
+- [Novel View Synthesis from a Single RGBD Image for Indoor Scenes](https://arxiv.org/abs/2311.01065), Hetang et al., Arxiv 2023 | [bibtex](./citations/hetang2023novel.txt)
 - [DynPoint: Dynamic Neural Point For View Synthesis](https://arxiv.org/abs/2310.18999), Zhou et al., Arxiv 2023 | [bibtex](./citations/zhou2023dynpoint.txt)
-- [InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image](https://arxiv.org/abs/2311.02826), Li et al., Arxiv 2023 | [github](https://github.com/mybabyyh/InstructPix2NeRF)
+- [InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image](https://arxiv.org/abs/2311.02826), Li et al., Arxiv 2023 | [github](https://github.com/mybabyyh/InstructPix2NeRF) | [bibtex](./citations/li2023instructpix2nerf.txt)
 - [VR-NeRF: High-Fidelity Virtualized Walkable Spaces](https://vr-nerf.github.io/), Xu et al., SIGGRAPH Asia 2023 | [bibtex](./citations/VRNeRF.txt)
 - [Real-Time Neural Rasterization for Large Scenes](https://waabi.ai/NeuRas/), Liu et al., ICCV 2023 | [bibtex](./citations/liu2023neuras.txt)
-- [ConRad: Image Constrained Radiance Fields for 3D Generation from a Single Image](https://arxiv.org/abs/2311.05230), Purushwalkam et al., NeurIPS 2023
+- [ConRad: Image Constrained Radiance Fields for 3D Generation from a Single Image](https://arxiv.org/abs/2311.05230), Purushwalkam et al., NeurIPS 2023 | [bibtex](./citations/purushwalkam2023conrad.txt)

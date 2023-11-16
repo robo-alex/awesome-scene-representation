@@ -1,0 +1,6 @@
+@article{li2023instructpix2nerf,
+  title={InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image},
+  author={Li, Jianhui and Liu, Shilong and Liu, Zidong and Wang, Yikai and Zheng, Kaiwen and Xu, Jinghui and Li, Jianmin and Zhu, Jun},
+  journal={arXiv preprint arXiv:2311.02826},
+  year={2023}
+}

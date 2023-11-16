@@ -1,0 +1,6 @@
+@article{hetang2023novel,
+  title={Novel View Synthesis from a Single RGBD Image for Indoor Scenes},
+  author={Hetang, Congrui and Wang, Yuping},
+  journal={arXiv preprint arXiv:2311.01065},
+  year={2023}
+}

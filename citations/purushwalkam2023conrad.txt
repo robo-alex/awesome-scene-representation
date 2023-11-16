@@ -1,0 +1,6 @@
+@article{purushwalkam2023conrad,
+  title={ConRad: Image Constrained Radiance Fields for 3D Generation from a Single Image},
+  author={Purushwalkam, Senthil and Naik, Nikhil},
+  journal={arXiv preprint arXiv:2311.05230},
+  year={2023}
+}

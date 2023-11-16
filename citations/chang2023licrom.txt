@@ -1,0 +1,6 @@
+@article{chang2023licrom,
+  title={LiCROM: Linear-Subspace Continuous Reduced Order Modeling with Neural Fields},
+  author={Chang, Yue and Chen, Peter Yichen and Wang, Zhecheng and Chiaramonte, Maurizio M and Carlberg, Kevin and Grinspun, Eitan},
+  journal={arXiv preprint arXiv:2310.15907},
+  year={2023}
+}
