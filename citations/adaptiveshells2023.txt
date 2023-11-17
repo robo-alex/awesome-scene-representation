@@ -1,0 +1,16 @@
+@article{adaptiveshells2023,
+  author = {Zian Wang and Tianchang Shen and Merlin Nimier-David and Nicholas Sharp and Jun Gao and Alexander Keller and Sanja Fidler and Thomas M\"uller and Zan Gojcic},
+  title = {Adaptive Shells for Efficient Neural Radiance Field Rendering},
+  journal = {ACM Trans. Graph.},
+  issue_date = {December 2023},
+  volume = {42},
+  number = {6},
+  year = {2023},
+  articleno = {259},
+  numpages = {15},
+  url = {https://doi.org/10.1145/3618390},
+  doi = {10.1145/3618390},
+  publisher = {ACM},
+  address = {New York, NY, USA},
+  keywords = {neural radiance fields, fast rendering, level set methods, novel view synthesis}
+}

@@ -333,3 +333,5 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [VR-NeRF: High-Fidelity Virtualized Walkable Spaces](https://vr-nerf.github.io/), Xu et al., SIGGRAPH Asia 2023 | [bibtex](./citations/VRNeRF.txt)
 - [Real-Time Neural Rasterization for Large Scenes](https://waabi.ai/NeuRas/), Liu et al., ICCV 2023 | [bibtex](./citations/liu2023neuras.txt)
 - [ConRad: Image Constrained Radiance Fields for 3D Generation from a Single Image](https://arxiv.org/abs/2311.05230), Purushwalkam et al., NeurIPS 2023 | [bibtex](./citations/purushwalkam2023conrad.txt)
+- [Adaptive Shells for Efficient Neural Radiance Field Rendering](https://research.nvidia.com/labs/toronto-ai/adaptive-shells/), Wang et al., SIGGRAPH Asia 2023 | [bibtex](./citations/adaptiveshells2023.txt)
+- [D3GA - Drivable 3D Gaussian Avatars](https://zielon.github.io/d3ga/), Zielonka et al., Arxiv 2023 | [bibtex](./citations/Zielonka2023Drivable3D.txt)

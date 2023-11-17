@@ -1,0 +1,9 @@
+@article{Zielonka2023Drivable3D,
+      title={Drivable 3D Gaussian Avatars}, 
+      author={Wojciech Zielonka and Timur Bagautdinov and Shunsuke Saito and 
+              Michael Zollhöfer and Justus Thies and Javier Romero},
+      year={2023},
+      eprint={2311.08581},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
