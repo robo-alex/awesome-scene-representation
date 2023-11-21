@@ -335,3 +335,4 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [ConRad: Image Constrained Radiance Fields for 3D Generation from a Single Image](https://arxiv.org/abs/2311.05230), Purushwalkam et al., NeurIPS 2023 | [bibtex](./citations/purushwalkam2023conrad.txt)
 - [Adaptive Shells for Efficient Neural Radiance Field Rendering](https://research.nvidia.com/labs/toronto-ai/adaptive-shells/), Wang et al., SIGGRAPH Asia 2023 | [bibtex](./citations/adaptiveshells2023.txt)
 - [D3GA - Drivable 3D Gaussian Avatars](https://zielon.github.io/d3ga/), Zielonka et al., Arxiv 2023 | [bibtex](./citations/Zielonka2023Drivable3D.txt)
+- [EvaSurf: Efficient View-Aware Implicit Textured Surface Reconstruction on Mobile Devices](https://g-1nonly.github.io/EvaSurf-Website/), Gao et al., Arxiv 2023 | [bibtex](./citations/gao2023evasurf.txt)

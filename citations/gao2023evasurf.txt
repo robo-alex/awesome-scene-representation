@@ -1,0 +1,6 @@
+@article{gao2023evasurf,
+      title={EvaSurf: Efficient View-Aware Implicit Textured Surface Reconstruction on Mobile Devices}, 
+      author={Jingnan Gao and Zhuo Chen and Yichao Yan and Bowen Pan and Zhe Wang and Jiangjing Lyu and Xiaokang Yang},
+      journal={arXiv preprint arXiv:2311.09806},
+      year={2023}
+}
