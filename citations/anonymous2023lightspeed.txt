@@ -1,0 +1,7 @@
+@inproceedings{anonymous2023lightspeed,
+    title={LightSpeed: Lighter and Faster Neural Light Field on Mobile Devices},
+    author={Anonymous},
+    booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+    year={2023},
+    url={https://openreview.net/forum?id=b2wSODM7iG}
+}
