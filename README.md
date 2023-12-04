@@ -312,7 +312,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [DeformToon3D: Deformable 3D Toonification from Neural Radiance Fields](https://www.mmlab-ntu.com/project/deformtoon3d/), Zhang et al., ICCV 2023 | [github](https://github.com/junzhezhang/DeformToon3D) | [bibtex](./citations/zhang2023deformtoon3d.txt)
 - [EmerNeRF: Emergent Spatial-Temporal Scene Decomposition via Self-Supervision](https://emernerf.github.io/), Yang et al., Arxiv 2023 | [github](https://github.com/NVlabs/EmerNeRF) | [bibtex](./citations/yang2023emernerf.txt)
 - [Dynamic Mesh-Aware Radiance Fields](https://mesh-aware-rf.github.io/), Qiao et al., ICCV 2023 | [github](https://github.com/YilingQiao/DMRF/tree/cleaning) | [bibtex](./citations/qiao2023dmrf.txt)
-- [DynaMoN: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF](https://arxiv.org/abs/2309.08927), Karaoglu et al., Arxiv 2023
+- [DynaMoN: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF](https://arxiv.org/abs/2309.08927), Karaoglu et al., Arxiv 2023 | [bibtex](./citations/karaoglu2023dynamon.txt)
 - [Locally Stylized Neural Radiance Fields](https://arxiv.org/abs/2309.10684), Pang et al., ICCV 2023 | [bibtex](./citations/pang2023locally.txt)
 - [PanopticNeRF-360: Panoramic 3D-to-2D Label Transfer in Urban Scenes](https://fuxiao0719.github.io/projects/panopticnerf360/), Fu et al., Arxiv 2023 | [github](https://github.com/fuxiao0719/PanopticNeRF) | [bibtex](./citations/fu2023panoptic.txt)
 - [Robust e-NeRF: NeRF from Sparse & Noisy Events under Non-Uniform Motion](https://wengflow.github.io/robust-e-nerf/), Low et al., ICCV 2023 | [github](https://github.com/wengflow/robust-e-nerf) | [bibtex](./citations/low2023_robust-e-nerf.txt)
@@ -336,4 +336,4 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Adaptive Shells for Efficient Neural Radiance Field Rendering](https://research.nvidia.com/labs/toronto-ai/adaptive-shells/), Wang et al., SIGGRAPH Asia 2023 | [bibtex](./citations/adaptiveshells2023.txt)
 - [D3GA - Drivable 3D Gaussian Avatars](https://zielon.github.io/d3ga/), Zielonka et al., Arxiv 2023 | [bibtex](./citations/Zielonka2023Drivable3D.txt)
 - [EvaSurf: Efficient View-Aware Implicit Textured Surface Reconstruction on Mobile Devices](https://g-1nonly.github.io/EvaSurf-Website/), Gao et al., Arxiv 2023 | [bibtex](./citations/gao2023evasurf.txt)
-- [Rethinking Directional Integration in Neural Radiance Fields](https://cs.stanford.edu/~congyue/linerf/), Deng et al., Arxiv 2023
+- [Rethinking Directional Integration in Neural Radiance Fields](https://cs.stanford.edu/~congyue/linerf/), Deng et al., Arxiv 2023 | [bibtex](./citations/deng2023rethinking.txt)

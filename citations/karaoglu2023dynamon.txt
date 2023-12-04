@@ -1,0 +1,6 @@
+@article{karaoglu2023dynamon,
+  title={DynaMoN: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF},
+  author={Karaoglu, Mert Asim and Schieber, Hannah and Schischka, Nicolas and G{\"o}rg{\"u}l{\"u}, Melih and Gr{\"o}tzner, Florian and Ladikos, Alexander and Roth, Daniel and Navab, Nassir and Busam, Benjamin},
+  journal={arXiv preprint arXiv:2309.08927},
+  year={2023}
+}

@@ -1,0 +1,6 @@
+@article{deng2023rethinking,
+  title={Rethinking Directional Integration in Neural Radiance Fields},
+  author={Deng, Congyue and Yang, Jiawei and Guibas, Leonidas and Wang, Yue},
+  journal={arXiv preprint arXiv:2311.16504},
+  year={2023}
+}
