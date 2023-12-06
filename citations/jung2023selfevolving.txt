@@ -1,0 +1,8 @@
+@misc{jung2023selfevolving,
+title={Self-Evolving Neural Radiance Fields},
+author={Jaewoo Jung and Jisang Han and Jiwon Kang and Seongchan Kim and Min-Seop Kwak and Seungryong Kim},
+year={2023},
+eprint={2312.01003},
+archivePrefix={arXiv},
+primaryClass={cs.CV}
+}

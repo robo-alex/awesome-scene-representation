@@ -337,3 +337,5 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [D3GA - Drivable 3D Gaussian Avatars](https://zielon.github.io/d3ga/), Zielonka et al., Arxiv 2023 | [bibtex](./citations/Zielonka2023Drivable3D.txt)
 - [EvaSurf: Efficient View-Aware Implicit Textured Surface Reconstruction on Mobile Devices](https://g-1nonly.github.io/EvaSurf-Website/), Gao et al., Arxiv 2023 | [bibtex](./citations/gao2023evasurf.txt)
 - [Rethinking Directional Integration in Neural Radiance Fields](https://cs.stanford.edu/~congyue/linerf/), Deng et al., Arxiv 2023 | [bibtex](./citations/deng2023rethinking.txt)
+- [Re-Nerfing: Enforcing Geometric Constraints on Neural Radiance Fields through Novel Views Synthesis](https://arxiv.org/abs/2312.02255), Tristram et al., Arxiv 2023
+- [Self-Evolving Neural Radiance Fields](https://ku-cvlab.github.io/SE-NeRF/), Jung et al., Arxiv 2023 | [github](https://github.com/KU-CVLAB/SE-NeRF) | [bibtex](./citations/jung2023selfevolving.txt)
