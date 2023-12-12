@@ -339,3 +339,4 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Rethinking Directional Integration in Neural Radiance Fields](https://cs.stanford.edu/~congyue/linerf/), Deng et al., Arxiv 2023 | [bibtex](./citations/deng2023rethinking.txt)
 - [Re-Nerfing: Enforcing Geometric Constraints on Neural Radiance Fields through Novel Views Synthesis](https://arxiv.org/abs/2312.02255), Tristram et al., Arxiv 2023
 - [Self-Evolving Neural Radiance Fields](https://ku-cvlab.github.io/SE-NeRF/), Jung et al., Arxiv 2023 | [github](https://github.com/KU-CVLAB/SE-NeRF) | [bibtex](./citations/jung2023selfevolving.txt)
+- [Dynamic LiDAR Re-simulation using Compositional Neural Fields](https://github.com/prs-eth/Dynamic-LiDAR-Resimulation/tree/master?tab=readme-ov-file), Wu et al., Arxiv 2023 | [github](https://github.com/prs-eth/Dynamic-LiDAR-Resimulation/tree/master?tab=readme-ov-file) | [bibtex](./citations/Wu2023dynfl.txt)
