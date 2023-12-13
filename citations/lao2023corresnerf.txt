@@ -1,0 +1,6 @@
+@inproceedings{lao2023corresnerf,
+    title     = {{CorresNeRF}: Image Correspondence Priors for Neural Radiance Fields},
+    author    = {Lao, Yixing and Xu, Xiaogang and Cai, Zhipeng and Liu, Xihui and Zhao, Hengshuang},
+    booktitle = {NeurIPS},
+    year      = {2023}
+}

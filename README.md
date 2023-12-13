@@ -341,3 +341,4 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Self-Evolving Neural Radiance Fields](https://ku-cvlab.github.io/SE-NeRF/), Jung et al., Arxiv 2023 | [github](https://github.com/KU-CVLAB/SE-NeRF) | [bibtex](./citations/jung2023selfevolving.txt)
 - [Dynamic LiDAR Re-simulation using Compositional Neural Fields](https://github.com/prs-eth/Dynamic-LiDAR-Resimulation/tree/master?tab=readme-ov-file), Wu et al., Arxiv 2023 | [github](https://github.com/prs-eth/Dynamic-LiDAR-Resimulation/tree/master?tab=readme-ov-file) | [bibtex](./citations/Wu2023dynfl.txt)
 - [Neural Lighting Simulation for Urban Scenes](https://waabi.ai/lightsim/), Pun et al., NeurIPS 2023 | [bibtex](./citations/pun2023neural.txt)
+- [CorresNeRF: Image Correspondence Priors for Neural Radiance Fields](https://yxlao.github.io/corres-nerf/), Lao et al., NeurIPS 2023 | [github](https://github.com/yxlao/corres-nerf) | [bibtex](./citations/lao2023corresnerf.txt)
