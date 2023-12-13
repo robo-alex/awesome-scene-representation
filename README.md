@@ -12,6 +12,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes](https://merf42.github.io/), Reiser et al., SIGGRAPH 2023 | [github](https://github.com/google-research/google-research/tree/master/merf) | [bibtex](./citations/merf.txt)
 - [BakedSDF: Meshing Neural SDFs for Real-Time View Synthesis](https://bakedsdf.github.io/), Yariv et al., SIGGRAPH 2023 | [bibtex](./citations/bakedsdf.txt)
 - [Language Embedded Radiance Fields for Zero-Shot Task-Oriented Grasping](https://lerftogo.github.io/desktop.html), Rashid et al., CoRL 2023 | [bibtex](./citations/sharma2023language.txt)
+- [SMERF: Streamable Memory Efficient Radiance Fields for Real-Time Large-Scene Exploration](https://smerf-3d.github.io/), Duckworth et al., Arxiv 2023
 - [CamP: Camera Preconditioning for Neural Radiance Fields](https://camp-nerf.github.io/), Park et al., SIGGRAPH 2023 | [bibtex](./citations/park2023camp.txt)
 - [Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields](https://jonbarron.info/zipnerf/), Barron et al., ICCV 2023 | [github](https://github.com/jake-austin/zipnerf-nerfstudio) | [bibtex](./citations/zipnerf.txt)
 - [NeRF in the Palm of Your Hand: Corrective Augmentation for Robotics via Novel-View Synthesis](https://bland.website/spartn/), Zhou et al., CVPR 2023 | [bibtex](./citations/spartn.txt)
