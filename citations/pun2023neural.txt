@@ -1,0 +1,8 @@
+@inproceedings{
+  pun2023neural,
+  title={Neural Lighting Simulation for Urban Scenes},
+  author={Ava Pun and Gary Sun and Jingkang Wang and Yun Chen and Ze Yang and Sivabalan Manivasagam and Wei-Chiu Ma and Raquel Urtasun},
+  booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+  year={2023},
+  url={https://openreview.net/forum?id=mcx8IGneYw}
+}
