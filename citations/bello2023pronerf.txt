@@ -1,0 +1,6 @@
+@article{bello2023pronerf,
+      title={ProNeRF: Learning Efficient Projection-Aware Ray Sampling for Fine-Grained Implicit Neural Radiance Fields}, 
+      author={Juan Luis Gonzalez Bello and Minh-Quan Viet Bui and Munchurl Kim},
+      journal={arXiv preprint arXiv:2311.13681},
+      year={2023}
+    }
