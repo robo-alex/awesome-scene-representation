@@ -16,6 +16,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [CamP: Camera Preconditioning for Neural Radiance Fields](https://camp-nerf.github.io/), Park et al., SIGGRAPH 2023 | [bibtex](./citations/park2023camp.txt)
 - [Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields](https://jonbarron.info/zipnerf/), Barron et al., ICCV 2023 | [github](https://github.com/jake-austin/zipnerf-nerfstudio) | [bibtex](./citations/zipnerf.txt)
 - [NeRF in the Palm of Your Hand: Corrective Augmentation for Robotics via Novel-View Synthesis](https://bland.website/spartn/), Zhou et al., CVPR 2023 | [bibtex](./citations/spartn.txt)
+- [ZeroRF: Fast Sparse View 360° Reconstruction with Zero Pretraining](https://sarahweiii.github.io/zerorf/), Shi et al., Arxiv 2023 | [github](https://github.com/eliphatfs/zerorf)
 - [Factor Fields and Beyond](https://apchenstu.github.io/FactorFields/), Chen et al., Arxiv and SIGGRAPH 2023 | [github](https://github.com/autonomousvision/factor-fields)
 - [Live 3D Portrait: Real-Time Radiance Fields for Single-Image Portrait View Synthesis](https://research.nvidia.com/labs/nxp/lp3d/), Trevithick et al., SIGGRAPH 2023 | [bibtex](./citations/trevithick2023.txt)
 - [GeNVS: Generative Novel View Synthesis with 3D-Aware Diffusion Models](https://nvlabs.github.io/genvs/), Chan et al., Arxiv 2023 | [github](https://github.com/NVlabs/genvs) | [bibtex](./citations/genvs.txt)
