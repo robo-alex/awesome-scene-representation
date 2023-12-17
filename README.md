@@ -12,7 +12,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes](https://merf42.github.io/), Reiser et al., SIGGRAPH 2023 | [github](https://github.com/google-research/google-research/tree/master/merf) | [bibtex](./citations/merf.txt)
 - [BakedSDF: Meshing Neural SDFs for Real-Time View Synthesis](https://bakedsdf.github.io/), Yariv et al., SIGGRAPH 2023 | [bibtex](./citations/bakedsdf.txt)
 - [Language Embedded Radiance Fields for Zero-Shot Task-Oriented Grasping](https://lerftogo.github.io/desktop.html), Rashid et al., CoRL 2023 | [bibtex](./citations/sharma2023language.txt)
-- [SMERF: Streamable Memory Efficient Radiance Fields for Real-Time Large-Scene Exploration](https://smerf-3d.github.io/), Duckworth et al., Arxiv 2023
+- [SMERF: Streamable Memory Efficient Radiance Fields for Real-Time Large-Scene Exploration](https://smerf-3d.github.io/), Duckworth et al., Arxiv 2023 | [bibtex](./citations/duckworth2023smerf.txt)
 - [CamP: Camera Preconditioning for Neural Radiance Fields](https://camp-nerf.github.io/), Park et al., SIGGRAPH 2023 | [bibtex](./citations/park2023camp.txt)
 - [Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields](https://jonbarron.info/zipnerf/), Barron et al., ICCV 2023 | [github](https://github.com/jake-austin/zipnerf-nerfstudio) | [bibtex](./citations/zipnerf.txt)
 - [NeRF in the Palm of Your Hand: Corrective Augmentation for Robotics via Novel-View Synthesis](https://bland.website/spartn/), Zhou et al., CVPR 2023 | [bibtex](./citations/spartn.txt)
@@ -81,7 +81,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Towards Realistic Generative 3D Face Models](https://aashishrai3799.github.io/Towards-Realistic-Generative-3D-Face-Models/), Rai et al., Arxiv 2023 | [github](https://github.com/aashishrai3799/Towards-Realistic-Generative-3D-Face-Models/) | [bibtex](./citations/rai2023towards.txt)
 - [Pointersect: Neural Rendering with Cloud-Ray Intersection](https://machinelearning.apple.com/research/pointersect), Chang et al., CVPR 2023 | [github](https://github.com/apple/ml-pointersect) | [bibtex](./citations/pointersect.txt)
 - [ORCa: Glossy Objects as Radiance-Field Cameras](https://ktiwary2.github.io/objectsascam/), Tiwary et al., CVPR 2023 | [github](https://github.com/ktiwary2/orca) | [bibtex](./citations/glossyobjects2022.txt)
-- [GANeRF: Leveraging Discriminators to Optimize Neural Radiance Fields](https://barbararoessle.github.io/ganerf/), Roessle, et al., SIGGRAPH 2023 | [github](https://github.com/barbararoessle/ganerf) [bibtex](./citations/roessle2023ganerf.txt)
+- [GANeRF: Leveraging Discriminators to Optimize Neural Radiance Fields](https://barbararoessle.github.io/ganerf/), Roessle, et al., SIGGRAPH 2023 | [github](https://github.com/barbararoessle/ganerf) | [bibtex](./citations/roessle2023ganerf.txt)
 - [TextMesh: Generation of Realistic 3D Meshes From Text Prompts](https://fabi92.github.io/textmesh/), Tsalicoglou et al., Arxiv 2023 | [bibtex](./citations/tsalicoglou2023textmesh.txt)
 - [Local Implicit Ray Function for Generalizable Radiance Field Representation](https://xhuangcv.github.io/lirf/), Huang et al., CVPR 2023 | [github](https://github.com/xhuangcv/lirf/) | [bibtex](./citations/huang2023lirf.txt)
 - [AutoNeRF: Training Implicit Scene Representations with Autonomous Agents](https://pierremarza.github.io/projects/autonerf/), Marza et al., Arxiv 2023 | [bibtex](./citations/marza2023autonerf.txt)
