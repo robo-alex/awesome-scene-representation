@@ -347,3 +347,5 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [SIFU: Side-view Conditioned Implicit Function for Real-world Usable Clothed Human Reconstruction](https://river-zhang.github.io/SIFU-projectpage/), Zhang et al., Arxiv 2023 | [github](https://github.com/River-Zhang/SIFU)
 - [ProNeRF: Learning Efficient Projection-Aware Ray Sampling for Fine-Grained Implicit Neural Radiance Fields](https://kaist-viclab.github.io/pronerf-site/), Bello et al., Arxiv 2023 | [github](https://github.com/KAIST-VICLab) | [bibtex](./citations/bello2023pronerf.txt)
 - [OccNeRF: Self-Supervised Multi-Camera Occupancy Prediction with Neural Radiance Fields](https://linshan-bin.github.io/OccNeRF/), Zhang et al., Arxiv 2023 | [github](https://github.com/LinShan-Bin/OccNeRF) | [bibtex](./citations/chubin2023occnerf.txt)
+- [MixRT: Mixed Neural Representations For Real-Time NeRF Rendering](https://licj15.github.io/MixRT/), Li et al., 3DV 2024 | [bibtex](./citations/licj2024mixrt.txt)
+- [PNeRFLoc: Visual Localization with Point-based Neural Radiance Fields](https://arxiv.org/abs/2312.10649), Zhao et al., AAAI 2024 | [bibtex](./citations/zhao2024pnerfloc.txt)

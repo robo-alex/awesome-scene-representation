@@ -1,0 +1,6 @@
+@article{li2023mixrt,
+  title={MixRT: Mixed Neural Representations For Real-Time NeRF Rendering},
+  author={Li, Chaojian and Wu, Bichen and Vajda, Peter and others},
+  journal={3DV},
+  year={2024}
+}

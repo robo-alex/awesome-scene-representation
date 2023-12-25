@@ -1,0 +1,6 @@
+@article{zhao2023pnerfloc,
+  title={PNeRFLoc: Visual Localization with Point-based Neural Radiance Fields},
+  author={Zhao, Boming and Yang, Luwei and Mao, Mao and Bao, Hujun and Cui, Zhaopeng},
+  journal={AAAI},
+  year={2024}
+}
