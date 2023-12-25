@@ -349,3 +349,4 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [OccNeRF: Self-Supervised Multi-Camera Occupancy Prediction with Neural Radiance Fields](https://linshan-bin.github.io/OccNeRF/), Zhang et al., Arxiv 2023 | [github](https://github.com/LinShan-Bin/OccNeRF) | [bibtex](./citations/chubin2023occnerf.txt)
 - [MixRT: Mixed Neural Representations For Real-Time NeRF Rendering](https://licj15.github.io/MixRT/), Li et al., 3DV 2024 | [bibtex](./citations/licj2024mixrt.txt)
 - [PNeRFLoc: Visual Localization with Point-based Neural Radiance Fields](https://arxiv.org/abs/2312.10649), Zhao et al., AAAI 2024 | [bibtex](./citations/zhao2024pnerfloc.txt)
+- [Aleth-NeRF: Illumination Adaptive NeRF with Concealing Field Assumption](https://cuiziteng.github.io/Aleth_NeRF_web/), Cui et al., AAAI 2024 | [github](https://github.com/cuiziteng/Aleth-NeRF) | [bibtex](./citations/cui2024alethnerf.txt)
