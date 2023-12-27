@@ -38,6 +38,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis](https://dynamic3dgaussians.github.io/), Luiten et al., Arxiv 2023 | [github](https://github.com/JonathonLuiten/Dynamic3DGaussians) | [bibtex](./citations/luiten2023dynamic.txt)
 - [F2-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories](https://totoro97.github.io/projects/f2-nerf/), Wang et al., CVPR 2023 | [github](https://github.com/totoro97/f2-nerf) | [bibtex](./citations/f2nerf.txt)
 - [NeuManifold: Neural Watertight Manifold Reconstruction with Efficient and High-Quality Rendering Support](https://sarahweiii.github.io/neumanifold/), Wei et al., Arxiv 2023 | [bibtex](./citations/wei2023neumanifold.txt)
+- [PlatoNeRF: 3D Reconstruction in Plato's Cave via Single-View Two-Bounce Lidar](https://platonerf.github.io/), Klinghoffer et al., Arxiv 2023 | [github](https://github.com/facebookresearch/PlatoNeRF) | [bibtex](./citations/PlatoNeRF.txt)
 - [Strivec: Sparse Tri-Vector Radiance Fields](https://arxiv.org/abs/2307.13226), Gao et al., Arxiv 2023 | [bibtex](./citations/gao2023strivec.txt)
 - [MonoNeRF: Learning Generalizable NeRFs from Monocular Videos without Camera Poses](https://oasisyang.github.io/mononerf/), Fu et al., ICML 2023 | [bibtex](./citations/fu2022mononerf.txt)
 - [Neural Free-Viewpoint Relighting for Glossy Indirect Illumination](https://arxiv.org/abs/2307.06335), Raghavan et al., Arxiv 2023 | [bibtex](./citations/raghavan2023neural.txt)
