@@ -1,0 +1,6 @@
+@article{zhang2023sifu,
+  title={SIFU: Side-view Conditioned Implicit Function for Real-world Usable Clothed Human Reconstruction},
+  author={Zhang, Zechuan and Yang, Zongxin and Yang, Yi},
+  journal={arXiv preprint arXiv:2312.06704},
+  year={2023}
+}

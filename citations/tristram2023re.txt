@@ -1,0 +1,6 @@
+@inproceedings{tristram2023re,
+  title={Re-Nerfing: Enforcing Geometric Constraints on Neural Radiance Fields through Novel Views Synthesis},
+  author={Tristram, Felix and Gasperini, Stefano and Tombari, Federico and Navab, Nassir and Busam, Benjamin},
+  booktitle={arXiv preprint, under review},
+  year={2023}
+}
