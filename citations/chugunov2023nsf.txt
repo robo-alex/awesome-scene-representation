@@ -1,0 +1,7 @@
+@misc{chugunov2023nsf,
+title={Neural Spline Fields for Burst Image Fusion and Layer Separation},
+author={Ilya Chugunov and David Shustin and Ruyu Yan and Chenyang Lei and Felix Heide},
+year={2023},
+archivePrefix={arXiv},
+primaryClass={cs.CV}
+}
