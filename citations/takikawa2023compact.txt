@@ -1,0 +1,12 @@
+@inproceedings{takikawa2023compact, 
+  title = {Compact Neural Graphics Primitives with Learned Hash Probing}, 
+  author = {Takikawa, Towaki and 
+            M\"{u}ller, Thomas and 
+            Nimier-David, Merlin and 
+            Evans, Alex and 
+            Fidler, Sanja and 
+            Jacobson, Alec and 
+            Keller, Alexander}, 
+  booktitle = {SIGGRAPH Asia 2023 Conference Papers}, 
+  year = {2023}, 
+}
