@@ -1,0 +1,6 @@
+@article{shahbazi2024inserf,
+  author    = {Shahbazi, Mohamad and Claessens, Liesbeth and Niemeyer, Michael and Collins, Edo and Tonioni, Alessio and Van Gool, Luc and Tombari, Federico},
+  title     = {InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes},
+  journal   = {Arxiv},
+  year      = {2024},
+}

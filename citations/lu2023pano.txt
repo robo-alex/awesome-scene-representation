@@ -1,0 +1,6 @@
+@article{lu2023pano,
+  title={Pano-NeRF: Synthesizing High Dynamic Range Novel Views with Geometry from Sparse Low Dynamic Range Panoramic Images},
+  author={Lu, Zhan and Zheng, Qian and Shi, Boxin and Jiang, Xudong},
+  journal={arXiv preprint arXiv:2312.15942},
+  year={2023}
+}
