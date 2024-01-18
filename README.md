@@ -8,6 +8,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Objaverse-XL: A Universe of 10M+ 3D Objects](https://objaverse.allenai.org/objaverse-xl-paper.pdf), Deitke et al., Arxiv 2023 | [bibtex](./citations/deitke2023objaverse.txt)
 - [SDFStudio: A Unified Framework for Surface Reconstruction](https://autonomousvision.github.io/sdfstudio/), Yu et al., Arxiv 2023 | [github](https://github.com/autonomousvision/sdfstudio) | [bibtex](./citations/yu2022sdfstudio.txt)
 - [LERF: Language Embedded Radiance Fields](https://www.lerf.io/), Kerr et al., ICCV 2023 | [github](https://github.com/kerrj/lerf) | [bibtex](./citations/lerf.txt)
+- [GARField: Group Anything with Radiance Fields](https://www.garfield.studio/), Kim et al., Arxiv 2023 | [github](https://github.com/chungmin99/garfield) | [bibtex](./citations/garfield2024.txt)
 - [Nerfbusters: Removing Ghostly Artifacts from Casually Captured NeRFs](https://ethanweber.me/nerfbusters/), Warburg et al., ICCV 2023 | [github](https://github.com/ethanweber/nerfbusters) | [bibtex](./citations/nerfbusters.txt)
 - [MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes](https://merf42.github.io/), Reiser et al., SIGGRAPH 2023 | [github](https://github.com/google-research/google-research/tree/master/merf) | [bibtex](./citations/merf.txt)
 - [BakedSDF: Meshing Neural SDFs for Real-Time View Synthesis](https://bakedsdf.github.io/), Yariv et al., SIGGRAPH 2023 | [bibtex](./citations/bakedsdf.txt)
