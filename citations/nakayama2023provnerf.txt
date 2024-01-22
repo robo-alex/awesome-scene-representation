@@ -1,0 +1,6 @@
+@article{nakayama2023provnerf,
+        title={ProvNeRF: Modeling per Point Provenance in NeRFs as a Stochastic Process}, 
+        author={Kiyohiro Nakayama and Mikaela Angelina Uy and Yang You and Ke Li and Leonidas Guibas},
+        journal = {arXiv:2401.08140},
+        year={2023}
+    }

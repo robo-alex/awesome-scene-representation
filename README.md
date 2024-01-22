@@ -357,3 +357,4 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Pano-NeRF: Synthesizing High Dynamic Range Novel Views with Geometry from Sparse Low Dynamic Range Panoramic Images](https://arxiv.org/abs/2312.15942), Lu et al., Arxiv 2023 | [github](https://github.com/Lu-Zhan/Pano-NeRF) | [bibtex](./citations/lu2023pano.txt)
 - [Diffusion Priors for Dynamic View Synthesis from Monocular Videos](https://arxiv.org/abs/2401.05583), Wang et al., Arxiv 2024
 - [InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes](https://mohamad-shahbazi.github.io/inserf/), Shahbazi et al., Arxiv 2024 | [bibtex](./citations/shahbazi2024inserf.txt)
+- [ProvNeRF: Modeling per Point Provenance in NeRFs as a Stochastic Process](https://provnerf.github.io/), Nakayama et al., Arxiv 2024 | [bibtex](./citations/nakayama2023provnerf.txt)
