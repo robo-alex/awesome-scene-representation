@@ -358,3 +358,5 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Diffusion Priors for Dynamic View Synthesis from Monocular Videos](https://arxiv.org/abs/2401.05583), Wang et al., Arxiv 2024
 - [InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes](https://mohamad-shahbazi.github.io/inserf/), Shahbazi et al., Arxiv 2024 | [bibtex](./citations/shahbazi2024inserf.txt)
 - [ProvNeRF: Modeling per Point Provenance in NeRFs as a Stochastic Process](https://provnerf.github.io/), Nakayama et al., Arxiv 2024 | [bibtex](./citations/nakayama2023provnerf.txt)
+- [Single-View 3D Human Digitalization with Large Reconstruction Models](https://arxiv.org/abs/2401.12175), Wang et al., Arxiv 2024
+- [Scaling Face Interaction Graph Networks to Real World Scenes](https://arxiv.org/abs/2401.11985), López-Guevara et al., Arxiv 2024 
