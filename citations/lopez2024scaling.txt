@@ -1,0 +1,6 @@
+@article{lopez2024scaling,
+  title={Scaling Face Interaction Graph Networks to Real World Scenes},
+  author={Lopez-Guevara, Tatiana and Rubanova, Yulia and Whitney, William F and Pfaff, Tobias and Stachenfeld, Kimberly and Allen, Kelsey R},
+  journal={arXiv preprint arXiv:2401.11985},
+  year={2024}
+}

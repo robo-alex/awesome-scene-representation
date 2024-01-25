@@ -1,0 +1,6 @@
+@article{wang2024diffusion,
+  title={Diffusion Priors for Dynamic View Synthesis from Monocular Videos},
+  author={Wang, Chaoyang and Zhuang, Peiye and Siarohin, Aliaksandr and Cao, Junli and Qian, Guocheng and Lee, Hsin-Ying and Tulyakov, Sergey},
+  journal={arXiv preprint arXiv:2401.05583},
+  year={2024}
+}
