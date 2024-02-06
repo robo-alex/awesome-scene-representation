@@ -360,3 +360,4 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [ProvNeRF: Modeling per Point Provenance in NeRFs as a Stochastic Process](https://provnerf.github.io/), Nakayama et al., Arxiv 2024 | [bibtex](./citations/nakayama2023provnerf.txt)
 - [Single-View 3D Human Digitalization with Large Reconstruction Models](https://arxiv.org/abs/2401.12175), Weng et al., Arxiv 2024 | [bibtex](./citations/weng2024single.txt)
 - [Scaling Face Interaction Graph Networks to Real World Scenes](https://arxiv.org/abs/2401.11985), López-Guevara et al., Arxiv 2024 | [bibtex](./citations/lopez2024scaling.txt)
+- [ReplaceAnything3D:Text-Guided 3D Scene Editing with Compositional Neural Radiance Fields](https://arxiv.org/abs/2401.17895), Bartrum et al., Arxiv 2024 | [bibtex](./citations/bartrum2024replaceanything3dtextguided.txt)
