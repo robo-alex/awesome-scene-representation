@@ -1,0 +1,6 @@
+@article{liao2024ov,
+  title={OV-NeRF: Open-vocabulary Neural Radiance Fields with Vision and Language Foundation Models for 3D Semantic Understanding},
+  author={Liao, Guibiao and Zhou, Kaichen and Bao, Zhenyu and Liu, Kanglin and Li, Qing},
+  journal={arXiv preprint arXiv:2402.04648},
+  year={2024}
+}

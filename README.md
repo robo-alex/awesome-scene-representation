@@ -361,3 +361,5 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Single-View 3D Human Digitalization with Large Reconstruction Models](https://arxiv.org/abs/2401.12175), Weng et al., Arxiv 2024 | [bibtex](./citations/weng2024single.txt)
 - [Scaling Face Interaction Graph Networks to Real World Scenes](https://arxiv.org/abs/2401.11985), López-Guevara et al., Arxiv 2024 | [bibtex](./citations/lopez2024scaling.txt)
 - [ReplaceAnything3D:Text-Guided 3D Scene Editing with Compositional Neural Radiance Fields](https://arxiv.org/abs/2401.17895), Bartrum et al., Arxiv 2024 | [bibtex](./citations/bartrum2024replaceanything3dtextguided.txt)
+- [Neural Rendering based Urban Scene Reconstruction for Autonomous Driving](https://arxiv.org/abs/2402.06826), Shen et al., Arxiv 2024
+- [OV-NeRF: Open-vocabulary Neural Radiance Fields with Vision and Language Foundation Models for 3D Semantic Understanding](https://arxiv.org/abs/2402.04648), Liao et al., Arxiv 2024 | [bibtex](./citations/liao2024ov.txt)
