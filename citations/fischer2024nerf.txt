@@ -1,0 +1,8 @@
+@misc{fischer2024nerf,
+  title={NeRF Analogies: Example-Based Visual Attribute Transfer for NeRFs},
+  author={Michael Fischer and Zhengqin Li and Thu Nguyen-Phuoc and Aljaz Bozic and Zhao Dong and Carl Marshall and Tobias Ritschel},
+  year={2024},
+  eprint={2402.08622},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV}
+}
