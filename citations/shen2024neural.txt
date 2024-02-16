@@ -1,0 +1,6 @@
+@article{shen2024neural,
+  title={Neural Rendering based Urban Scene Reconstruction for Autonomous Driving},
+  author={Shen, Shihao and Kerofsky, Louis and Kumar, Varun Ravi and Yogamani, Senthil},
+  journal={arXiv preprint arXiv:2402.06826},
+  year={2024}
+}
