@@ -1,0 +1,6 @@
+@article{zhou2024nerfect,
+  title={The NeRFect Match: Exploring NeRF Features for Visual Localization},
+  author={Zhou, Qunjie and Maximov, Maxim and Litany, Or and Leal-Taix{\'e}, Laura},
+  journal={arXiv preprint arXiv:2403.09577},
+  year={2024}
+}

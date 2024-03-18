@@ -1,0 +1,6 @@
+@article{zhang2024vosh,
+  title={Vosh: Voxel-Mesh Hybrid Representation for Real-Time View Synthesis},
+  author={Zhang, Chenhao and Zhou, Yongyang and Zhang, Lei},
+  journal={arXiv preprint arXiv:2403.06505},
+  year={2024}
+}

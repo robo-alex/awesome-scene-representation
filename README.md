@@ -364,3 +364,6 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Neural Rendering based Urban Scene Reconstruction for Autonomous Driving](https://arxiv.org/abs/2402.06826), Shen et al., Arxiv 2024 | [bibtex](./citations/shen2024neural.txt)
 - [OV-NeRF: Open-vocabulary Neural Radiance Fields with Vision and Language Foundation Models for 3D Semantic Understanding](https://arxiv.org/abs/2402.04648), Liao et al., Arxiv 2024 | [bibtex](./citations/liao2024ov.txt)
 - [NeRF Analogies: Example-Based Visual Attribute Transfer for NeRFs](https://mfischer-ucl.github.io/nerf_analogies/), Fischer et al., CVPR 2024 | [bibtex](./citations/fischer2024nerf.txt)
+- [Is Vanilla MLP in Neural Radiance Field Enough for Few-shot View Synthesis?](https://arxiv.org/abs/2403.06092), Zhu et al., CVPR 2024 | [bibtex](./citations/zhu2024vanilla.txt)
+- [Vosh: Voxel-Mesh Hybrid Representation for Real-Time View Synthesis](https://arxiv.org/abs/2403.06505), Zhang et al., Arxiv 2024 | [bibtex](./citations/zhang2024vosh.txt)
+- [The NeRFect Match: Exploring NeRF Features for Visual Localization](https://arxiv.org/abs/2403.09577), Zhou et al., Arxiv 2024 | [bibtex](./citations/zhou2024nerfect.txt)

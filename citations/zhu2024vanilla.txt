@@ -1,0 +1,6 @@
+@article{zhu2024vanilla,
+  title={Is Vanilla MLP in Neural Radiance Field Enough for Few-shot View Synthesis?},
+  author={Zhu, Hanxin and He, Tianyu and Li, Xin and Li, Bingchen and Chen, Zhibo},
+  journal={arXiv preprint arXiv:2403.06092},
+  year={2024}
+}
