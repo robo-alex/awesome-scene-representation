@@ -367,3 +367,5 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Is Vanilla MLP in Neural Radiance Field Enough for Few-shot View Synthesis?](https://arxiv.org/abs/2403.06092), Zhu et al., CVPR 2024 | [bibtex](./citations/zhu2024vanilla.txt)
 - [Vosh: Voxel-Mesh Hybrid Representation for Real-Time View Synthesis](https://arxiv.org/abs/2403.06505), Zhang et al., Arxiv 2024 | [bibtex](./citations/zhang2024vosh.txt)
 - [The NeRFect Match: Exploring NeRF Features for Visual Localization](https://arxiv.org/abs/2403.09577), Zhou et al., Arxiv 2024 | [bibtex](./citations/zhou2024nerfect.txt)
+- [CVT-xRF: Contrastive In-Voxel Transformer for 3D Consistent Radiance Fields from Sparse Inputs](https://zhongyingji.github.io/CVT-xRF/), Zhong et al., CVPR 2024 | [bibtex](./citations/zhong2024cvtxrf.txt)
+- [Entity-NeRF: Detecting and Removing Moving Entities in Urban Scenes](https://otonari726.github.io/entitynerf/), Otonari et al., CVPR 2024 | [bibtex](./citations/otonari2024entity.txt)

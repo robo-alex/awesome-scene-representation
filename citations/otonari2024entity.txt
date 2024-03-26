@@ -1,0 +1,6 @@
+@article{otonari2024entity,
+  author    = {Otonari, Takashi and Ikehata, Satoshi and Aizawa, Kiyoharu},
+  title     = {Entity-NeRF: Detecting and Removing Moving Entities in Urban Scenes},
+  journal   = {CVPR},
+  year      = {2024},
+}

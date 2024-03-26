@@ -1,0 +1,6 @@
+@inproceedings{zhong2024cvtxrf,
+    author={Yingji Zhong and Lanqing Hong and Zhenguo Li and Dan Xu},
+    title={CVT-xRF: Contrastive In-Voxel Transformer for 3D Consistent Radiance Fields from Sparse Inputs},
+    booktitle={CVPR},
+    year={2024}
+}
