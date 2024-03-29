@@ -369,3 +369,4 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [The NeRFect Match: Exploring NeRF Features for Visual Localization](https://arxiv.org/abs/2403.09577), Zhou et al., Arxiv 2024 | [bibtex](./citations/zhou2024nerfect.txt)
 - [CVT-xRF: Contrastive In-Voxel Transformer for 3D Consistent Radiance Fields from Sparse Inputs](https://zhongyingji.github.io/CVT-xRF/), Zhong et al., CVPR 2024 | [bibtex](./citations/zhong2024cvtxrf.txt)
 - [Entity-NeRF: Detecting and Removing Moving Entities in Urban Scenes](https://otonari726.github.io/entitynerf/), Otonari et al., CVPR 2024 | [bibtex](./citations/otonari2024entity.txt)
+- [Mesh2NeRF: Direct Mesh Supervision for Neural Radiance Field Representation and Generation](https://terencecyj.github.io/projects/Mesh2NeRF/), Chen et al., Arxiv 2024 | [bibtex](./citations/chen2024mesh2nerf.txt)

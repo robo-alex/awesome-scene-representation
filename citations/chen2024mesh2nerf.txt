@@ -1,0 +1,6 @@
+@article{chen2024mesh2nerf,
+        title={Mesh2NeRF: Direct Mesh Supervision for Neural Radiance Field Representation and Generation},
+        author={Chen, Yujin and Nie, Yinyu and Ummenhofer, Benjamin and Birkl, Reiner and Paulitsch, Michael and Müller, Matthias and Nie{\ss}ner, Matthias},
+        journal={arXiv preprint},
+        year={2024}
+      }
