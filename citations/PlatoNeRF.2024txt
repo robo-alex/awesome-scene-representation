@@ -1,0 +1,13 @@
+@article{PlatoNeRF,
+	author    = {Klinghoffer, Tzofi and
+		     Xiang, Xiaoyu and
+		     Somasundaram, Siddharth and
+		     Fan, Yuchen and 
+		     Richardt, Christian and
+		     Raskar, Ramesh and
+		     Ranjan, Rakesh},
+	title     = {{PlatoNeRF}: 3D Reconstruction in Plato's Cave via Single-View Two-Bounce Lidar},
+	booktitle = {arXiv preprint arXiv:2312.14239},
+	year      = {2023},
+	url       = {https://platonerf.github.io},
+}
