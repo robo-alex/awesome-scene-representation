@@ -1,0 +1,6 @@
+@article{rojas2024datenerf,
+  title={DATENeRF: Depth-Aware Text-based Editing of NeRFs},
+  author={Rojas, Sara and Philip, Julien and Zhang, Kai and Bi, Sai and Luan, Fujun and Ghanem, Bernard and Sunkavall, Kalyan},
+  journal={arXiv preprint arXiv:2404.04526},
+  year={2024}
+}
