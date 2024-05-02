@@ -1,0 +1,5 @@
+@InProceedings{cao2024lightplane,
+  author    = {Cao, Ang and  and Johnson, Justin and Vedaldi, Andrea and Novotny, David},
+  title     = {Lightplane: Highly-Scalable Components for Neural 3D Fields},
+  year      = {2024}
+}
