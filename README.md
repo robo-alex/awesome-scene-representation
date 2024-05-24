@@ -374,3 +374,4 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [NeRF-XL: Scaling NeRFs with Multiple GPUs](https://research.nvidia.com/labs/toronto-ai/nerfxl/), Li et al., Arxiv 2024 | [bibtex](./citations/li2024nerfxl.txt)
 - [HaLo-NeRF: Learning Geometry-Guided Semantics for Exploring Unconstrained Photo Collections](https://tau-vailab.github.io/HaLo-NeRF/), Dudai et al., Eurographics 2024 | [github](https://github.com/TAU-VAILab/HaLo-NeRF) | [bibtex](./citations/dudai2024halonerf.txt)
 - [Lightplane: Highly-Scalable Components for Neural 3D Fields](https://lightplane.github.io/), Cao et al., Arxiv 2024 | [github](https://github.com/facebookresearch/lightplane) | [bibtex](./citations/cao2024lightplane.txt)
+- [NeRF-Casting: Improved View-Dependent Appearance with Consistent Reflections](https://nerf-casting.github.io/) | Verbin et al., Arxiv 2024 | [bibtex](./citations/verbin2024nerfcasting.txt)
