@@ -1,0 +1,8 @@
+@misc{wang2024distillnerf,
+      title={DistillNeRF: Perceiving 3D Scenes from Single-Glance Images by Distilling Neural Fields and Foundation Model Features}, 
+      author={Letian Wang and Seung Wook Kim and Jiawei Yang and Cunjun Yu and Boris Ivanovic and Steven L. Waslander and Yue Wang and Sanja Fidler and Marco Pavone and Peter Karkus},
+      year={2024},
+      eprint={2406.12095},
+      archivePrefix={arXiv},
+      primaryClass={id='cs.CV' full_name='Computer Vision and Pattern Recognition' is_active=True alt_name=None in_archive='cs' is_general=False description='Covers image processing, computer vision, pattern recognition, and scene understanding. Roughly includes material in ACM Subject Classes I.2.10, I.4, and I.5.'}
+    }

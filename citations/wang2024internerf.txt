@@ -1,0 +1,6 @@
+@article{wang2024internerf,
+  title={InterNeRF: Scaling Radiance Fields via Parameter Interpolation},
+  author={Wang, Clinton and Hedman, Peter and Golland, Polina and Barron, Jonathan T and Duckworth, Daniel},
+  journal={arXiv preprint arXiv:2406.11737},
+  year={2024}
+}

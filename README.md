@@ -16,6 +16,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [SMERF: Streamable Memory Efficient Radiance Fields for Real-Time Large-Scene Exploration](https://smerf-3d.github.io/), Duckworth et al., Arxiv 2023 | [bibtex](./citations/duckworth2023smerf.txt)
 - [CamP: Camera Preconditioning for Neural Radiance Fields](https://camp-nerf.github.io/), Park et al., SIGGRAPH 2023 | [bibtex](./citations/park2023camp.txt)
 - [Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields](https://jonbarron.info/zipnerf/), Barron et al., ICCV 2023 | [github](https://github.com/jake-austin/zipnerf-nerfstudio) | [bibtex](./citations/zipnerf.txt)
+- [DistillNeRF: Perceiving 3D Scenes from Single-Glance Images by Distilling Neural Fields and Foundation Model Features](https://distillnerf.github.io/), Wang et al., CVPR 2024 | [bibtex](./citations/wang2024distillnerf.txt)
 - [NeRF in the Palm of Your Hand: Corrective Augmentation for Robotics via Novel-View Synthesis](https://bland.website/spartn/), Zhou et al., CVPR 2023 | [bibtex](./citations/spartn.txt)
 - [ZeroRF: Fast Sparse View 360° Reconstruction with Zero Pretraining](https://sarahweiii.github.io/zerorf/), Shi et al., Arxiv 2023 | [github](https://github.com/eliphatfs/zerorf)
 - [Factor Fields and Beyond](https://apchenstu.github.io/FactorFields/), Chen et al., Arxiv and SIGGRAPH 2023 | [github](https://github.com/autonomousvision/factor-fields)
@@ -376,3 +377,5 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Lightplane: Highly-Scalable Components for Neural 3D Fields](https://lightplane.github.io/), Cao et al., Arxiv 2024 | [github](https://github.com/facebookresearch/lightplane) | [bibtex](./citations/cao2024lightplane.txt)
 - [NeRF-Casting: Improved View-Dependent Appearance with Consistent Reflections](https://nerf-casting.github.io/) | Verbin et al., Arxiv 2024 | [bibtex](./citations/verbin2024nerfcasting.txt)
 - [OpenNeRF: OpenSet 3D Neural Scene Segmentation with Pixel-wise Features and Rendered Novel Views](https://opennerf.github.io/), Engelmann et al., ICLR 2024 | [github](https://github.com/opennerf/opennerf) | [bibtex](./citations/engelmann2024opennerf.txt)
+- [MIRReS: Multi-bounce Inverse Rendering using Reservoir Sampling](https://brabbitdousha.github.io/MIRReS/), Dai et al., Arxiv 2024 | [github](https://github.com/brabbitdousha/MIRReS) | [bibtex](./citations/dai2024mirres.txt)
+- [InterNeRF: Scaling Radiance Fields via Parameter Interpolation](https://arxiv.org/abs/2406.11737), Wang et al., Arxiv 2024 | [bibtex](./citations/wang2024internerf.txt)
