@@ -1,0 +1,7 @@
+@article{qin2024crowd,
+  title={Crowd-Sourced NeRF: Collecting Data From Production Vehicles for 3D Street View Reconstruction},
+  author={Qin, Tong and Li, Changze and Ye, Haoyang and Wan, Shaowei and Li, Minzhen and Liu, Hongwei and Yang, Ming},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  year={2024},
+  publisher={IEEE}
+}

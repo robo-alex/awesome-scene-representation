@@ -2,7 +2,6 @@
 
 A curated list of awesome scene representation(NeRFs) papers, code, and resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
 
-- [NeRF-MAE: Masked AutoEncoders for Self-Supervised 3D Representation Learning for Neural Radiance Fields](https://nerf-mae.github.io/), Irshad et al., ECCV 2024 | [github](https://github.com/zubair-irshad/NeRF-MAE) | [bibtex](./citations/nerf-mae.txt)
 - [Nerfstudio: A Modular Framework for Neural Radiance Field Development](https://docs.nerf.studio/), Tancik et al., SIGGRAPH 2023 | [github](https://github.com/nerfstudio-project/nerfstudio/) | [bibtex](./citations/nerfstudio.txt)
 - [NerfAcc: A General NeRF Acceleration Toolbox](https://www.nerfacc.com/en/latest/), Li et al., Arxiv 2023 | [github](https://github.com/KAIR-BAIR/nerfacc) | [bibtex](./citations/li2023nerfacc.txt)
 - [NeRFs: The Search for the Best 3D Representation](https://arxiv.org/abs/2308.02751), Ramamoorthi et al., Arxiv 2023 | [bibtex](./citations/ramamoorthi2023nerfs.txt)
@@ -380,3 +379,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [OpenNeRF: OpenSet 3D Neural Scene Segmentation with Pixel-wise Features and Rendered Novel Views](https://opennerf.github.io/), Engelmann et al., ICLR 2024 | [github](https://github.com/opennerf/opennerf) | [bibtex](./citations/engelmann2024opennerf.txt)
 - [MIRReS: Multi-bounce Inverse Rendering using Reservoir Sampling](https://brabbitdousha.github.io/MIRReS/), Dai et al., Arxiv 2024 | [github](https://github.com/brabbitdousha/MIRReS) | [bibtex](./citations/dai2024mirres.txt)
 - [InterNeRF: Scaling Radiance Fields via Parameter Interpolation](https://arxiv.org/abs/2406.11737), Wang et al., Arxiv 2024 | [bibtex](./citations/wang2024internerf.txt)
+- [Style-NeRF2NeRF: 3D Style Transfer from Style-Aligned Multi-View Images](https://haruolabs.github.io/style-n2n/),　Fujiwara　et al., Arxiv 2024 | [bibtex](./citations/fujiwara2024style.txt)
+- [Relighting Scenes with Object Insertions in Neural Radiance Fields](https://arxiv.org/abs/2406.14806), Zhu et al., Arxiv 2024 | [bibtex](./citations/zhu2024relighting.txt)
+- [Crowd-Sourced NeRF: Collecting Data from Production Vehicles for 3D Street View Reconstruction](https://arxiv.org/abs/2406.16289), Qin et al., Arxiv 2024 | [bibtex](./citations/qin2024crowd.txt)
+- [NeRF-MAE: Masked AutoEncoders for Self-Supervised 3D Representation Learning for Neural Radiance Fields](https://nerf-mae.github.io/), Irshad et al., ECCV 2024 | [github](https://github.com/zubair-irshad/NeRF-MAE) | [bibtex](./citations/nerf-mae.txt)

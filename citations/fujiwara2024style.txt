@@ -1,0 +1,6 @@
+@article{fujiwara2024style,
+  title={Style-NeRF2NeRF: 3D Style Transfer From Style-Aligned Multi-View Images},
+  author={Fujiwara, Haruo and Mukuta, Yusuke and Harada, Tatsuya},
+  journal={arXiv preprint arXiv:2406.13393},
+  year={2024}
+}

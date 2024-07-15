@@ -1,0 +1,6 @@
+@article{zhu2024relighting,
+  title={Relighting Scenes with Object Insertions in Neural Radiance Fields},
+  author={Zhu, Xuening and Yi, Renjiao and Wen, Xin and Zhu, Chenyang and Xu, Kai},
+  journal={arXiv preprint arXiv:2406.14806},
+  year={2024}
+}
