@@ -382,4 +382,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Style-NeRF2NeRF: 3D Style Transfer from Style-Aligned Multi-View Images](https://haruolabs.github.io/style-n2n/),　Fujiwara　et al., Arxiv 2024 | [bibtex](./citations/fujiwara2024style.txt)
 - [Relighting Scenes with Object Insertions in Neural Radiance Fields](https://arxiv.org/abs/2406.14806), Zhu et al., Arxiv 2024 | [bibtex](./citations/zhu2024relighting.txt)
 - [Crowd-Sourced NeRF: Collecting Data from Production Vehicles for 3D Street View Reconstruction](https://arxiv.org/abs/2406.16289), Qin et al., Arxiv 2024 | [bibtex](./citations/qin2024crowd.txt)
+- [RS-NeRF: Neural Radiance Fields from Rolling Shutter Images](https://arxiv.org/abs/2407.10267), Niu et al., ECCV 2024
+- [Boost Your NeRF: A Model-Agnostic Mixture of Experts Framework for High Quality and Efficient Rendering](https://arxiv.org/abs/2407.10389), Sario et al., Arxiv 2024
+- [1-Lipschitz Neural Distance Fields](https://arxiv.org/abs/2407.09505), Coiffier et al., Arxiv 2024
 - [NeRF-MAE: Masked AutoEncoders for Self-Supervised 3D Representation Learning for Neural Radiance Fields](https://nerf-mae.github.io/), Irshad et al., ECCV 2024 | [github](https://github.com/zubair-irshad/NeRF-MAE) | [bibtex](./citations/nerf-mae.txt)
