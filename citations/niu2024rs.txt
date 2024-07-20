@@ -1,0 +1,6 @@
+@article{niu2024rs,
+  title={RS-NeRF: Neural Radiance Fields from Rolling Shutter Images},
+  author={Niu, Muyao and Chen, Tong and Zhan, Yifan and Li, Zhuoxiao and Ji, Xiang and Zheng, Yinqiang},
+  journal={ECCV},
+  year={2024}
+}

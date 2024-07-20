@@ -1,0 +1,6 @@
+@article{di2024boost,
+  title={Boost Your NeRF: A Model-Agnostic Mixture of Experts Framework for High Quality and Efficient Rendering},
+  author={Di Sario, Francesco and Renzulli, Riccardo and Tartaglione, Enzo and Grangetto, Marco},
+  journal={arXiv preprint arXiv:2407.10389},
+  year={2024}
+}

@@ -1,0 +1,6 @@
+@article{coiffier20241,
+  title={1-Lipschitz Neural Distance Fields},
+  author={Coiffier, Guillaume and B{\'e}thune, Louis},
+  journal={arXiv preprint arXiv:2407.09505},
+  year={2024}
+}
