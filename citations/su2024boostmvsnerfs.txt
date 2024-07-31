@@ -1,0 +1,8 @@
+@inproceedings{su2024boostmvsnerfs,
+    title={BoostMVSNeRFs: Boosting MVS-based NeRFs to Generalizable View 
+            Synthesis in Large-scale Scenes},
+    author={Su, Chih-Hai and Hu, Chih-Yao and Tsai, Shr-Ruei and 
+            Lee, Jie-Ying and Lin, Chin-Yang and Liu, Yu-Lun},
+    booktitle={SIGGRAPH 2024 Conference Papers},
+    year={2024}
+    }

@@ -1,0 +1,6 @@
+@article{zhan2024kfd,
+  title={KFD-NeRF: Rethinking Dynamic NeRF with Kalman Filter},
+  author={Zhan, Yifan and Li, Zhuoxiao and Niu, Muyao and Zhong, Zhihang and Nobuhara, Shohei and Nishino, Ko and Zheng, Yinqiang},
+  journal={ECCV},
+  year={2024}
+}

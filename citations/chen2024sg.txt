@@ -1,0 +1,6 @@
+@article{chen2024sg,
+  title={SG-NeRF: Neural Surface Reconstruction with Scene Graph Optimization},
+  author={Chen, Yiyang and Dong, Siyan and Wang, Xulong and Cai, Lulu and Zheng, Youyi and Yang, Yanchao},
+  journal={ECCV},
+  year={2024}
+}

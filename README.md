@@ -386,5 +386,6 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Boost Your NeRF: A Model-Agnostic Mixture of Experts Framework for High Quality and Efficient Rendering](https://arxiv.org/abs/2407.10389), Sario et al., Arxiv 2024 | [bibtex](./citations/di2024boost.txt)
 - [1-Lipschitz Neural Distance Fields](https://arxiv.org/abs/2407.09505), Coiffier et al., Arxiv 2024 | [bibtex](./citations/coiffier20241.txt)
 - [NeRF-MAE: Masked AutoEncoders for Self-Supervised 3D Representation Learning for Neural Radiance Fields](https://nerf-mae.github.io/), Irshad et al., ECCV 2024 | [github](https://github.com/zubair-irshad/NeRF-MAE) | [bibtex](./citations/nerf-mae.txt)
-- [KFD-NeRF: Rethinking Dynamic NeRF with Kalman Filter](https://arxiv.org/abs/2407.13185), Zhan et al., Arxiv 2024
-- [SG-NeRF: Neural Surface Reconstruction with Scene Graph Optimization](https://arxiv.org/abs/2407.12667), Chen et al., ECCV 2024 | [github](https://github.com/Iris-cyy/SG-NeRF)
+- [KFD-NeRF: Rethinking Dynamic NeRF with Kalman Filter](https://arxiv.org/abs/2407.13185), Zhan et al., ECCV 2024 | [bibtex](./citations/zhan2024kfd.txt)
+- [SG-NeRF: Neural Surface Reconstruction with Scene Graph Optimization](https://arxiv.org/abs/2407.12667), Chen et al., ECCV 2024 | [github](https://github.com/Iris-cyy/SG-NeRF) | [bibtex](./citations/chen2024sg.txt)
+- [BoostMVSNeRFs: Boosting MVS-based NeRFs to Generalizable View Synthesis in Large-scale Scenes](https://su-terry.github.io/BoostMVSNeRFs/), Su et al., SIGGRAPH 2024 | [github](https://github.com/Su-Terry/BoostMVSNeRFs) | [bibtex](./citations/su2024boostmvsnerfs.txt)
