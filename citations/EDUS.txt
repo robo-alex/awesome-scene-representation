@@ -1,0 +1,6 @@
+@inproceedings{EDUS,
+      author = {Sheng Miao and Jiaxin Huang and Dongfeng Bai and Weichao Qiu and Bingbing Liu and Andreas Geiger and Yiyi Liao},
+      title = {EDUS: Efficient Depth-Guided Urban View Synthesis},
+      booktitle = {European Conference on Computer Vision (ECCV)},
+      year = {2024}
+     }
