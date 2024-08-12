@@ -5,6 +5,7 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [Nerfstudio: A Modular Framework for Neural Radiance Field Development](https://docs.nerf.studio/), Tancik et al., SIGGRAPH 2023 | [github](https://github.com/nerfstudio-project/nerfstudio/) | [bibtex](./citations/nerfstudio.txt)
 - [NerfAcc: A General NeRF Acceleration Toolbox](https://www.nerfacc.com/en/latest/), Li et al., Arxiv 2023 | [github](https://github.com/KAIR-BAIR/nerfacc) | [bibtex](./citations/li2023nerfacc.txt)
 - [NeRFs: The Search for the Best 3D Representation](https://arxiv.org/abs/2308.02751), Ramamoorthi et al., Arxiv 2023 | [bibtex](./citations/ramamoorthi2023nerfs.txt)
+- [Sampling for View Synthesis: From Local Light Field Fusion to Neural Radiance Fields and Beyond](https://arxiv.org/abs/2408.04586), Ramamoorthi et al., Arxiv 2024 | [bibtex](./citations/ramamoorthi2024sampling.txt)
 - [Objaverse-XL: A Universe of 10M+ 3D Objects](https://objaverse.allenai.org/objaverse-xl-paper.pdf), Deitke et al., Arxiv 2023 | [bibtex](./citations/deitke2023objaverse.txt)
 - [SDFStudio: A Unified Framework for Surface Reconstruction](https://autonomousvision.github.io/sdfstudio/), Yu et al., Arxiv 2023 | [github](https://github.com/autonomousvision/sdfstudio) | [bibtex](./citations/yu2022sdfstudio.txt)
 - [LERF: Language Embedded Radiance Fields](https://www.lerf.io/), Kerr et al., ICCV 2023 | [github](https://github.com/kerrj/lerf) | [bibtex](./citations/lerf.txt)

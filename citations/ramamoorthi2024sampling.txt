@@ -1,0 +1,6 @@
+@article{ramamoorthi2024sampling,
+  title={Sampling for View Synthesis: From Local Light Field Fusion to Neural Radiance Fields and Beyond},
+  author={Ramamoorthi, Ravi},
+  journal={arXiv preprint arXiv:2408.04586},
+  year={2024}
+}
