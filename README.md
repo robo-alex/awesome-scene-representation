@@ -2,6 +2,8 @@
 
 A curated list of awesome scene representation(NeRFs) papers, code, and resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
 
+[A list of awesome Gaussian Splatting papers, code, and resources](https://github.com/MrNeRF/awesome-3D-gaussian-splatting).
+
 - [Nerfstudio: A Modular Framework for Neural Radiance Field Development](https://docs.nerf.studio/), Tancik et al., SIGGRAPH 2023 | [github](https://github.com/nerfstudio-project/nerfstudio/) | [bibtex](./citations/nerfstudio.txt)
 - [NerfAcc: A General NeRF Acceleration Toolbox](https://www.nerfacc.com/en/latest/), Li et al., Arxiv 2023 | [github](https://github.com/KAIR-BAIR/nerfacc) | [bibtex](./citations/li2023nerfacc.txt)
 - [NeRFs: The Search for the Best 3D Representation](https://arxiv.org/abs/2308.02751), Ramamoorthi et al., Arxiv 2023 | [bibtex](./citations/ramamoorthi2023nerfs.txt)
