@@ -1,0 +1,6 @@
+@article{tao2024activenerf,
+  title={ActiveNeRF: Learning Accurate 3D Geometry by Active Pattern Projection},
+  author={Tao, Jianyu and Hu, Changping and Yang, Edward and Xu, Jing and Chen, Rui},
+  journal={arXiv preprint arXiv:2408.06592},
+  year={2024}
+}

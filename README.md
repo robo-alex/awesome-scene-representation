@@ -393,4 +393,5 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [SG-NeRF: Neural Surface Reconstruction with Scene Graph Optimization](https://arxiv.org/abs/2407.12667), Chen et al., ECCV 2024 | [github](https://github.com/Iris-cyy/SG-NeRF) | [bibtex](./citations/chen2024sg.txt)
 - [BoostMVSNeRFs: Boosting MVS-based NeRFs to Generalizable View Synthesis in Large-scale Scenes](https://su-terry.github.io/BoostMVSNeRFs/), Su et al., SIGGRAPH 2024 | [github](https://github.com/Su-Terry/BoostMVSNeRFs) | [bibtex](./citations/su2024boostmvsnerfs.txt)
 - [EDUS: Efficient Depth-Guided Urban View Synthesis](https://xdimlab.github.io/EDUS/), Miao et al., ECCV 2024 | [github](https://github.com/Miaosheng1/EDUS) | [bibtex](./citations/EDUS.txt)
-- [ActiveNeRF: Learning Accurate 3D Geometry by Active Pattern Projection](https://arxiv.org/abs/2408.06592), Tao et al., Arxiv 2024
+- [ActiveNeRF: Learning Accurate 3D Geometry by Active Pattern Projection](https://arxiv.org/abs/2408.06592), Tao et al., Arxiv 2024 | [bibtex](./citations/tao2024activenerf.txt)
+- [VF-NeRF: Learning Neural Vector Fields for Indoor Scene Reconstruction](https://arxiv.org/abs/2408.08766), Puigjaner et al., Arxiv 2024
