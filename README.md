@@ -395,3 +395,4 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [EDUS: Efficient Depth-Guided Urban View Synthesis](https://xdimlab.github.io/EDUS/), Miao et al., ECCV 2024 | [github](https://github.com/Miaosheng1/EDUS) | [bibtex](./citations/EDUS.txt)
 - [ActiveNeRF: Learning Accurate 3D Geometry by Active Pattern Projection](https://arxiv.org/abs/2408.06592), Tao et al., Arxiv 2024 | [bibtex](./citations/tao2024activenerf.txt)
 - [VF-NeRF: Learning Neural Vector Fields for Indoor Scene Reconstruction](https://arxiv.org/abs/2408.08766), Puigjaner et al., Arxiv 2024
+- [SSNeRF: Sparse View Semi-supervised Neural Radiance Fields with Augmentation](https://arxiv.org/abs/2408.09144), Cao et al., Arxiv 2024
