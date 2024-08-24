@@ -1,0 +1,6 @@
+@article{mai2024tracknerf,
+  title={TrackNeRF: Bundle Adjusting NeRF from Sparse and Noisy Views via Feature Tracks},
+  author={Mai, Jinjie and Zhu, Wenxuan and Rojas, Sara and Zarzar, Jesus and Hamdi, Abdullah and Qian, Guocheng and Li, Bing and Giancola, Silvio and Ghanem, Bernard},
+  journal={ECCV},
+  year={2024}
+}

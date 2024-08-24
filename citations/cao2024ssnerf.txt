@@ -1,0 +1,6 @@
+@article{cao2024ssnerf,
+  title={SSNeRF: Sparse View Semi-supervised Neural Radiance Fields with Augmentation},
+  author={Cao, Xiao and Lin, Beibei and Wang, Bo and Huang, Zhiyong and Tan, Robby T},
+  journal={arXiv preprint arXiv:2408.09144},
+  year={2024}
+}

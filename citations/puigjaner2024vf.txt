@@ -1,0 +1,6 @@
+@article{puigjaner2024vf,
+  title={VF-NeRF: Learning Neural Vector Fields for Indoor Scene Reconstruction},
+  author={Puigjaner, Albert Gassol and Rella, Edoardo Mello and Sandstr{\"o}m, Erik and Chhatkuli, Ajad and Van Gool, Luc},
+  journal={arXiv preprint arXiv:2408.08766},
+  year={2024}
+}
