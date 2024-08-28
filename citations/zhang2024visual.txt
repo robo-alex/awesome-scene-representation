@@ -1,0 +1,6 @@
+@article{zhang2024visual,
+  title={Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations},
+  author={Zhang, Lintong and Tao, Yifu and Lin, Jiarong and Zhang, Fu and Fallon, Maurice},
+  journal={arXiv preprint arXiv:2408.11966},
+  year={2024}
+}

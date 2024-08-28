@@ -397,4 +397,5 @@ A curated list of awesome scene representation(NeRFs) papers, code, and resource
 - [VF-NeRF: Learning Neural Vector Fields for Indoor Scene Reconstruction](https://arxiv.org/abs/2408.08766), Puigjaner et al., Arxiv 2024 | [bibtex](./citations/puigjaner2024vf.txt)
 - [SSNeRF: Sparse View Semi-supervised Neural Radiance Fields with Augmentation](https://arxiv.org/abs/2408.09144), Cao et al., Arxiv 2024 | [bibtex](./citations/cao2024ssnerf.txt)
 - [TrackNeRF: Bundle Adjusting NeRF from Sparse and Noisy Views via Feature Tracks](https://tracknerf.github.io/), Mai et al., ECCV 2024 | [github](https://github.com/Wayne-Mai/traf_public) | [bibtex](./citations/mai2024tracknerf.txt)
-- [Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations](https://arxiv.org/abs/2408.11966), Zhang et al., Arxiv 2024
+- [Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations](https://arxiv.org/abs/2408.11966), Zhang et al., Arxiv 2024 | [bibtex](./citations/zhang2024visual.txt)
+- [GeoTransfer : Generalizable Few-Shot Multi-View Reconstruction via Transfer Learning](https://arxiv.org/abs/2408.14724), Jena et al., Arxiv 2024
