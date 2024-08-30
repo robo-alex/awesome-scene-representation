@@ -1,0 +1,6 @@
+@article{jena2024geotransfer,
+  title={GeoTransfer: Generalizable Few-Shot Multi-View Reconstruction via Transfer Learning},
+  author={Jena, Shubhendu and Multon, Franck and Boukhayma, Adnane},
+  journal={arXiv preprint arXiv:2408.14724},
+  year={2024}
+}
