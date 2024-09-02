@@ -1,0 +1,6 @@
+@article{raj2024spurfies,
+  title={Spurfies: Sparse Surface Reconstruction using Local Geometry Priors},
+  author={Raj, Kevin and Wewer, Christopher and Yunus, Raza and Ilg, Eddy and Lenssen, Jan Eric},
+  journal={arXiv preprint arXiv:2408.16544},
+  year={2024}
+}
